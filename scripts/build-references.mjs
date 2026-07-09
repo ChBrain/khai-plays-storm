@@ -20,6 +20,11 @@ const GENRE_LABEL = {
 };
 const ORDER = ["novelle", "maerchen", "kleine_prosa", "gedicht"];
 
+// Escape markdown table-cell metacharacters in one pass. The character class
+// covers the backslash itself, so an input backslash is escaped too (not left
+// to be mistaken for an escape we introduce) -- complete, order-independent.
+const escapeCell = (s) => String(s).replace(/[\\|]/g, (c) => `\\${c}`);
+
 /** Pure render: register in, markdown out. Not prettier-formatted (the caller
  *  formats), so the drift test can format the same way and compare. */
 export function render(reg) {
@@ -68,10 +73,7 @@ export function render(reg) {
     sections.push("| TS | Work | Year | Status |", "| -- | ---- | ---- | ------ |");
     for (const w of rows) {
       const year = w.year ?? "—";
-      const title = (w.doubtful ? `${w.canonical_title} †` : w.canonical_title).replace(
-        /\|/g,
-        "\\|",
-      );
+      const title = escapeCell(w.doubtful ? `${w.canonical_title} †` : w.canonical_title);
       sections.push(`| ${w.id} | ${title} | ${year} | ${w.status} |`);
     }
     sections.push("");
