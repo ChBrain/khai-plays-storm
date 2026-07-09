@@ -47,7 +47,7 @@ export function render(reg) {
     "state kept past its time, the dike is a control barrier against the sea, and the",
     "past is a signal that will not decay.",
     "",
-    "## The Register",
+    "## Origin",
     "",
     "The complete Storm canon carries a stable **TS** identifier, staged or not, in",
     "genre hundreds-blocks anchored to the standard critical edition (Laage &",

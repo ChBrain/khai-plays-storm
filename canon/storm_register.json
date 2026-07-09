@@ -955,7 +955,7 @@
     },
     {
       "id": "TS-401",
-      "canonical_title": "[poem: Erstdruck 1843, title stripped in zeno.org rendering, co-authored strophes by Mommsen]",
+      "canonical_title": "[ohne Titel]",
       "genre": "gedicht",
       "year": 1843,
       "date_status": "verified",
@@ -967,7 +967,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Multiple poems in 'Zweites Buch. Ältere Gedichte' have Erstdruck 1843 but titles stripped in zeno.org rendering. Some have last strophes by Theodor Mommsen. Full titles require direct access to 1852 Schwers edition or critical edition."
+      "note": "Multiple poems in 'Zweites Buch. Ältere Gedichte' have Erstdruck 1843 but titles stripped in zeno.org rendering. Some have last strophes by Theodor Mommsen. Full titles require direct access to 1852 Schwers edition or critical edition. | original catalogue entry: [poem: Erstdruck 1843, title stripped in zeno.org rendering, co-authored strophes by Mommsen]"
     },
     {
       "id": "TS-402",
