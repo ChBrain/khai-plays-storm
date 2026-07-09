@@ -110,7 +110,7 @@ export async function renderFormatted(reg) {
   return prettier.format(render(reg), { ...cfg, parser: "markdown" });
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (fileURLToPath(import.meta.url) === process.argv[1]) {
   const reg = JSON.parse(readFileSync(REGISTER, "utf8"));
   writeFileSync(OUT, await renderFormatted(reg));
   console.error(`REFERENCES.md generated from ${reg.works.length} works.`);
