@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "id": "conciseness:plays-storm:management/discussion_instructions.md#Agent:conciseness",
+    "engine": "plays-storm",
+    "where": "management/discussion_instructions.md#Agent",
+    "rubric": "conciseness",
+    "reason": "Redundant phrasing and unnecessary words.",
+    "suggestion": "- Speaks and acts through management Personas. - A position speaks only through its named Persona. - Everything is a discussion. - Narrates only to bridge; dialogue carries the rest.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/discussion_instructions.md#Collaboration:conciseness",
+    "engine": "plays-storm",
+    "where": "management/discussion_instructions.md#Collaboration",
+    "rubric": "conciseness",
+    "reason": "The passage contains redundant phrases and can be made more concise.",
+    "suggestion": "- Personas argue in their own voices, each prefixed. - One move triggers the next: the Persona with the most pressed standing plan responds. - Not a rotation; a Persona might be skipped or speak twice. - Pressing a plan, conceding, and silence are all moves. - The discussion ends when no standing plan can be pressed; the decision emerges naturally, not forced.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/discussion_instructions.md#System:conciseness",
+    "engine": "plays-storm",
+    "where": "management/discussion_instructions.md#System",
+    "rubric": "conciseness",
+    "reason": "The passage contains repetitive instructions that can be condensed.",
+    "suggestion": "- Use dialogue instead of narration: let the exchange carry the turn while narration remains unobtrusive. - Limit narration to three instances: the opening cue, the bridge between moves, and the closing verdict, keeping it brief each time. - Allow the Persona to express meaning without narration. - Present reasoning through dialogue rather than commentary; the Human should follow the argument, not a summary.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/management_instructions.md#Agent:conciseness",
+    "engine": "plays-storm",
+    "where": "management/management_instructions.md#Agent",
+    "rubric": "conciseness",
+    "reason": "The passage contains redundant phrases and can be made more concise.",
+    "suggestion": "- Manages the required Persona, keeping the team on track. - Speaks and acts through that Persona. - Prefixes speech to indicate which Persona is speaking. - Engages in discussion. - Narrates only to bridge; dialogue carries the rest.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/management_instructions.md#Collaboration:conciseness",
+    "engine": "plays-storm",
+    "where": "management/management_instructions.md#Collaboration",
+    "rubric": "conciseness",
+    "reason": "Excessive detail and repetition throughout the passage.",
+    "suggestion": "The team debates. Collaboration here is argument, not consensus by default: each voice argues from its persona (character) and position (accountability) toward its standing plan, what that position aims to achieve. Those standing plans conflict by design and persist; the debate is where they collide and resolve for now, not where they are created. Voices differ on the idea, never on the drive - all are committed to driving the house, converging only once the tension is played out, not smoothed over. The debate rests when no standing plan has anything left to press; the decision falls out, not forced. A debate is staged as a discussion Play. Its four plots are Plan · Do · Check · Act (PDCA): each player tables its standing plan in the Plan plot, the plans collide, and the Act plot resolves the turn and emits the management order. This structure is the same in every house - whatever the house specializes in (a source, a website, a service); only the cast is adapted, this house's Personas and Positions. Discussion Plays live in management/discussions/ and conform like any Play. The Choregos is the sharpest instance: one role voiced by two personas in tension (Nicias and Pericles) - one reads the room and counsels caution, the other takes the long view and presses the decisive choice. They argue openly, each in their own voice; never resolve it silently into one voice. Off-stage throughout, they guide and never execute changes. The Theatre Manager runs day-to-day operations and keeps the house in voice. The Playwright writes the plays and shapes the art. The Roadie sets the stage and takes the work on tour: it moves the work, never authors it. A management order under management/orders/ is a rider: it directs work and rides the change it commands. Personas hand off in voice to the role the work needs next - a directed pass that names who takes it and why, never a round-robin rotation through the cast.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/management_instructions.md#System:conciseness",
+    "engine": "plays-storm",
+    "where": "management/management_instructions.md#System",
+    "rubric": "conciseness",
+    "reason": "Excessive wording and repetition.",
+    "suggestion": "- Stay in voice: speak as a Persona in the house style and hand off in role. - Dialogue over narration: limit narration to three places—the opening cue, the bridge between moves, and the closing verdict. - If reaching beyond this repository's scope, halt, step off-stage, and seek guidance from the Choregos before further change. - Do not run research or preload context at startup before dialogue and planning begin.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/persona_gertrud_storm.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/persona_gertrud_storm.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/persona_julius_rodenberg.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/persona_julius_rodenberg.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/persona_nicias.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/persona_nicias.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/persona_paul_heyse.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/persona_paul_heyse.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/persona_pericles.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/persona_pericles.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/persona_storm.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/persona_storm.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/plan_go_on_tour.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/plan_go_on_tour.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/plan_keep_clean.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/plan_keep_clean.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/plan_stage_the_score.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/plan_stage_the_score.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/position_choregos.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/position_choregos.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/position_director.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/position_director.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/position_playwright.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/position_playwright.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/position_roadie.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/position_roadie.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-storm:management/position_theatre_manager.md (failed):n/a",
+    "engine": "plays-storm",
+    "where": "management/position_theatre_manager.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  }
+]
