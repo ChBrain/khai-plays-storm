@@ -5,14 +5,22 @@
   "type": "object",
   "required": ["namespace", "blocks", "works"],
   "properties": {
-    "$schema": { "type": "string" },
-    "namespace": { "const": "TS" },
-    "edition_anchor": { "type": "string" },
+    "$schema": {
+      "type": "string"
+    },
+    "namespace": {
+      "const": "TS"
+    },
+    "edition_anchor": {
+      "type": "string"
+    },
     "blocks": {
       "type": "object",
       "description": "Genre hundreds-blocks; the leading digit encodes genre.",
       "required": ["novelle", "maerchen", "kleine_prosa", "gedicht"],
-      "additionalProperties": { "type": "string" }
+      "additionalProperties": {
+        "type": "string"
+      }
     },
     "works": {
       "type": "array",
@@ -34,19 +42,29 @@
             "pattern": "^TS-\\d{3}$",
             "description": "Permanent handle. Never renumber; new works append within their block."
           },
-          "canonical_title": { "type": "string" },
-          "genre": { "enum": ["novelle", "maerchen", "kleine_prosa", "gedicht"] },
+          "canonical_title": {
+            "type": "string"
+          },
+          "genre": {
+            "enum": ["novelle", "maerchen", "kleine_prosa", "gedicht"]
+          },
           "year": {
             "type": ["integer", "null"],
-            "description": "First-publication year; null when unverified."
+            "description": "First-publication (Erstdruck) year; for a piece unpublished in the author's lifetime, the year of composition (Entstehung), noted in `note`. Null when unverified."
           },
-          "date_status": { "enum": ["verified", "unverified"] },
-          "first_venue": { "type": ["string", "null"] },
+          "date_status": {
+            "enum": ["verified", "unverified"]
+          },
+          "first_venue": {
+            "type": ["string", "null"]
+          },
           "incipit": {
             "type": ["string", "null"],
             "description": "First line (poems); used when the title is generic."
           },
-          "cycle": { "type": ["string", "null"] },
+          "cycle": {
+            "type": ["string", "null"]
+          },
           "embedded_in": {
             "type": ["string", "null"],
             "description": "Host work if the poem is embedded (e.g. a song inside a Novelle)."
@@ -68,7 +86,9 @@
             "type": ["string", "null"],
             "description": "khai play slug of the staged production, or null. The crosswalk to registry.json."
           },
-          "note": { "type": "string" }
+          "note": {
+            "type": "string"
+          }
         },
         "additionalProperties": false
       }

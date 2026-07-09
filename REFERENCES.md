@@ -23,9 +23,9 @@ Lohmeier, _Sämtliche Werke in vier Bänden_, DKV 1987–88). The number is a
 permanent handle; genre, year, and edition band live in the record. See
 `canon/README.md` for the scheme and the citation/IP posture.
 
-- **225** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 167 Gedichte)
-- **0** staged · **225** planned
-- **65** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
+- **224** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 166 Gedichte)
+- **0** staged · **224** planned
+- **0** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
 
 ### Novellen (`TS-001–099`)
 
@@ -81,15 +81,15 @@ permanent handle; genre, year, and edition band live in the record. See
 
 ### Märchen (`TS-200–299`)
 
-| TS     | Work                               | Year | Status  |
-| ------ | ---------------------------------- | ---- | ------- |
-| TS-200 | Hans Bär †                         | 1837 | planned |
-| TS-201 | Der kleine Häwelmann               | 1849 | planned |
-| TS-202 | Hinzelmeier                        | 1850 | planned |
-| TS-203 | Bulemanns Haus                     | 1864 | planned |
-| TS-204 | Die Regentrude                     | 1864 | planned |
-| TS-205 | Der Spiegel des Cyprianus          | 1865 | planned |
-| TS-206 | Märchen von den drei Spinnfrauen † | —    | planned |
+| TS     | Work                             | Year | Status  |
+| ------ | -------------------------------- | ---- | ------- |
+| TS-200 | Hans Bär †                       | 1837 | planned |
+| TS-201 | Der kleine Häwelmann             | 1849 | planned |
+| TS-202 | Hinzelmeier                      | 1850 | planned |
+| TS-203 | Bulemanns Haus                   | 1864 | planned |
+| TS-204 | Die Regentrude                   | 1864 | planned |
+| TS-205 | Der Spiegel des Cyprianus        | 1865 | planned |
+| TS-206 | Märchen von den drei Spinnfrauen | 1846 | planned |
 
 ### Kleine Prosa (`TS-300–399`)
 
@@ -98,7 +98,7 @@ permanent handle; genre, year, and edition band live in the record. See
 | TS-300 | Für meine Söhne †                   | 1854 | planned |
 | TS-301 | Zwei Kuchenesser der alten Zeit     | 1873 | planned |
 | TS-302 | Meine Erinnerungen an Eduard Mörike | 1876 | planned |
-| TS-303 | Von heut und ehedem †               | —    | planned |
+| TS-303 | Von heut und ehedem                 | 1874 | planned |
 
 ### Gedichte (`TS-400–699`)
 
@@ -208,69 +208,68 @@ permanent handle; genre, year, and edition band live in the record. See
 | TS-501 | [Abschied: Erstdruck 1885] †                    | 1885 | planned |
 | TS-502 | In schwerer Krankheit                           | 1885 | planned |
 | TS-503 | Spruch des Alters                               | 1885 | planned |
-| TS-504 | »Ein grünes Blatt« †                            | —    | planned |
-| TS-505 | [Es kommt das Leid,] †                          | —    | planned |
-| TS-506 | [Was Liebe nur gefehlet,] †                     | —    | planned |
-| TS-507 | 15. September 1857 †                            | —    | planned |
-| TS-508 | Am Aktentisch †                                 | —    | planned |
-| TS-509 | An Agnes Preller †                              | —    | planned |
-| TS-510 | An die Freunde †                                | —    | planned |
-| TS-511 | An Frau Do †                                    | —    | planned |
-| TS-512 | Auf dem Segeberg †                              | —    | planned |
-| TS-513 | Auf Wiedersehen †                               | —    | planned |
-| TS-514 | Crucifixus †                                    | —    | planned |
-| TS-515 | Das Harfenmädchen †                             | —    | planned |
-| TS-516 | Die Herrgottskinder †                           | —    | planned |
-| TS-517 | Die Liebe †                                     | —    | planned |
-| TS-518 | Die Möwe und mein Herz †                        | —    | planned |
-| TS-519 | Die Nachtigall †                                | —    | planned |
-| TS-520 | Die neuen Fiedellieder †                        | —    | planned |
-| TS-521 | Du warst es doch †                              | —    | planned |
-| TS-522 | Ein Epilog †                                    | —    | planned |
-| TS-523 | Ein Ständchen †                                 | —    | planned |
-| TS-524 | Eine Fremde †                                   | —    | planned |
-| TS-525 | Eine Frühlingsnacht †                           | —    | planned |
-| TS-526 | Es ist ein Flüstern †                           | —    | planned |
-| TS-527 | Frauenhand †                                    | —    | planned |
-| TS-528 | Gartenspuk †                                    | —    | planned |
-| TS-529 | Gedenkst du noch? †                             | —    | planned |
-| TS-530 | Geschwisterblut †                               | —    | planned |
-| TS-531 | Hinter den Tannen †                             | —    | planned |
-| TS-532 | Im Garten †                                     | —    | planned |
-| TS-533 | Im Golde, im Herzen †                           | —    | planned |
-| TS-534 | Im Herbste †                                    | —    | planned |
-| TS-535 | Im Zeichen des Todes †                          | —    | planned |
-| TS-536 | In böser Stunde †                               | —    | planned |
-| TS-537 | In das Stammbuch Ferdinand Röses †              | —    | planned |
-| TS-538 | In der Fremde †                                 | —    | planned |
-| TS-539 | Komm, laß uns spielen †                         | —    | planned |
-| TS-540 | Lied des Harfenmädchens †                       | —    | planned |
-| TS-541 | Lockenköpfchen †                                | —    | planned |
-| TS-542 | Lyrische Form †                                 | —    | planned |
-| TS-543 | Mein jüngstes Kind †                            | —    | planned |
-| TS-544 | Mein Talisman †                                 | —    | planned |
-| TS-545 | Mit einer Handlaterne †                         | —    | planned |
-| TS-546 | Morgenwanderung †                               | —    | planned |
-| TS-547 | Nach Reisegesprächen †                          | —    | planned |
-| TS-548 | Noch einmal! †                                  | —    | planned |
-| TS-549 | Notgedrungener Prolog †                         | —    | planned |
-| TS-550 | O bleibe treu den Toten †                       | —    | planned |
-| TS-551 | O süßes Nichtstun †                             | —    | planned |
-| TS-552 | Schlaflos †                                     | —    | planned |
-| TS-553 | Ständchen †                                     | —    | planned |
-| TS-554 | Stoßseufzer †                                   | —    | planned |
-| TS-555 | Sturmnacht †                                    | —    | planned |
-| TS-556 | Tannkönig †                                     | —    | planned |
-| TS-557 | Vision †                                        | —    | planned |
-| TS-558 | Von Katzen †                                    | —    | planned |
-| TS-559 | Waisenkind †                                    | —    | planned |
-| TS-560 | Walpurgisnacht †                                | —    | planned |
-| TS-561 | Weihnachtsabend †                               | —    | planned |
-| TS-562 | Weihnachtslied †                                | —    | planned |
-| TS-563 | Weiße Rosen †                                   | —    | planned |
-| TS-564 | Westermühlen †                                  | —    | planned |
-| TS-565 | Wichtelmännchen †                               | —    | planned |
-| TS-566 | Zur Nacht †                                     | —    | planned |
+| TS-504 | »Ein grünes Blatt« †                            | 1852 | planned |
+| TS-505 | [Es kommt das Leid,] †                          | 1889 | planned |
+| TS-506 | [Was Liebe nur gefehlet,] †                     | 1883 | planned |
+| TS-507 | 15. September 1857 †                            | 1864 | planned |
+| TS-508 | Am Aktentisch †                                 | 1856 | planned |
+| TS-509 | An Agnes Preller †                              | 1879 | planned |
+| TS-510 | An die Freunde †                                | 1843 | planned |
+| TS-511 | An Frau Do †                                    | 1883 | planned |
+| TS-512 | Auf dem Segeberg †                              | 1852 | planned |
+| TS-513 | Auf Wiedersehen †                               | 1840 | planned |
+| TS-514 | Crucifixus †                                    | 1871 | planned |
+| TS-515 | Das Harfenmädchen †                             | 1843 | planned |
+| TS-516 | Die Herrgottskinder †                           | 1843 | planned |
+| TS-517 | Die Liebe †                                     | 1883 | planned |
+| TS-518 | Die Möwe und mein Herz †                        | 1840 | planned |
+| TS-519 | Die Nachtigall †                                | 1855 | planned |
+| TS-520 | Die neuen Fiedellieder †                        | 1871 | planned |
+| TS-521 | Du warst es doch †                              | 1864 | planned |
+| TS-522 | Ein Epilog †                                    | 1864 | planned |
+| TS-523 | Ein Ständchen †                                 | 1864 | planned |
+| TS-524 | Eine Fremde †                                   | 1851 | planned |
+| TS-525 | Eine Frühlingsnacht †                           | 1846 | planned |
+| TS-526 | Es ist ein Flüstern †                           | 1872 | planned |
+| TS-527 | Frauenhand †                                    | 1852 | planned |
+| TS-528 | Gartenspuk †                                    | 1859 | planned |
+| TS-529 | Gedenkst du noch? †                             | 1864 | planned |
+| TS-530 | Geschwisterblut †                               | 1854 | planned |
+| TS-531 | Hinter den Tannen †                             | 1852 | planned |
+| TS-532 | Im Garten †                                     | 1868 | planned |
+| TS-533 | Im Golde, im Herzen †                           | 1840 | planned |
+| TS-534 | Im Herbste †                                    | 1852 | planned |
+| TS-535 | Im Zeichen des Todes †                          | 1856 | planned |
+| TS-536 | In böser Stunde †                               | 1852 | planned |
+| TS-537 | In das Stammbuch Ferdinand Röses †              | 1837 | planned |
+| TS-538 | In der Fremde †                                 | 1843 | planned |
+| TS-539 | Komm, laß uns spielen †                         | 1885 | planned |
+| TS-540 | Lied des Harfenmädchens †                       | 1851 | planned |
+| TS-541 | Lockenköpfchen †                                | 1837 | planned |
+| TS-542 | Lyrische Form †                                 | 1885 | planned |
+| TS-543 | Mein jüngstes Kind †                            | 1864 | planned |
+| TS-544 | Mein Talisman †                                 | 1864 | planned |
+| TS-545 | Mit einer Handlaterne †                         | 1885 | planned |
+| TS-547 | Nach Reisegesprächen †                          | 1849 | planned |
+| TS-548 | Noch einmal! †                                  | 1852 | planned |
+| TS-549 | Notgedrungener Prolog †                         | 1864 | planned |
+| TS-550 | O bleibe treu den Toten †                       | 1852 | planned |
+| TS-551 | O süßes Nichtstun †                             | 1851 | planned |
+| TS-552 | Schlaflos †                                     | 1864 | planned |
+| TS-553 | Ständchen †                                     | 1864 | planned |
+| TS-554 | Stoßseufzer †                                   | 1852 | planned |
+| TS-555 | Sturmnacht †                                    | 1849 | planned |
+| TS-556 | Tannkönig †                                     | 1843 | planned |
+| TS-557 | Vision †                                        | 1839 | planned |
+| TS-558 | Von Katzen †                                    | 1848 | planned |
+| TS-559 | Waisenkind †                                    | 1865 | planned |
+| TS-560 | Walpurgisnacht †                                | 1841 | planned |
+| TS-561 | Weihnachtsabend †                               | 1843 | planned |
+| TS-562 | Weihnachtslied †                                | 1845 | planned |
+| TS-563 | Weiße Rosen †                                   | 1851 | planned |
+| TS-564 | Westermühlen †                                  | 1912 | planned |
+| TS-565 | Wichtelmännchen †                               | 1843 | planned |
+| TS-566 | Zur Nacht †                                     | 1851 | planned |
 
 † marks a doubtful attribution, a fragment, or an unverified date.
 
