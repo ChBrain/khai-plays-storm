@@ -43,6 +43,8 @@
           ".husky/**",
           "khai-guard.config.json",
           "tests/**",
+          "scripts/**",
+          "canon/**",
           "README.md",
           "GEMINI.md",
           "CLAUDE.md",
