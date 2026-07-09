@@ -24,7 +24,7 @@ permanent handle; genre, year, and edition band live in the record. See
 `canon/README.md` for the scheme and the citation/IP posture.
 
 - **224** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 166 Gedichte)
-- **1** staged · **223** planned
+- **2** staged · **222** planned
 - **0** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
 
 ### Novellen (`TS-001–099`)
@@ -33,7 +33,7 @@ permanent handle; genre, year, and edition band live in the record. See
 | ------ | ------------------------------------------------------ | ---- | ------- |
 | TS-001 | Im Saal                                                | 1848 | planned |
 | TS-002 | Marthe und ihre Uhr                                    | 1848 | planned |
-| TS-003 | Immensee                                               | 1849 | planned |
+| TS-003 | Immensee                                               | 1849 | staged  |
 | TS-004 | Posthuma                                               | 1849 | planned |
 | TS-005 | Im Sonnenschein                                        | 1854 | planned |
 | TS-006 | Angelika                                               | 1855 | planned |
