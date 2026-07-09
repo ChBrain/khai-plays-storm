@@ -757,8 +757,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts047_der_schimmelreiter",
       "note": "Storm's last and most famous Novelle."
     },
     {
