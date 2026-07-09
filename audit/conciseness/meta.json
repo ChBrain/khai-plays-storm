@@ -1,0 +1,8 @@
+{
+  "auditId": "conciseness",
+  "reviewedSha": "70fd8710c18a913b8fa6f18304180079788751c7",
+  "reviewedAt": "2026-07-09T12:45:28.203Z",
+  "targets": {
+    ".": null
+  }
+}
