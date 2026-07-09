@@ -2,7 +2,7 @@
 khai: play
 title: "Immensee"
 declared: "Immensee"
-description: "A frame narrative of youthful romance, a white water lily, and the silent resignation of a life looking back from its far end."
+description: "A frame narrative of youthful romance, a white water lily, and the silent resignation of a life looking back."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
