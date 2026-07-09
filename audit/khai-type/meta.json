@@ -1,0 +1,8 @@
+{
+  "auditId": "khai-type",
+  "reviewedSha": null,
+  "reviewedAt": null,
+  "targets": {
+    ".": null
+  }
+}

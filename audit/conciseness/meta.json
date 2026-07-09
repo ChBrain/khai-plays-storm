@@ -1,0 +1,8 @@
+{
+  "auditId": "conciseness",
+  "reviewedSha": null,
+  "reviewedAt": null,
+  "targets": {
+    ".": null
+  }
+}
