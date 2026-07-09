@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Storm work-register",
+  "description": "The complete catalogue of Theodor Storm's works. Each work has a permanent TS identifier, independent of whether the house has staged it.",
+  "type": "object",
+  "required": ["namespace", "blocks", "works"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "namespace": { "const": "TS" },
+    "edition_anchor": { "type": "string" },
+    "blocks": {
+      "type": "object",
+      "description": "Genre hundreds-blocks; the leading digit encodes genre.",
+      "required": ["novelle", "maerchen", "kleine_prosa", "gedicht"],
+      "additionalProperties": { "type": "string" }
+    },
+    "works": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "canonical_title",
+          "genre",
+          "year",
+          "date_status",
+          "doubtful",
+          "status",
+          "play"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^TS-\\d{3}$",
+            "description": "Permanent handle. Never renumber; new works append within their block."
+          },
+          "canonical_title": { "type": "string" },
+          "genre": { "enum": ["novelle", "maerchen", "kleine_prosa", "gedicht"] },
+          "year": {
+            "type": ["integer", "null"],
+            "description": "First-publication year; null when unverified."
+          },
+          "date_status": { "enum": ["verified", "unverified"] },
+          "first_venue": { "type": ["string", "null"] },
+          "incipit": {
+            "type": ["string", "null"],
+            "description": "First line (poems); used when the title is generic."
+          },
+          "cycle": { "type": ["string", "null"] },
+          "embedded_in": {
+            "type": ["string", "null"],
+            "description": "Host work if the poem is embedded (e.g. a song inside a Novelle)."
+          },
+          "ll_band": {
+            "type": ["integer", "null"],
+            "enum": [1, 2, 3, 4, null],
+            "description": "Laage/Lohmeier volume the work sits in."
+          },
+          "doubtful": {
+            "type": "boolean",
+            "description": "Doubtful attribution, fragment, or otherwise uncertain."
+          },
+          "status": {
+            "enum": ["planned", "staged"],
+            "description": "House staging status; orthogonal to the identifier."
+          },
+          "play": {
+            "type": ["string", "null"],
+            "description": "khai play slug of the staged production, or null. The crosswalk to registry.json."
+          },
+          "note": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
