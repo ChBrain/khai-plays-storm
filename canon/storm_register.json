@@ -53,8 +53,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts003_immensee",
       "note": "Expanded book edition 1851 is the canonical text."
     },
     {
