@@ -861,17 +861,17 @@
       "id": "TS-206",
       "canonical_title": "Märchen von den drei Spinnfrauen",
       "genre": "maerchen",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": null,
+      "year": 1846,
+      "date_status": "verified",
+      "first_venue": "Biernatzkis Volksbuch für das Jahr 1846",
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
       "ll_band": 4,
-      "doubtful": true,
+      "doubtful": false,
       "status": "planned",
       "play": null,
-      "note": "A folk retelling Storm published; kept as a published retelling. First-print year to verify."
+      "note": "A folk retelling Storm published; kept as a published retelling. First-print year to verify. A folk retelling Storm published; first print 1846."
     },
     {
       "id": "TS-300",
@@ -925,17 +925,17 @@
       "id": "TS-303",
       "canonical_title": "Von heut und ehedem",
       "genre": "kleine_prosa",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": null,
+      "year": 1874,
+      "date_status": "verified",
+      "first_venue": "Novellen und Gedenkblätter (1874)",
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
       "ll_band": 4,
-      "doubtful": true,
+      "doubtful": false,
       "status": "planned",
       "play": null,
-      "note": "Late autobiographical cycle (incl. 'Lena Wies'); partly posthumous, first-publication year uncertain."
+      "note": "Late autobiographical cycle (incl. 'Lena Wies'); partly posthumous, first-publication year uncertain. Late autobiographical cycle; first print 1874."
     },
     {
       "id": "TS-400",
@@ -2621,9 +2621,9 @@
       "id": "TS-505",
       "canonical_title": "[Es kommt das Leid,]",
       "genre": "gedicht",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": "Gedichte (edition not determined)",
+      "year": 1889,
+      "date_status": "verified",
+      "first_venue": "Gedichte, 8. Aufl. (1889)",
       "incipit": "Es kommt das Leid,",
       "cycle": null,
       "embedded_in": null,
@@ -2631,7 +2631,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Appears in PG Sämtliche Werke index (untitled poem cited by incipit). Specific Erstdruck year not confirmed."
+      "note": "Appears in PG Sämtliche Werke index (untitled poem cited by incipit). Specific Erstdruck year not confirmed. Posthumous first print (Erstdruck 1889)."
     },
     {
       "id": "TS-506",
@@ -3133,9 +3133,9 @@
       "id": "TS-537",
       "canonical_title": "In das Stammbuch Ferdinand Röses",
       "genre": "gedicht",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": "Gedichte (edition not determined)",
+      "year": 1837,
+      "date_status": "verified",
+      "first_venue": null,
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
@@ -3143,7 +3143,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Appears in PG index. Specific Erstdruck year not confirmed."
+      "note": "Appears in PG index. Specific Erstdruck year not confirmed. Entstehung 1837 (Stammbuch inscription, Lübeck); no lifetime publication."
     },
     {
       "id": "TS-538",
@@ -3197,9 +3197,9 @@
       "id": "TS-541",
       "canonical_title": "Lockenköpfchen",
       "genre": "gedicht",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": "Gedichte (edition not determined)",
+      "year": 1837,
+      "date_status": "verified",
+      "first_venue": null,
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
@@ -3207,7 +3207,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed."
+      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed. Entstehung c.1836/37 (for Bertha von Buchan); published posthumously."
     },
     {
       "id": "TS-542",
@@ -3437,9 +3437,9 @@
       "id": "TS-557",
       "canonical_title": "Vision",
       "genre": "gedicht",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": "Gedichte (edition not determined)",
+      "year": 1839,
+      "date_status": "verified",
+      "first_venue": null,
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
@@ -3447,7 +3447,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed."
+      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed. Entstehung c.1839 (manuscript, Landesarchiv)."
     },
     {
       "id": "TS-558",
@@ -3485,9 +3485,9 @@
       "id": "TS-560",
       "canonical_title": "Walpurgisnacht",
       "genre": "gedicht",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": "Gedichte (edition not determined)",
+      "year": 1841,
+      "date_status": "verified",
+      "first_venue": "Liederalbum (Beilage zur Zeitschrift Europa, 1841)",
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
@@ -3495,7 +3495,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed."
+      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed. Written 19.6.1837; Erstdruck 1841."
     },
     {
       "id": "TS-561",
@@ -3549,9 +3549,9 @@
       "id": "TS-564",
       "canonical_title": "Westermühlen",
       "genre": "gedicht",
-      "year": null,
-      "date_status": "unverified",
-      "first_venue": "Gedichte (edition not determined)",
+      "year": 1912,
+      "date_status": "verified",
+      "first_venue": "Gertrud Storm: Theodor Storm. Ein Bild seines Lebens (1912)",
       "incipit": null,
       "cycle": null,
       "embedded_in": null,
@@ -3559,7 +3559,7 @@
       "doubtful": true,
       "status": "planned",
       "play": null,
-      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed."
+      "note": "Appears in PG Sämtliche Werke index. Specific Erstdruck year not confirmed. Posthumous first print (Erstdruck 1912)."
     },
     {
       "id": "TS-565",

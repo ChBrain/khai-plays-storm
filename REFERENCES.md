@@ -25,7 +25,7 @@ permanent handle; genre, year, and edition band live in the record. See
 
 - **224** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 166 Gedichte)
 - **0** staged · **224** planned
-- **8** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
+- **0** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
 
 ### Novellen (`TS-001–099`)
 
@@ -81,15 +81,15 @@ permanent handle; genre, year, and edition band live in the record. See
 
 ### Märchen (`TS-200–299`)
 
-| TS     | Work                               | Year | Status  |
-| ------ | ---------------------------------- | ---- | ------- |
-| TS-200 | Hans Bär †                         | 1837 | planned |
-| TS-201 | Der kleine Häwelmann               | 1849 | planned |
-| TS-202 | Hinzelmeier                        | 1850 | planned |
-| TS-203 | Bulemanns Haus                     | 1864 | planned |
-| TS-204 | Die Regentrude                     | 1864 | planned |
-| TS-205 | Der Spiegel des Cyprianus          | 1865 | planned |
-| TS-206 | Märchen von den drei Spinnfrauen † | —    | planned |
+| TS     | Work                             | Year | Status  |
+| ------ | -------------------------------- | ---- | ------- |
+| TS-200 | Hans Bär †                       | 1837 | planned |
+| TS-201 | Der kleine Häwelmann             | 1849 | planned |
+| TS-202 | Hinzelmeier                      | 1850 | planned |
+| TS-203 | Bulemanns Haus                   | 1864 | planned |
+| TS-204 | Die Regentrude                   | 1864 | planned |
+| TS-205 | Der Spiegel des Cyprianus        | 1865 | planned |
+| TS-206 | Märchen von den drei Spinnfrauen | 1846 | planned |
 
 ### Kleine Prosa (`TS-300–399`)
 
@@ -98,7 +98,7 @@ permanent handle; genre, year, and edition band live in the record. See
 | TS-300 | Für meine Söhne †                   | 1854 | planned |
 | TS-301 | Zwei Kuchenesser der alten Zeit     | 1873 | planned |
 | TS-302 | Meine Erinnerungen an Eduard Mörike | 1876 | planned |
-| TS-303 | Von heut und ehedem †               | —    | planned |
+| TS-303 | Von heut und ehedem                 | 1874 | planned |
 
 ### Gedichte (`TS-400–699`)
 
@@ -209,7 +209,7 @@ permanent handle; genre, year, and edition band live in the record. See
 | TS-502 | In schwerer Krankheit                           | 1885 | planned |
 | TS-503 | Spruch des Alters                               | 1885 | planned |
 | TS-504 | »Ein grünes Blatt« †                            | 1852 | planned |
-| TS-505 | [Es kommt das Leid,] †                          | —    | planned |
+| TS-505 | [Es kommt das Leid,] †                          | 1889 | planned |
 | TS-506 | [Was Liebe nur gefehlet,] †                     | 1883 | planned |
 | TS-507 | 15. September 1857 †                            | 1864 | planned |
 | TS-508 | Am Aktentisch †                                 | 1856 | planned |
@@ -241,11 +241,11 @@ permanent handle; genre, year, and edition band live in the record. See
 | TS-534 | Im Herbste †                                    | 1852 | planned |
 | TS-535 | Im Zeichen des Todes †                          | 1856 | planned |
 | TS-536 | In böser Stunde †                               | 1852 | planned |
-| TS-537 | In das Stammbuch Ferdinand Röses †              | —    | planned |
+| TS-537 | In das Stammbuch Ferdinand Röses †              | 1837 | planned |
 | TS-538 | In der Fremde †                                 | 1843 | planned |
 | TS-539 | Komm, laß uns spielen †                         | 1885 | planned |
 | TS-540 | Lied des Harfenmädchens †                       | 1851 | planned |
-| TS-541 | Lockenköpfchen †                                | —    | planned |
+| TS-541 | Lockenköpfchen †                                | 1837 | planned |
 | TS-542 | Lyrische Form †                                 | 1885 | planned |
 | TS-543 | Mein jüngstes Kind †                            | 1864 | planned |
 | TS-544 | Mein Talisman †                                 | 1864 | planned |
@@ -260,14 +260,14 @@ permanent handle; genre, year, and edition band live in the record. See
 | TS-554 | Stoßseufzer †                                   | 1852 | planned |
 | TS-555 | Sturmnacht †                                    | 1849 | planned |
 | TS-556 | Tannkönig †                                     | 1843 | planned |
-| TS-557 | Vision †                                        | —    | planned |
+| TS-557 | Vision †                                        | 1839 | planned |
 | TS-558 | Von Katzen †                                    | 1848 | planned |
 | TS-559 | Waisenkind †                                    | 1865 | planned |
-| TS-560 | Walpurgisnacht †                                | —    | planned |
+| TS-560 | Walpurgisnacht †                                | 1841 | planned |
 | TS-561 | Weihnachtsabend †                               | 1843 | planned |
 | TS-562 | Weihnachtslied †                                | 1845 | planned |
 | TS-563 | Weiße Rosen †                                   | 1851 | planned |
-| TS-564 | Westermühlen †                                  | —    | planned |
+| TS-564 | Westermühlen †                                  | 1912 | planned |
 | TS-565 | Wichtelmännchen †                               | 1843 | planned |
 | TS-566 | Zur Nacht †                                     | 1851 | planned |
 
