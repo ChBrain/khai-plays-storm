@@ -1,6 +1,12 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-storm",
-  "version": "0.0.0",
-  "plays": []
+  "version": "0.1.0",
+  "plays": [
+    {
+      "id": "ts047_der_schimmelreiter",
+      "title": "The Rider on the White Horse",
+      "description": "A self-taught dike-reeve builds a dike against the sea and his neighbours, then drowns with his family in the flood."
+    }
+  ]
 }
