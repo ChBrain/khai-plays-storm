@@ -37,8 +37,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts002_marthe_und_ihre_uhr",
       "note": "First published prose piece."
     },
     {
