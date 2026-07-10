@@ -4,16 +4,19 @@
   "version": "0.3.0",
   "plays": [
     {
+      "kind": "play",
       "id": "ts002_marthe_und_ihre_uhr",
       "title": "Marthe und ihre Uhr",
       "description": "An elderly woman spends Christmas Eve alone in her room, listening to the ticking of her grandfather clock."
     },
     {
+      "kind": "play",
       "id": "ts003_immensee",
       "title": "Immensee",
       "description": "A frame narrative of youthful romance, a white water lily, and the silent resignation of a life looking back."
     },
     {
+      "kind": "play",
       "id": "ts047_der_schimmelreiter",
       "title": "The Rider on the White Horse",
       "description": "A self-taught dike-reeve builds a dike against the sea and his neighbours, then drowns with his family in the flood."
