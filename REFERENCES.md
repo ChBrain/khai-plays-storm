@@ -24,60 +24,60 @@ permanent handle; genre, year, and edition band live in the record. See
 `canon/README.md` for the scheme and the citation/IP posture.
 
 - **224** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 166 Gedichte)
-- **3** staged · **221** planned
+- **47** staged · **177** planned
 - **0** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
 
 ### Novellen (`TS-001–099`)
 
-| TS     | Work                                                   | Year | Status  |
-| ------ | ------------------------------------------------------ | ---- | ------- |
-| TS-001 | Im Saal                                                | 1848 | planned |
-| TS-002 | Marthe und ihre Uhr                                    | 1848 | staged  |
-| TS-003 | Immensee                                               | 1849 | staged  |
-| TS-004 | Posthuma                                               | 1849 | planned |
-| TS-005 | Im Sonnenschein                                        | 1854 | planned |
-| TS-006 | Angelika                                               | 1855 | planned |
-| TS-007 | Ein grünes Blatt                                       | 1855 | planned |
-| TS-008 | Wenn die Äpfel reif sind                               | 1856 | planned |
-| TS-009 | Auf dem Staatshof                                      | 1859 | planned |
-| TS-010 | Späte Rosen                                            | 1860 | planned |
-| TS-011 | Drüben am Markt                                        | 1861 | planned |
-| TS-012 | Veronika                                               | 1861 | planned |
-| TS-013 | Im Schloß                                              | 1862 | planned |
-| TS-014 | Unter dem Tannenbaum                                   | 1862 | planned |
-| TS-015 | Abseits                                                | 1863 | planned |
-| TS-016 | Auf der Universität                                    | 1863 | planned |
-| TS-017 | Von Jenseit des Meeres                                 | 1865 | planned |
-| TS-018 | Eine Malerarbeit                                       | 1867 | planned |
-| TS-019 | In St. Jürgen                                          | 1868 | planned |
-| TS-020 | Von Kindern und Katzen, und wie sie die Metti begruben | 1868 | planned |
-| TS-021 | Der Amtschirurgus – Heimkehr †                         | 1870 | planned |
-| TS-022 | Eine Halligfahrt                                       | 1871 | planned |
-| TS-023 | Draußen im Heidedorf                                   | 1872 | planned |
-| TS-024 | Beim Vetter Christian                                  | 1873 | planned |
-| TS-025 | Pole Poppenspäler                                      | 1874 | planned |
-| TS-026 | Viola tricolor                                         | 1874 | planned |
-| TS-027 | Waldwinkel                                             | 1874 | planned |
-| TS-028 | Ein stiller Musikant                                   | 1875 | planned |
-| TS-029 | Im Nachbarhause links                                  | 1875 | planned |
-| TS-030 | Psyche                                                 | 1875 | planned |
-| TS-031 | Aquis submersus                                        | 1876 | planned |
-| TS-032 | Carsten Curator                                        | 1878 | planned |
-| TS-033 | Renate                                                 | 1878 | planned |
-| TS-034 | Im Brauerhause                                         | 1879 | planned |
-| TS-035 | Die Söhne des Senators                                 | 1880 | planned |
-| TS-036 | Eekenhof                                               | 1880 | planned |
-| TS-037 | Der Herr Etatsrat                                      | 1881 | planned |
-| TS-038 | Hans und Heinz Kirch                                   | 1883 | planned |
-| TS-039 | Schweigen                                              | 1883 | planned |
-| TS-040 | Es waren zwei Königskinder                             | 1884 | planned |
-| TS-041 | Zur Chronik von Grieshuus                              | 1884 | planned |
-| TS-042 | Ein Fest auf Haderslevhuus                             | 1885 | planned |
-| TS-043 | John Riew'                                             | 1885 | planned |
-| TS-044 | Bötjer Basch                                           | 1886 | planned |
-| TS-045 | Ein Bekenntnis                                         | 1887 | planned |
-| TS-046 | Ein Doppelgänger                                       | 1887 | planned |
-| TS-047 | Der Schimmelreiter                                     | 1888 | staged  |
+| TS     | Work                                                   | Year | Status |
+| ------ | ------------------------------------------------------ | ---- | ------ |
+| TS-001 | Im Saal                                                | 1848 | staged |
+| TS-002 | Marthe und ihre Uhr                                    | 1848 | staged |
+| TS-003 | Immensee                                               | 1849 | staged |
+| TS-004 | Posthuma                                               | 1849 | staged |
+| TS-005 | Im Sonnenschein                                        | 1854 | staged |
+| TS-006 | Angelika                                               | 1855 | staged |
+| TS-007 | Ein grünes Blatt                                       | 1855 | staged |
+| TS-008 | Wenn die Äpfel reif sind                               | 1856 | staged |
+| TS-009 | Auf dem Staatshof                                      | 1859 | staged |
+| TS-010 | Späte Rosen                                            | 1860 | staged |
+| TS-011 | Drüben am Markt                                        | 1861 | staged |
+| TS-012 | Veronika                                               | 1861 | staged |
+| TS-013 | Im Schloß                                              | 1862 | staged |
+| TS-014 | Unter dem Tannenbaum                                   | 1862 | staged |
+| TS-015 | Abseits                                                | 1863 | staged |
+| TS-016 | Auf der Universität                                    | 1863 | staged |
+| TS-017 | Von Jenseit des Meeres                                 | 1865 | staged |
+| TS-018 | Eine Malerarbeit                                       | 1867 | staged |
+| TS-019 | In St. Jürgen                                          | 1868 | staged |
+| TS-020 | Von Kindern und Katzen, und wie sie die Metti begruben | 1868 | staged |
+| TS-021 | Der Amtschirurgus – Heimkehr †                         | 1870 | staged |
+| TS-022 | Eine Halligfahrt                                       | 1871 | staged |
+| TS-023 | Draußen im Heidedorf                                   | 1872 | staged |
+| TS-024 | Beim Vetter Christian                                  | 1873 | staged |
+| TS-025 | Pole Poppenspäler                                      | 1874 | staged |
+| TS-026 | Viola tricolor                                         | 1874 | staged |
+| TS-027 | Waldwinkel                                             | 1874 | staged |
+| TS-028 | Ein stiller Musikant                                   | 1875 | staged |
+| TS-029 | Im Nachbarhause links                                  | 1875 | staged |
+| TS-030 | Psyche                                                 | 1875 | staged |
+| TS-031 | Aquis submersus                                        | 1876 | staged |
+| TS-032 | Carsten Curator                                        | 1878 | staged |
+| TS-033 | Renate                                                 | 1878 | staged |
+| TS-034 | Im Brauerhause                                         | 1879 | staged |
+| TS-035 | Die Söhne des Senators                                 | 1880 | staged |
+| TS-036 | Eekenhof                                               | 1880 | staged |
+| TS-037 | Der Herr Etatsrat                                      | 1881 | staged |
+| TS-038 | Hans und Heinz Kirch                                   | 1883 | staged |
+| TS-039 | Schweigen                                              | 1883 | staged |
+| TS-040 | Es waren zwei Königskinder                             | 1884 | staged |
+| TS-041 | Zur Chronik von Grieshuus                              | 1884 | staged |
+| TS-042 | Ein Fest auf Haderslevhuus                             | 1885 | staged |
+| TS-043 | John Riew'                                             | 1885 | staged |
+| TS-044 | Bötjer Basch                                           | 1886 | staged |
+| TS-045 | Ein Bekenntnis                                         | 1887 | staged |
+| TS-046 | Ein Doppelgänger                                       | 1887 | staged |
+| TS-047 | Der Schimmelreiter                                     | 1888 | staged |
 
 ### Märchen (`TS-200–299`)
 
