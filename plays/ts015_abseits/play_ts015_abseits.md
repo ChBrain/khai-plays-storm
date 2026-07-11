@@ -2,7 +2,7 @@
 khai: play
 title: "Abseits"
 declared: "Abseits"
-description: "A staging of Theodor Storm's Novelle Abseits (1863)."
+description: "Eine Inszenierung von Theodor Storms Novelle Abseits (1863)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Abseits von Theodor Storm. Die Handlung entfaltet 
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Meta](persona_meta.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Einsame](position_einsame.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Heidehaus](place_heidehaus.md)
+
+**Pieces**
+
+- [Das Spinnrad](piece_spinnrad.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Stille](pitch_stille.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Nachmittag](plot_nachmittag.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

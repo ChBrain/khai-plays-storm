@@ -2,7 +2,7 @@
 khai: play
 title: "Auf der Universität"
 declared: "Auf der Universität"
-description: "A staging of Theodor Storm's Novelle Auf der Universität (1863)."
+description: "Eine Inszenierung von Theodor Storms Novelle Auf der Universität (1863)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Auf der Universität von Theodor Storm. Die Handlu
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Lore](persona_lore.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Schneiderstochter](position_schneiderstochter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Tanzsaal](place_tanzsaal.md)
+
+**Pieces**
+
+- [Das Kleid](piece_kleid.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Tragik](pitch_tragik.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Tanz](plot_tanz.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

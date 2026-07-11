@@ -2,7 +2,7 @@
 khai: play
 title: "Veronika"
 declared: "Veronika"
-description: "A staging of Theodor Storm's Novelle Veronika (1861)."
+description: "Eine Inszenierung von Theodor Storms Novelle Veronika (1861)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Veronika von Theodor Storm. Die Handlung entfaltet
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Veronika](persona_veronika.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Ehefrau](position_ehefrau.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Kapelle](place_kapelle.md)
+
+**Pieces**
+
+- [Der Beichtstuhl](piece_beichtstuhl.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Der Gewissenskonflikt](pitch_gewissenskonflikt.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Osterfest](plot_ostern.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

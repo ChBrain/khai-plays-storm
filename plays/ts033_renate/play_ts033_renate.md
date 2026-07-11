@@ -2,7 +2,7 @@
 khai: play
 title: "Renate"
 declared: "Renate"
-description: "A staging of Theodor Storm's Novelle Renate (1878)."
+description: "Eine Inszenierung von Theodor Storms Novelle Renate (1878)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Renate von Theodor Storm. Die Handlung entfaltet d
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Renate](persona_renate.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Bauernmädchen](position_bauernmaedchen.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Marsch](place_marsch.md)
+
+**Pieces**
+
+- [Die Kette](piece_kette.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Der Aberglaube](pitch_aberglaube.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Hexenjagd](plot_hexenjagd.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

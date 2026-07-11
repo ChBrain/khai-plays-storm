@@ -2,7 +2,7 @@
 khai: play
 title: "Ein Doppelgänger"
 declared: "Ein Doppelgänger"
-description: "A staging of Theodor Storm's Novelle Ein Doppelgänger (1887)."
+description: "Eine Inszenierung von Theodor Storms Novelle Ein Doppelgänger (1887)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Ein Doppelgänger von Theodor Storm. Die Handlung 
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [John](persona_john.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Tagelöhner](position_tageloehner.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Brunnen](place_brunnen.md)
+
+**Pieces**
+
+- [Das Seil](piece_seil.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Existenznot](pitch_existenznot.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Sturz](plot_sturz.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

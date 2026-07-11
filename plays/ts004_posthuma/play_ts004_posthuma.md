@@ -2,7 +2,7 @@
 khai: play
 title: "Posthuma"
 declared: "Posthuma"
-description: "A staging of Theodor Storm's Novelle Posthuma (1849)."
+description: "Eine Inszenierung von Theodor Storms Novelle Posthuma (1849)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Posthuma von Theodor Storm. Die Handlung entfaltet
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Erzähler](persona_erzaehler.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Beobachter](position_beobachter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Heideldorf](place_dorf.md)
+
+**Pieces**
+
+- [Das Grab](piece_grab.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Schuld](pitch_schuld.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Tod](plot_tod.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

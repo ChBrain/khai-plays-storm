@@ -2,7 +2,7 @@
 khai: play
 title: "Im Sonnenschein"
 declared: "Im Sonnenschein"
-description: "A staging of Theodor Storm's Novelle Im Sonnenschein (1854)."
+description: "Eine Inszenierung von Theodor Storms Novelle Im Sonnenschein (1854)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Im Sonnenschein von Theodor Storm. Die Handlung en
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Frantz](persona_frantz.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Liebender](position_liebender.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Barockgarten](place_garten.md)
+
+**Pieces**
+
+- [Die Nelke](piece_nelke.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Vergänglichkeit](pitch_vergaenglichkeit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Sommertag](plot_sommertag.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

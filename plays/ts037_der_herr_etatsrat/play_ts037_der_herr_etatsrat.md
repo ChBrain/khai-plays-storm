@@ -2,7 +2,7 @@
 khai: play
 title: "Der Herr Etatsrat"
 declared: "Der Herr Etatsrat"
-description: "A staging of Theodor Storm's Novelle Der Herr Etatsrat (1881)."
+description: "Eine Inszenierung von Theodor Storms Novelle Der Herr Etatsrat (1881)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Der Herr Etatsrat von Theodor Storm. Die Handlung 
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Etatsrat](persona_etatsrat.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Beamter](position_beamter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Amtsstube](place_amtsstube.md)
+
+**Pieces**
+
+- [Die Akte](piece_akte.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Groteske](pitch_groteske.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Skandal](plot_skandal.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

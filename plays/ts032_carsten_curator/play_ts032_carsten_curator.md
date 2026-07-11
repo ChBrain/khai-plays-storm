@@ -2,7 +2,7 @@
 khai: play
 title: "Carsten Curator"
 declared: "Carsten Curator"
-description: "A staging of Theodor Storm's Novelle Carsten Curator (1878)."
+description: "Eine Inszenierung von Theodor Storms Novelle Carsten Curator (1878)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Carsten Curator von Theodor Storm. Die Handlung en
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Carsten](persona_carsten.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Curator](position_curator.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Kontor](place_kontor.md)
+
+**Pieces**
+
+- [Das Kassenbuch](piece_kassenbuch.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Pflicht](pitch_pflicht.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Sturm](plot_sturm.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

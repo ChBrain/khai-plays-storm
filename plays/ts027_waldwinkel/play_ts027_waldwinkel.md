@@ -2,7 +2,7 @@
 khai: play
 title: "Waldwinkel"
 declared: "Waldwinkel"
-description: "A staging of Theodor Storm's Novelle Waldwinkel (1874)."
+description: "Eine Inszenierung von Theodor Storms Novelle Waldwinkel (1874)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Waldwinkel von Theodor Storm. Die Handlung entfalt
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Richard](persona_richard.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Förster](position_foerster.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Forsthaus](place_forsthaus.md)
+
+**Pieces**
+
+- [Das Gewehr](piece_gewehr.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Melancholie](pitch_melancholie.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Jagd](plot_jagd.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

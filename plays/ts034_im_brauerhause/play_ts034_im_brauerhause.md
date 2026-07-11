@@ -2,7 +2,7 @@
 khai: play
 title: "Im Brauerhause"
 declared: "Im Brauerhause"
-description: "A staging of Theodor Storm's Novelle Im Brauerhause (1879)."
+description: "Eine Inszenierung von Theodor Storms Novelle Im Brauerhause (1879)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Im Brauerhause von Theodor Storm. Die Handlung ent
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Brauer](persona_brauer.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Meister](position_meister.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Brauerei](place_brauerei.md)
+
+**Pieces**
+
+- [Das Fass](piece_fass.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Arbeit](pitch_arbeit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Unfall](plot_unfall.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

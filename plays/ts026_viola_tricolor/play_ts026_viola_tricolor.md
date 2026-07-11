@@ -2,7 +2,7 @@
 khai: play
 title: "Viola tricolor"
 declared: "Viola tricolor"
-description: "A staging of Theodor Storm's Novelle Viola tricolor (1874)."
+description: "Eine Inszenierung von Theodor Storms Novelle Viola tricolor (1874)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Viola tricolor von Theodor Storm. Die Handlung ent
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Inés](persona_ines.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Stiefmutter](position_stiefmutter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Herrenhaus](place_herrenhaus.md)
+
+**Pieces**
+
+- [Die Viola](piece_viola.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Entfremdung](pitch_entfremdung.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Konflikt](plot_konflikt.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

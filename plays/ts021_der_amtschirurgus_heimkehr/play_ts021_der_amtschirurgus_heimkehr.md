@@ -2,7 +2,7 @@
 khai: play
 title: "Der Amtschirurgus - Heimkehr"
 declared: "Der Amtschirurgus - Heimkehr"
-description: "A staging of Theodor Storm's Novelle Der Amtschirurgus - Heimkehr (1870)."
+description: "Eine Inszenierung von Theodor Storms Novelle Der Amtschirurgus - Heimkehr (1870)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Der Amtschirurgus - Heimkehr von Theodor Storm. Di
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Chirurgus](persona_chirurgus.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Arzt](position_arzt.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Heimat](place_heimat.md)
+
+**Pieces**
+
+- [Der Arztkoffer](piece_arztkoffer.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Heimkehr](pitch_heimkehr.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Ankunft](plot_ankunft.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

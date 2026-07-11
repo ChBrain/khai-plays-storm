@@ -2,7 +2,7 @@
 khai: play
 title: "Späte Rosen"
 declared: "Späte Rosen"
-description: "A staging of Theodor Storm's Novelle Späte Rosen (1860)."
+description: "Eine Inszenierung von Theodor Storms Novelle Späte Rosen (1860)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Späte Rosen von Theodor Storm. Die Handlung entfa
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Rudolf](persona_rudolf.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Gatte](position_gatte.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Wohnzimmer](place_wohnzimmer.md)
+
+**Pieces**
+
+- [Die späte Rose](piece_rose.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Spätliebe](pitch_spaetliebe.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Geständnis](plot_gestaendnis.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

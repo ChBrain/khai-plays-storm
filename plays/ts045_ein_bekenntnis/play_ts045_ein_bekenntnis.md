@@ -2,7 +2,7 @@
 khai: play
 title: "Ein Bekenntnis"
 declared: "Ein Bekenntnis"
-description: "A staging of Theodor Storm's Novelle Ein Bekenntnis (1887)."
+description: "Eine Inszenierung von Theodor Storms Novelle Ein Bekenntnis (1887)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Ein Bekenntnis von Theodor Storm. Die Handlung ent
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Franz](persona_franz.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Gatte](position_gatte.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Zimmer](place_zimmer.md)
+
+**Pieces**
+
+- [Das Fläschchen](piece_flaeschchen.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Schuld](pitch_schuld.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Beichte](plot_beichte.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

@@ -2,7 +2,7 @@
 khai: play
 title: "Unter dem Tannenbaum"
 declared: "Unter dem Tannenbaum"
-description: "A staging of Theodor Storm's Novelle Unter dem Tannenbaum (1862)."
+description: "Eine Inszenierung von Theodor Storms Novelle Unter dem Tannenbaum (1862)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Unter dem Tannenbaum von Theodor Storm. Die Handlu
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Christian](persona_christian.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Familienvater](position_familienvater.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Stube](place_stube.md)
+
+**Pieces**
+
+- [Der Tannenbaum](piece_tannenbaum.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Weihnachtszeit](pitch_weihnachten.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Festabend](plot_festabend.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

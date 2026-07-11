@@ -2,7 +2,7 @@
 khai: play
 title: "In St. Jürgen"
 declared: "In St. Jürgen"
-description: "Staging the Storm Novelle set in Sankt Jürgen (1868)."
+description: "Eine Inszenierung von Theodor Storms Novelle In Sankt Jürgen (1868)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle In St. Jürgen von Theodor Storm. Die Handlung ent
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Harre](persona_harre.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Tischlergeselle](position_tischlergeselle.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Stift](place_stift.md)
+
+**Pieces**
+
+- [Der Schlüssel](piece_schluessel.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Treue](pitch_treue.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Wiedersehen](plot_wiedersehen.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

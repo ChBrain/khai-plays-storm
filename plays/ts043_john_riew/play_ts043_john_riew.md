@@ -2,7 +2,7 @@
 khai: play
 title: "John Riew'"
 declared: "John Riew'"
-description: "A staging of Theodor Storm's Novelle John Riew' (1885)."
+description: "Eine Inszenierung von Theodor Storms Novelle John Riew' (1885)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle John Riew' von Theodor Storm. Die Handlung entfalt
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [John](persona_john.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Kapitän](position_kapitaen.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Hafenstube](place_hafenstube.md)
+
+**Pieces**
+
+- [Das Steuerrad](piece_steuerrad.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Das Schiffsleben](pitch_schiffsleben.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Sturm](plot_sturm.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

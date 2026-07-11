@@ -2,7 +2,7 @@
 khai: play
 title: "Im Schloß"
 declared: "Im Schloß"
-description: "A staging of Theodor Storm's Novelle Im Schloß (1862)."
+description: "Eine Inszenierung von Theodor Storms Novelle Im Schloß (1862)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Im Schloß von Theodor Storm. Die Handlung entfalt
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Anna](persona_anna.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Schlossherrin](position_schlossherrin.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Schlosspark](place_schlosspark.md)
+
+**Pieces**
+
+- [Die Ahnengalerie](piece_ahnengalerie.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Befreiung](pitch_befreiung.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Rückkehr](plot_rueckkehr.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

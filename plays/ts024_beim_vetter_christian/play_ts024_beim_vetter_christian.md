@@ -2,7 +2,7 @@
 khai: play
 title: "Beim Vetter Christian"
 declared: "Beim Vetter Christian"
-description: "A staging of Theodor Storm's Novelle Beim Vetter Christian (1873)."
+description: "Eine Inszenierung von Theodor Storms Novelle Beim Vetter Christian (1873)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Beim Vetter Christian von Theodor Storm. Die Handl
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Christian](persona_christian.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Vetter](position_vetter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Stube](place_stube.md)
+
+**Pieces**
+
+- [Die Pfeife](piece_pfeife.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Gemütlichkeit](pitch_gemuetlichkeit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Gespräch](plot_gespraech.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

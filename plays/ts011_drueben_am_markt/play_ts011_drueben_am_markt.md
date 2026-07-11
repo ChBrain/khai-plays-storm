@@ -2,7 +2,7 @@
 khai: play
 title: "Drüben am Markt"
 declared: "Drüben am Markt"
-description: "A staging of Theodor Storm's Novelle Drüben am Markt (1861)."
+description: "Eine Inszenierung von Theodor Storms Novelle Drüben am Markt (1861)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Drüben am Markt von Theodor Storm. Die Handlung e
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Doktor](persona_doktor.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Junggeselle](position_junggeselle.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Marktplatz](place_marktplatz.md)
+
+**Pieces**
+
+- [Das Fenster](piece_fenster.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Einsamkeit](pitch_einsamkeit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Begegnung](plot_begegnung.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

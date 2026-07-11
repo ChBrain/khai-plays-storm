@@ -2,7 +2,7 @@
 khai: play
 title: "Im Nachbarhause links"
 declared: "Im Nachbarhause links"
-description: "A staging of Theodor Storm's Novelle Im Nachbarhause links (1875)."
+description: "Eine Inszenierung von Theodor Storms Novelle Im Nachbarhause links (1875)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Im Nachbarhause links von Theodor Storm. Die Handl
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Erzähler](persona_erzaehler.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Beobachter](position_beobachter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Nachbarhaus](place_nachbarhaus.md)
+
+**Pieces**
+
+- [Die Gartenmauer](piece_gartenmauer.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Neugier](pitch_neugier.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Beobachtung](plot_beobachtung.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

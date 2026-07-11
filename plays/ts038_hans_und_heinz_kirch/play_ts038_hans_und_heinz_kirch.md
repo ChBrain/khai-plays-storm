@@ -2,7 +2,7 @@
 khai: play
 title: "Hans und Heinz Kirch"
 declared: "Hans und Heinz Kirch"
-description: "A staging of Theodor Storm's Novelle Hans und Heinz Kirch (1883)."
+description: "Eine Inszenierung von Theodor Storms Novelle Hans und Heinz Kirch (1883)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Hans und Heinz Kirch von Theodor Storm. Die Handlu
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Hans](persona_hans.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Kaufmann](position_kaufmann.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Hafen](place_hafen.md)
+
+**Pieces**
+
+- [Das Schiff](piece_schiff.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Der Generationenkonflikt](pitch_generationenkonflikt.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Heimkehr](plot_heimkehr.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

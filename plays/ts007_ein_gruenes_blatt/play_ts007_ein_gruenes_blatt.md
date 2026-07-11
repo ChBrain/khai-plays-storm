@@ -2,7 +2,7 @@
 khai: play
 title: "Ein grünes Blatt"
 declared: "Ein grünes Blatt"
-description: "A staging of Theodor Storm's Novelle Ein grünes Blatt (1855)."
+description: "Eine Inszenierung von Theodor Storms Novelle Ein grünes Blatt (1855)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Ein grünes Blatt von Theodor Storm. Die Handlung 
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Regine](persona_regine.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Hirtin](position_hirtin.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Heide](place_heide.md)
+
+**Pieces**
+
+- [Das grüne Blatt](piece_blatt.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Sehnsucht](pitch_sehnsucht.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Sommerabend](plot_sommerabend.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

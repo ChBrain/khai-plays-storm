@@ -2,7 +2,7 @@
 khai: play
 title: "Schweigen"
 declared: "Schweigen"
-description: "A staging of Theodor Storm's Novelle Schweigen (1883)."
+description: "Eine Inszenierung von Theodor Storms Novelle Schweigen (1883)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Schweigen von Theodor Storm. Die Handlung entfalte
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Rudolf](persona_rudolf.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Kranker](position_kranker.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Heilanstalt](place_heilanstalt.md)
+
+**Pieces**
+
+- [Die Akte](piece_akte.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Angst](pitch_angst.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Krise](plot_krise.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

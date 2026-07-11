@@ -2,7 +2,7 @@
 khai: play
 title: "Die Söhne des Senators"
 declared: "Die Söhne des Senators"
-description: "A staging of Theodor Storm's Novelle Die Söhne des Senators (1880)."
+description: "Eine Inszenierung von Theodor Storms Novelle Die Söhne des Senators (1880)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Die Söhne des Senators von Theodor Storm. Die Han
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Christian](persona_christian.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Sohn](position_sohn.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Senat](place_senat.md)
+
+**Pieces**
+
+- [Das Testament](piece_testament.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Der Geschwisterzwist](pitch_geschwisterzwist.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Teilung](plot_teilung.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

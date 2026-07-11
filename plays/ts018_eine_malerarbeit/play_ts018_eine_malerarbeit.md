@@ -2,7 +2,7 @@
 khai: play
 title: "Eine Malerarbeit"
 declared: "Eine Malerarbeit"
-description: "A staging of Theodor Storm's Novelle Eine Malerarbeit (1867)."
+description: "Eine Inszenierung von Theodor Storms Novelle Eine Malerarbeit (1867)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Eine Malerarbeit von Theodor Storm. Die Handlung e
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Edde](persona_edde.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Maler](position_maler.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Atelier](place_atelier.md)
+
+**Pieces**
+
+- [Das Gemälde](piece_gemaelde.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Schöpfung](pitch_schoepfung.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Ausstellung](plot_ausstellung.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

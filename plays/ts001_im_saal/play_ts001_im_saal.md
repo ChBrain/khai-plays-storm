@@ -2,7 +2,7 @@
 khai: play
 title: "Im Saal"
 declared: "Im Saal"
-description: "A staging of Theodor Storm's Novelle Im Saal (1848)."
+description: "Eine Inszenierung von Theodor Storms Novelle Im Saal (1848)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Im Saal von Theodor Storm. Die Handlung entfaltet 
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Großvater Hansen](persona_hansen.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Erzähler](position_erzaehler.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der alte Saal](place_saal.md)
+
+**Pieces**
+
+- [Der Kirschbaum](piece_kirschbaum.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Vergänglichkeit](pitch_vergaenglichkeit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Erzählung](plot_erzaehlung.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

@@ -2,7 +2,7 @@
 khai: play
 title: "Zur Chronik von Grieshuus"
 declared: "Zur Chronik von Grieshuus"
-description: "A staging of Theodor Storm's Novelle Zur Chronik von Grieshuus (1884)."
+description: "Eine Inszenierung von Theodor Storms Novelle Zur Chronik von Grieshuus (1884)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Zur Chronik von Grieshuus von Theodor Storm. Die H
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Hinrich](persona_hinrich.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Junker](position_junker.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Haus Grieshuus](place_grieshuus.md)
+
+**Pieces**
+
+- [Die Chronik](piece_chronik.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Chronik](pitch_chronik.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Fehde](plot_fehde.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

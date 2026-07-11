@@ -2,7 +2,7 @@
 khai: play
 title: "Psyche"
 declared: "Psyche"
-description: "A staging of Theodor Storm's Novelle Psyche (1875)."
+description: "Eine Inszenierung von Theodor Storms Novelle Psyche (1875)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Psyche von Theodor Storm. Die Handlung entfaltet d
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Maler](persona_maler.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Künstler](position_kuenstler.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Strand](place_strand.md)
+
+**Pieces**
+
+- [Die Skulptur](piece_skulptur.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Schönheit](pitch_schoenheit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Bad](plot_bad.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

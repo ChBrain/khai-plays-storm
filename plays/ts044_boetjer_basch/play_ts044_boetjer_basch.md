@@ -2,7 +2,7 @@
 khai: play
 title: "Bötjer Basch"
 declared: "Bötjer Basch"
-description: "A staging of Theodor Storm's Novelle Bötjer Basch (1886)."
+description: "Eine Inszenierung von Theodor Storms Novelle Bötjer Basch (1886)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Bötjer Basch von Theodor Storm. Die Handlung entf
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Basch](persona_basch.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Böttcher](position_boettcher.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Werkstatt](place_werkstatt.md)
+
+**Pieces**
+
+- [Der Fassreifen](piece_fassreifen.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Das Handwerk](pitch_handwerk.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Arbeitstag](plot_arbeitstag.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

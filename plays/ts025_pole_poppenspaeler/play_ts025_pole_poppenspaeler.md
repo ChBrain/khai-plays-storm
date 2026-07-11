@@ -2,7 +2,7 @@
 khai: play
 title: "Pole Poppenspäler"
 declared: "Pole Poppenspäler"
-description: "A staging of Theodor Storm's Novelle Pole Poppenspäler (1874)."
+description: "Eine Inszenierung von Theodor Storms Novelle Pole Poppenspäler (1874)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Pole Poppenspäler von Theodor Storm. Die Handlung
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Paul](persona_paul.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Puppenspieler](position_puppenspieler.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Puppentheater](place_theater.md)
+
+**Pieces**
+
+- [Das Kasperle](piece_kasperle.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Kunst](pitch_kunst.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Auftritt](plot_auftritt.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

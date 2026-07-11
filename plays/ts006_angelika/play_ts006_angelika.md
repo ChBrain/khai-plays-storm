@@ -2,7 +2,7 @@
 khai: play
 title: "Angelika"
 declared: "Angelika"
-description: "A staging of Theodor Storm's Novelle Angelika (1855)."
+description: "Eine Inszenierung von Theodor Storms Novelle Angelika (1855)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Angelika von Theodor Storm. Die Handlung entfaltet
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Ehrhard](persona_ehrhard.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Arzt](position_arzt.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Praxis](place_praxis.md)
+
+**Pieces**
+
+- [Der Brief](piece_brief.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Resignation](pitch_resignation.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Abschied](plot_abschied.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

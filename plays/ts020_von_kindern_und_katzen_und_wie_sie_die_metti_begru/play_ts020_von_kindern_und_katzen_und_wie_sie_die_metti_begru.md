@@ -2,7 +2,7 @@
 khai: play
 title: "Von Kindern und Katzen, und wie sie die Metti begruben"
 declared: "Von Kindern und Katzen, und wie sie die Metti begruben"
-description: "A staging of Theodor Storm's Novelle Von Kindern und Katzen, und wie sie die Metti begruben (1868)."
+description: "Eine Inszenierung von Theodor Storms Novelle Von Kindern und Katzen, und wie sie die Metti begruben (1868)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Von Kindern und Katzen, und wie sie die Metti begr
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Fritz](persona_fritz.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Kind](position_kind.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Hof](place_hof.md)
+
+**Pieces**
+
+- [Der Sarg](piece_sarg.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Kindheit](pitch_kindheit.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Spiel](plot_spiel.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

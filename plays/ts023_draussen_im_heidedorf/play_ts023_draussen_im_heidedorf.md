@@ -2,7 +2,7 @@
 khai: play
 title: "Draußen im Heidedorf"
 declared: "Draußen im Heidedorf"
-description: "A staging of Theodor Storm's Novelle Draußen im Heidedorf (1872)."
+description: "Eine Inszenierung von Theodor Storms Novelle Draußen im Heidedorf (1872)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Draußen im Heidedorf von Theodor Storm. Die Handl
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Hinrich](persona_hinrich.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Bauer](position_bauer.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Heidedorf](place_heidedorf.md)
+
+**Pieces**
+
+- [Der Hof](piece_hof.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Das Unheimliche](pitch_unheimlich.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Sturmnacht](plot_sturmnacht.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

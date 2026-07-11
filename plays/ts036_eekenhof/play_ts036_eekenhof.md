@@ -2,7 +2,7 @@
 khai: play
 title: "Eekenhof"
 declared: "Eekenhof"
-description: "A staging of Theodor Storm's Novelle Eekenhof (1880)."
+description: "Eine Inszenierung von Theodor Storms Novelle Eekenhof (1880)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Eekenhof von Theodor Storm. Die Handlung entfaltet
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Detlev](persona_detlev.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Ritter](position_ritter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Burg](place_burg.md)
+
+**Pieces**
+
+- [Das Schwert](piece_schwert.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Das Düstere](pitch_duehster.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Fehde](plot_fehde.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

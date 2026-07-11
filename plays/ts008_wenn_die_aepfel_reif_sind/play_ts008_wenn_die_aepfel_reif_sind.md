@@ -2,7 +2,7 @@
 khai: play
 title: "Wenn die Äpfel reif sind"
 declared: "Wenn die Äpfel reif sind"
-description: "A staging of Theodor Storm's Novelle Wenn die Äpfel reif sind (1856)."
+description: "Eine Inszenierung von Theodor Storms Novelle Wenn die Äpfel reif sind (1856)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Wenn die Äpfel reif sind von Theodor Storm. Die H
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Constantin](persona_constantin.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Student](position_student.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der Obstgarten](place_obstgarten.md)
+
+**Pieces**
+
+- [Der Apfel](piece_apfel.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Das Idyll](pitch_idyll.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Ernte](plot_ernte.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

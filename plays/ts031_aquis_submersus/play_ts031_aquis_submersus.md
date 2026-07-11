@@ -2,7 +2,7 @@
 khai: play
 title: "Aquis submersus"
 declared: "Aquis submersus"
-description: "A staging of Theodor Storm's Novelle Aquis submersus (1876)."
+description: "Eine Inszenierung von Theodor Storms Novelle Aquis submersus (1876)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Aquis submersus von Theodor Storm. Die Handlung en
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Johannes](persona_johannes.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Maler](position_maler.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Schloss](place_schloss.md)
+
+**Pieces**
+
+- [Das Gemälde](piece_gemaelde.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Tragik](pitch_tragik.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Der Tod](plot_tod.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

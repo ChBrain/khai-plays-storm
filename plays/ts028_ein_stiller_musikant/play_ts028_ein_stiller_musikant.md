@@ -2,7 +2,7 @@
 khai: play
 title: "Ein stiller Musikant"
 declared: "Ein stiller Musikant"
-description: "A staging of Theodor Storm's Novelle Ein stiller Musikant (1875)."
+description: "Eine Inszenierung von Theodor Storms Novelle Ein stiller Musikant (1875)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Ein stiller Musikant von Theodor Storm. Die Handlu
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Valentin](persona_valentin.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Organist](position_organist.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Die Kirche](place_kirche.md)
+
+**Pieces**
+
+- [Die Orgel](piece_orgel.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Stille](pitch_stille.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Spiel](plot_spiel.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

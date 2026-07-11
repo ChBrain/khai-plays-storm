@@ -2,7 +2,7 @@
 khai: play
 title: "Von Jenseit des Meeres"
 declared: "Von Jenseit des Meeres"
-description: "A staging of Theodor Storm's Novelle Von Jenseit des Meeres (1865)."
+description: "Eine Inszenierung von Theodor Storms Novelle Von Jenseit des Meeres (1865)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Von Jenseit des Meeres von Theodor Storm. Die Hand
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Jennie](persona_jennie.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Tochter](position_tochter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Landgut](place_landgut.md)
+
+**Pieces**
+
+- [Der Brief aus Amerika](piece_brief.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Herkunft](pitch_herkunft.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Entdeckung](plot_entdeckung.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

@@ -2,7 +2,7 @@
 khai: play
 title: "Es waren zwei Königskinder"
 declared: "Es waren zwei Königskinder"
-description: "A staging of Theodor Storm's Novelle Es waren zwei Königskinder (1884)."
+description: "Eine Inszenierung von Theodor Storms Novelle Es waren zwei Königskinder (1884)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Es waren zwei Königskinder von Theodor Storm. Die
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Wilhelm](persona_wilhelm.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Student](position_student.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Der See](place_see.md)
+
+**Pieces**
+
+- [Das Boot](piece_boot.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Sehnsucht](pitch_sehnsucht.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Die Tragik](plot_tragik.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 

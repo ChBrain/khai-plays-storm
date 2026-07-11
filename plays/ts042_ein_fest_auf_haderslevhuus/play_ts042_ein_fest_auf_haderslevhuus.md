@@ -2,7 +2,7 @@
 khai: play
 title: "Ein Fest auf Haderslevhuus"
 declared: "Ein Fest auf Haderslevhuus"
-description: "A staging of Theodor Storm's Novelle Ein Fest auf Haderslevhuus (1885)."
+description: "Eine Inszenierung von Theodor Storms Novelle Ein Fest auf Haderslevhuus (1885)."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -28,23 +28,27 @@ Eine Inszenierung der Novelle Ein Fest auf Haderslevhuus von Theodor Storm. Die 
 
 **Personas**
 
-- [Protagonist](persona_protagonist.md) - die Hauptfigur dieses Dramas.
+- [Rolf](persona_rolf.md) - die Hauptfigur dieses Dramas.
 
 **Positions**
 
-- [Protagonist](position_protagonist.md)
+- [Ritter](position_ritter.md)
 
 **Places**
 
-- [Schauplatz](place_schauplatz.md)
+- [Das Schloss Haderslevhuus](place_haderslevhuus.md)
+
+**Pieces**
+
+- [Der Becher](piece_becher.md)
 
 **Pitches**
 
-- [Tenor](pitch_tenor.md)
+- [Die Leidenschaft](pitch_leidenschaft.md)
 
 ## Triggers
 
-**[Plot: Das Ereignis](plot_ereignis.md)**
+**[Plot: Das Turnier](plot_turnier.md)**
 
 Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
 
