@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "auffuehrung"
-declared: "Die Aufführung"
+declared: "Der Aufführungsplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,31 +10,32 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Aufführung
+# Plan: Der Aufführungsplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Joseph Tendlers Plan zur Aufführung des Dr. Faust in der Kleinstadt.
 
 ## Owner
 
-- Owner: [Paul](persona_paul.md)
+- Owner: [Tendler](persona_tendler.md)
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist die Erzielung einer guten Einnahme durch eine meisterhafte Puppenspielvorstellung vor der skeptischen Buergerschaft.
 
 ## Orders
 
-- [Paul](persona_paul.md) muss die ersten Schritte am [Das Puppentheater](place_theater.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Tendler](persona_tendler.md) muss den grossen Saal [Der Saal](place_saal.md) fuer drei Tage mieten.
+- [Lisei](persona_lisei.md) muss den Verkauf der Eintrittskarten organisieren.
+- [Das Kasperle](piece_kasperle.md) muss in bestem, spielbereitem Zustand praesentiert werden.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Das Puppentheater](place_theater.md) realisiert, wobei das Motiv [Das Kasperle](piece_kasperle.md) eine zentrale Rolle spielt.
+Der Plan wird trotz widriger Umstände und der anfänglichen Skepsis der Buerger von [Die Kleinstadt](place_kleinstadt.md) erfolgreich auf der Buehne umgesetzt.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Das Puppentheater](place_theater.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Das Kasperle](piece_kasperle.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die Anmietung des Saals und der Aufbau der Buehne
+- [ ] Die Gewinnung des misstrauischen kleinstädtischen Publikums
+- [ ] Die unbeschädigte Durchführung der komplexen Faust - Szenen

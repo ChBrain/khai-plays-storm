@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Die Ankunft des fahrenden Volks in der spießigen Kleinstadt und die engstirnige Zunftmoral der alteingesessenen Buerger.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der schleichende Ausgrenzungsprozess, der die Kuenstler als Vagabunden, Komoedianten und unehrliches Volk stigmatisiert.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist der Spott der Nachbarn und der Neid auf Pauls wirtschaftlichen Erfolg trotz seiner unkonventionellen Ehe.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der spöttische Beiname Pole Poppenspäler, der Paul zeitlebens anhaftet, den er jedoch schliesslich mit Stolz als Ehrenname traegt.
