@@ -21,8 +21,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts001_im_saal",
       "note": ""
     },
     {
@@ -69,8 +69,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts004_posthuma",
       "note": ""
     },
     {
@@ -85,8 +85,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts005_im_sonnenschein",
       "note": ""
     },
     {
@@ -101,8 +101,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts006_angelika",
       "note": ""
     },
     {
@@ -117,8 +117,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts007_ein_gruenes_blatt",
       "note": "Written 1850; first print 1855."
     },
     {
@@ -133,8 +133,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts008_wenn_die_aepfel_reif_sind",
       "note": ""
     },
     {
@@ -149,8 +149,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts009_auf_dem_staatshof",
       "note": ""
     },
     {
@@ -165,8 +165,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts010_spaete_rosen",
       "note": ""
     },
     {
@@ -181,8 +181,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts011_drueben_am_markt",
       "note": ""
     },
     {
@@ -197,8 +197,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts012_veronika",
       "note": ""
     },
     {
@@ -213,8 +213,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts013_im_schloss",
       "note": ""
     },
     {
@@ -229,8 +229,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts014_unter_dem_tannenbaum",
       "note": "Christmas story."
     },
     {
@@ -245,8 +245,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts015_abseits",
       "note": "Novelle; distinct from the like-named poem."
     },
     {
@@ -261,8 +261,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts016_auf_der_universitaet",
       "note": "First published as 'Lenore'; retitled in collected editions."
     },
     {
@@ -277,8 +277,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts017_von_jenseit_des_meeres",
       "note": "First print 1865, Westermanns Monatshefte (confirmed)."
     },
     {
@@ -293,8 +293,8 @@
       "embedded_in": null,
       "ll_band": 1,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts018_eine_malerarbeit",
       "note": "Boundary year Bd.1/Bd.2; assigned Bd.1."
     },
     {
@@ -309,8 +309,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts019_in_st_juergen",
       "note": ""
     },
     {
@@ -325,8 +325,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts020_von_kindern_und_katzen_und_wie_sie_die_metti_begru",
       "note": "Sketch/Erzählung."
     },
     {
@@ -341,8 +341,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": true,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts021_der_amtschirurgus_heimkehr",
       "note": "Collected in 'Zerstreute Kapitel' 1873; sometimes counted as short prose; first-print year approximate."
     },
     {
@@ -357,8 +357,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts022_eine_halligfahrt",
       "note": ""
     },
     {
@@ -373,8 +373,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts023_draussen_im_heidedorf",
       "note": ""
     },
     {
@@ -389,8 +389,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts024_beim_vetter_christian",
       "note": ""
     },
     {
@@ -405,8 +405,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts025_pole_poppenspaeler",
       "note": ""
     },
     {
@@ -421,8 +421,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts026_viola_tricolor",
       "note": ""
     },
     {
@@ -437,8 +437,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts027_waldwinkel",
       "note": ""
     },
     {
@@ -453,8 +453,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts028_ein_stiller_musikant",
       "note": ""
     },
     {
@@ -469,8 +469,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts029_im_nachbarhause_links",
       "note": ""
     },
     {
@@ -485,8 +485,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts030_psyche",
       "note": ""
     },
     {
@@ -501,8 +501,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts031_aquis_submersus",
       "note": "First of the mature historical 'chronicle' Novellen."
     },
     {
@@ -517,8 +517,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts032_carsten_curator",
       "note": ""
     },
     {
@@ -533,8 +533,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts033_renate",
       "note": ""
     },
     {
@@ -549,8 +549,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts034_im_brauerhause",
       "note": ""
     },
     {
@@ -565,8 +565,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts035_die_soehne_des_senators",
       "note": ""
     },
     {
@@ -581,8 +581,8 @@
       "embedded_in": null,
       "ll_band": 2,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts036_eekenhof",
       "note": "Written 1879; first print 1880."
     },
     {
@@ -597,8 +597,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts037_der_herr_etatsrat",
       "note": ""
     },
     {
@@ -613,8 +613,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts038_hans_und_heinz_kirch",
       "note": "Written 1882; first print 1883."
     },
     {
@@ -629,8 +629,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts039_schweigen",
       "note": ""
     },
     {
@@ -645,8 +645,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts040_es_waren_zwei_koenigskinder",
       "note": ""
     },
     {
@@ -661,8 +661,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts041_zur_chronik_von_grieshuus",
       "note": ""
     },
     {
@@ -677,8 +677,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts042_ein_fest_auf_haderslevhuus",
       "note": ""
     },
     {
@@ -693,8 +693,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts043_john_riew",
       "note": ""
     },
     {
@@ -709,8 +709,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts044_boetjer_basch",
       "note": ""
     },
     {
@@ -725,8 +725,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts045_ein_bekenntnis",
       "note": ""
     },
     {
@@ -741,8 +741,8 @@
       "embedded_in": null,
       "ll_band": 3,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts046_ein_doppelgaenger",
       "note": ""
     },
     {
