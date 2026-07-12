@@ -24,7 +24,7 @@ permanent handle; genre, year, and edition band live in the record. See
 `canon/README.md` for the scheme and the citation/IP posture.
 
 - **224** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 166 Gedichte)
-- **47** staged · **177** planned
+- **54** staged · **170** planned
 - **0** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
 
 ### Novellen (`TS-001–099`)
@@ -81,15 +81,15 @@ permanent handle; genre, year, and edition band live in the record. See
 
 ### Märchen (`TS-200–299`)
 
-| TS     | Work                             | Year | Status  |
-| ------ | -------------------------------- | ---- | ------- |
-| TS-200 | Hans Bär †                       | 1837 | planned |
-| TS-201 | Der kleine Häwelmann             | 1849 | planned |
-| TS-202 | Hinzelmeier                      | 1850 | planned |
-| TS-203 | Bulemanns Haus                   | 1864 | planned |
-| TS-204 | Die Regentrude                   | 1864 | planned |
-| TS-205 | Der Spiegel des Cyprianus        | 1865 | planned |
-| TS-206 | Märchen von den drei Spinnfrauen | 1846 | planned |
+| TS     | Work                             | Year | Status |
+| ------ | -------------------------------- | ---- | ------ |
+| TS-200 | Hans Bär †                       | 1837 | staged |
+| TS-201 | Der kleine Häwelmann             | 1849 | staged |
+| TS-202 | Hinzelmeier                      | 1850 | staged |
+| TS-203 | Bulemanns Haus                   | 1864 | staged |
+| TS-204 | Die Regentrude                   | 1864 | staged |
+| TS-205 | Der Spiegel des Cyprianus        | 1865 | staged |
+| TS-206 | Märchen von den drei Spinnfrauen | 1846 | staged |
 
 ### Kleine Prosa (`TS-300–399`)
 
