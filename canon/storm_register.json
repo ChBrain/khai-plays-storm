@@ -773,8 +773,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": true,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts200_hans_baer",
       "note": "Earliest, juvenile fairy tale; printed much later."
     },
     {
@@ -789,8 +789,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts201_der_kleine_haewelmann",
       "note": "Written for his son Hans; his best-known Märchen."
     },
     {
@@ -805,8 +805,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts202_hinzelmeier",
       "note": "First printed 1850 (Altona) as 'Stein und Rose'; expanded/retitled 'Hinzelmeier' 1857."
     },
     {
@@ -821,8 +821,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts203_bulemanns_haus",
       "note": "Spuk-Kunstmärchen."
     },
     {
@@ -837,8 +837,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts204_die_regentrude",
       "note": "Written 1863/64 in Heiligenstadt; collected in 'Drei Märchen' 1866."
     },
     {
@@ -853,8 +853,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts205_der_spiegel_des_cyprianus",
       "note": "Collected in 'Drei Märchen' 1866."
     },
     {
@@ -869,8 +869,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts206_maerchen_von_den_drei_spinnfrauen",
       "note": "A folk retelling Storm published; kept as a published retelling. First-print year to verify. A folk retelling Storm published; first print 1846."
     },
     {
