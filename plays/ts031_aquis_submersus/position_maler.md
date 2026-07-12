@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "maler"
-declared: "Maler"
+declared: "Der Maler"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Maler
+# Position: Der Maler
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Das Talent zur Schöpfung dauerhafter Kunstwerke, aber keinen nennenswerten gesellschaftlichen Rang oder Schutz durch ein adliges Privileg.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er bestimmt den Blick auf die Gesichter der Figuren, indem er ihre wahren Wesenszüge auf der Leinwand fuer die Nachwelt festhaelt.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine gesellschaftliche Anerkennung, sein Anrecht auf Liebesglueck und schliesslich seine seelische Unbeschwertheit durch die Last der Schuld.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Der leidenschaftliche Wille, die Schönheit Katharinas vor dem Vergessen zu bewahren und den tiefen Schmerz ueber den Verlust des Sohnes kuenstlerisch zu verarbeiten.

@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "flucht"
-declared: "Die Flucht"
+declared: "Der Fluchtplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,11 +10,11 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Flucht
+# Plan: Der Fluchtplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Ein verzweifelter Rettungsplan der Liebenden zur Flucht aus den gesellschaftlichen Zwängen.
 
 ## Owner
 
@@ -22,19 +22,20 @@ Ein Lebensplan zur Umsetzung des Vorhabens.
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist das Entkommen aus der staendischen Enge und der Aufbau einer gemeinsamen bürgerlichen Existenz in Amsterdam.
 
 ## Orders
 
-- [Johannes](persona_johannes.md) muss die ersten Schritte am [Das Schloss](place_schloss.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Johannes](persona_johannes.md) muss heimlich ein Fuhrwerk am Waldrand bereitstellen.
+- [Katharina](persona_katharina.md) muss unbemerkt ihre persoehnlichen Habseligkeiten packen.
+- Beide muessen sich unter dem Schutz der Dunkelheit am Gartentor treffen.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Das Schloss](place_schloss.md) realisiert, wobei das Motiv [Das Gemälde](piece_gemaelde.md) eine zentrale Rolle spielt.
+Der Plan wird waehrend der Abwesenheit des Junkers umgesetzt, scheitert jedoch kläglich an der vorzeitigen Rueckkehr von [Wulf](persona_wulf.md) und dessen Hunden in [Das Herrenhaus](place_herrenhaus.md).
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Das Schloss](place_schloss.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Das Gemälde](piece_gemaelde.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die Bereitstellung des Fluchtweges und der Mittel
+- [ ] Das unbemerkte Entkommen aus dem wachsamen Auge des Junkers
+- [ ] Die Etablierung einer neuen Existenz fernab der heimatlichen Standesgrenzen
