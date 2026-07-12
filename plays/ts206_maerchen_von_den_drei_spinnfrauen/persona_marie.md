@@ -22,11 +22,11 @@ Die Hauptfigur in [Das Märchen von den drei Spinnfrauen](play_ts206_maerchen_vo
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Marie ist ein schönes, geschicktes und eigentlich fleißiges Mädchen, das jedoch eine tiefe Abneigung gegen das monotone und körperlich zerstörerische Spinnen hegt. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Marie ist ein schönes, geschicktes und eigentlich fleißiges Mädchen, das jedoch eine tiefe Abneigung gegen das monotone und körperlich zerstörerische Spinnen hegt. Ihre Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die unfaire Forderung ihres Freiers und nimmt die Hilfe der drei geheimnisvollen Spinnfrauen an, um ihre Zukunft zu sichern.
+Sie sieht sich mit der unfairen Forderung ihres Freiers konfrontiert und nimmt die Hilfe der drei geheimnisvollen Spinnfrauen an, um ihre Zukunft zu sichern.
 
 ## Shadow
 
