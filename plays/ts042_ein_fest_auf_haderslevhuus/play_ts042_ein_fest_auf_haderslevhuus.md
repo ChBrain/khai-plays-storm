@@ -1,0 +1,57 @@
+---
+khai: play
+title: "Ein Fest auf Haderslevhuus"
+declared: "Ein Fest auf Haderslevhuus"
+description: "Eine Inszenierung von Theodor Storms Novelle Ein Fest auf Haderslevhuus (1885)."
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-07-11"
+---
+
+# Play: Ein Fest auf Haderslevhuus
+
+## Estate
+
+[khai-plays-storm](https://github.com/ChBrain/khai-plays-storm): the house that holds this production and answers for the run.
+
+## Name
+
+Ein Fest auf Haderslevhuus.
+
+## Arc
+
+Eine Inszenierung der Novelle Ein Fest auf Haderslevhuus von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+
+## Company
+
+**Personas**
+
+- [Rolf](persona_rolf.md) - die Hauptfigur dieses Dramas.
+
+**Positions**
+
+- [Ritter](position_ritter.md)
+
+**Places**
+
+- [Das Schloss Haderslevhuus](place_haderslevhuus.md)
+
+**Pieces**
+
+- [Der Becher](piece_becher.md)
+
+**Pitches**
+
+- [Die Leidenschaft](pitch_leidenschaft.md)
+
+## Triggers
+
+**[Plot: Das Turnier](plot_turnier.md)**
+
+Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+
+## Stakes
+
+Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
