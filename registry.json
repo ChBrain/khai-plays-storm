@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-storm",
-  "version": "0.47.0",
+  "version": "0.54.0",
   "plays": [
     {
       "kind": "play",
@@ -284,6 +284,48 @@
       "id": "ts047_der_schimmelreiter",
       "title": "The Rider on the White Horse",
       "description": "A self-taught dike-reeve builds a dike against the sea and his neighbours, then drowns with his family in the flood."
+    },
+    {
+      "kind": "play",
+      "id": "ts200_hans_baer",
+      "title": "Hans Bär",
+      "description": "Eine dramatische Inszenierung von Theodor Storms frühem Märchen Hans Bär aus dem Jahr 1837."
+    },
+    {
+      "kind": "play",
+      "id": "ts201_der_kleine_haewelmann",
+      "title": "Der kleine Häwelmann",
+      "description": "Eine Inszenierung von Storms Märchen über den Jungen Häwelmann, der nachts in seinem Rollbett zum Mond reist."
+    },
+    {
+      "kind": "play",
+      "id": "ts202_hinzelmeier",
+      "title": "Hinzelmeier",
+      "description": "Eine Inszenierung von Theodor Storms Märchen Hinzelmeier über die Suche nach Liebe und Erkenntnis."
+    },
+    {
+      "kind": "play",
+      "id": "ts203_bulemanns_haus",
+      "title": "Bulemanns Haus",
+      "description": "Eine Inszenierung von Theodor Storms düsterem Spukmärchen über den Untergang des habgierigen Pfandleihers Bulemann."
+    },
+    {
+      "kind": "play",
+      "id": "ts204_die_regentrude",
+      "title": "Die Regentrude",
+      "description": "Eine Inszenierung von Storms Märchen Die Regentrude über die Erweckung der Regenbringerin aus dem Jahr 1864."
+    },
+    {
+      "kind": "play",
+      "id": "ts205_der_spiegel_des_cyprianus",
+      "title": "Der Spiegel des Cyprianus",
+      "description": "Eine Inszenierung über den Kampf gegen einen Familienfluch und die Rettung des Kuno durch einen magischen Spiegel."
+    },
+    {
+      "kind": "play",
+      "id": "ts206_maerchen_von_den_drei_spinnfrauen",
+      "title": "Das Märchen von den drei Spinnfrauen",
+      "description": "Eine Inszenierung von Theodor Storms Märchen von den drei Spinnfrauen aus dem Jahr 1846."
     }
   ]
 }
