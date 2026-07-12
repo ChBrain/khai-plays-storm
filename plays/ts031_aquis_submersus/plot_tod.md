@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "tod"
-declared: "Der Tod"
+declared: "Der Tod des Kindes"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plot: Der Tod
+# Plot: Der Tod des Kindes
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Die entscheidende Szene der Inszenierung am [Das Schloss](place_schloss.md).
+Die geheime, leidenschaftliche Wiederbegegnung der Liebenden im Garten von [Das Pfarrhaus](place_pfarrhaus.md).
 
 ## Action
 
-"Die Hauptfigur [Johannes](persona_johannes.md) stellt sich den Herausforderungen der Situation am [Das Schloss](place_schloss.md)."
+Waehrend [Johannes](persona_johannes.md) und [Katharina](persona_katharina.md) sich in einer verbotenen Umarmung verlieren, ertrinkt ihr kleiner Sohn unbeaufsichtigt im nahen Teich.
 
 ## Stage
 
-Eine stimmungsvolle Bühne: [Johannes](persona_johannes.md) agiert im Scheinwerferlicht, während im Hintergrund der [Das Schloss](place_schloss.md) erkennbar ist.
+Eine erschütternde Szene am Ufer des Teiches bei [Das Pfarrhaus](place_pfarrhaus.md): [Johannes](persona_johannes.md) zieht den regungslosen Koerper des Kindes aus dem Wasser, waehrend der herbeigeeilte Pastor [Dieterich](persona_dieterich.md) die Eltern verflucht.
 
 ## Tension
 
-Die Anspannung wächst, da [Johannes](persona_johannes.md) eine folgenschwere Entscheidung treffen muss, die alles verändern könnte.
+Der absolute hoechste Punkt der Tragödie, an dem die Schuld unumkehrbar wird und das Glueck der Liebenden fuer immer zerbricht.

@@ -2,7 +2,7 @@
 khai: play
 title: "Aquis submersus"
 declared: "Aquis submersus"
-description: "Eine Inszenierung von Theodor Storms Novelle Aquis submersus (1876)."
+description: "Eine Inszenierung über einen unbarmherzigen Standeskonflikt und die tragische Schuld des Vaters am Tod seines Sohnes."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Aquis submersus.
 
 ## Arc
 
-Eine Inszenierung der Novelle Aquis submersus von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine tragische Inszenierung von Theodor Storms Meisterwerk über die unglueckliche Liebe zwischen dem bürgerlichen Maler Johannes und der adligen Katharina. Ihre Liebe scheitert an den Standesgrenzen des siebzehnten Jahrhunderts, was schliesslich im tragischen Ertrinken ihres gemeinsamen Sohnes gipfelt und Johannes eine lebenslange Schuld auferlegt.
 
 ## Company
 
 **Personas**
 
-- [Johannes](persona_johannes.md) - die Hauptfigur dieses Dramas.
+- [Johannes](persona_johannes.md), der gezeichnete Maler.
+- [Katharina](persona_katharina.md), die adlige Geliebte.
+- [Wulf](persona_wulf.md), ihr grausamer Bruder.
+- [Dieterich](persona_dieterich.md), der dogmatische Pastor.
+- [Der Erzaehler](persona_erzaehler.md), der Entdecker des Manuskripts.
 
 **Positions**
 
-- [Maler](position_maler.md)
+- [Der Maler](position_maler.md)
+- [Die Adlige](position_adlige.md)
+- [Der Pastor](position_pastor.md)
+- [Der Junker](position_junker.md)
 
 **Places**
 
-- [Das Schloss](place_schloss.md)
+- [Das Herrenhaus](place_herrenhaus.md)
+- [Das Pfarrhaus](place_pfarrhaus.md)
+- [Die Kirche](place_kirche.md)
 
 **Pieces**
 
-- [Das Gemälde](piece_gemaelde.md)
+- [Das Manuskript](piece_brief.md)
+- [Das Gemaelde](piece_gemaelde.md)
+- [Die Nelke](piece_nelke.md)
 
 **Pitches**
 
-- [Die Tragik](pitch_tragik.md)
+- [Die Schuld](pitch_schuld.md)
+- [Die Standesgrenzen](pitch_standesgrenzen.md)
 
 ## Triggers
 
-**[Plot: Der Tod](plot_tod.md)**
+**[Plot: Die Vertreibung](plot_vertreibung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die Vertreibung des Malers besiegelt das Ende der gemeinsamen Zukunft.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Johannes die verheerende Schuld am Tod des eigenen Kindes ueberwinden kann, oder ob die starrsinnigen Standesgrenzen und der Fluch des Pastors sein künstlerisches und seelisches Leben vollkommen zerstören.

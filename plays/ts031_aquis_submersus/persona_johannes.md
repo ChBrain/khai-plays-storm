@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Aquis submersus](play_ts031_aquis_submersus.md) und Träger der Position [Maler](position_maler.md).
+Der tragische Protagonist in [Aquis submersus](play_ts031_aquis_submersus.md) und Inhaber der Position [Der Maler](position_maler.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Aquis submersus](play_ts031_aquis_submersus.md) und Träger d
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein hochbegabter, sensibler Maler des siebzehnten Jahrhunderts, dessen Herz bedingungslos an Katharina haengt. Seine Ausdrucksweise schwankt zwischen künstlerischer Leidenschaft und tiefer, von Schuld zerfressener Melancholie. Er spricht ein gedämpftes, wuerdevolles Deutsch.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Johannes zeichnet die Portraets der Adelsfamilie, ringt verzweifelt um Katharinas Hand, flieht nach Amsterdam, kehrt heimlich zurueck und verewigt sein ertrunkenes Kind schliesslich auf einem duesteren Kirchenbild.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die unaufhörliche Schuld, sein eigenes Kind waehrend einer heimlichen, verbotenen Begegnung mit Katharina am Ufer des Teiches aus den Augen verloren und dem Tod ueberlassen zu haben.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Ein zögerlicher, schmerzvoller Blick auf seine eigenen Haende und das nervöse Drehen eines Pinsels in seinen Fingern bei lauten Geraeuschen.

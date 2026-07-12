@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Die verbotene Zusammenkunft von [Johannes](persona_johannes.md) und [Katharina](persona_katharina.md) im Pfarrgarten und die daraus resultierende Vernachlässigung der Aufsichtspflicht.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der unumkehrbare physische Prozess des Ertrinkens im Teich von [Das Pfarrhaus](place_pfarrhaus.md), der zum Erlöschen des jungen Lebens führt.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das anziehende, stille Wasser des Teiches und das völlige Aufgehen der Eltern in ihrer unterdrückten Leidenschaft.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Die traumatischen Folgen fuer die Eltern, der Fluch des Pastors am Grab und die dauerhafte Verewigung des Schmerzes auf dem Kirchenbild.
