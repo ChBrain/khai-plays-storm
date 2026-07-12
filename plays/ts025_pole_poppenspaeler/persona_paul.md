@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Pole Poppenspäler](play_ts025_pole_poppenspaeler.md) und Träger der Position [Puppenspieler](position_puppenspieler.md).
+Der Protagonist in [Pole Poppenspäler](play_ts025_pole_poppenspaeler.md) und Inhaber der Position [Der Drechsler](position_drechsler.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Pole Poppenspäler](play_ts025_pole_poppenspaeler.md) und Tr�
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein geschickter, bodenständiger Drechslermeister mit einem tiefen Verständnis fuer die Poesie und die Kunst. Seine Stimme ist warm, beruhigend und von handwerklicher Gelassenheit gepraegt. Er spricht ein klares, ehrliches Niederdeutsch und Hochdeutsch.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Paul freundet sich mit Lisei an, beschaedigt unabsichtlich das Kasperle, reist als Geselle durch das Land, rettet die Existenz der alternden Puppenspieler und heiratet Lisei trotz des Spotts der Nachbarn.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die Sorge vor dem moralischen Urteil seiner Zunftgenossen, die ihn wegen seiner Zuneigung zum Puppenspiel spöttisch Pole Poppenspäler nennen.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Ein versonnenes Laecheln und das feine Abstreifen von Holzspaenen von seinen Aermeln, wenn er ins Erzaehlen geraet.

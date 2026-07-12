@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Das Puppentheater](place_theater.md).
+Das Objekt befindet sich in [Der Saal](place_saal.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es symbolisiert die Seele des Puppentheaters, die Magie der kindlichen Phantasie und den Wendepunkt der vaeterlichen Akzeptanz des Spiels.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Eine kunstvoll geschnitzte, hölzerne Marionette mit einem verschmitzten, lachenden Gesicht und einem bunten, geflickten Narrenkleid.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Seine erfolgreiche Reparatur in der Drechslerwerkstatt rettet die Kunst der Tendlers vor dem Ruin und verbindet die Familien.
