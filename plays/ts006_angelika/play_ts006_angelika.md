@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Angelika"
-declared: "Angelika"
-description: "Eine Inszenierung von Theodor Storms Novelle Angelika (1855)."
+title: "Angelica"
+declared: "Angelica"
+description: "Eine Inszenierung über Ehrhardts Eifersucht und seine unheilvolle Unentschlossenheit gegenüber der geliebten Angelica."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Play: Angelika
+# Play: Angelica
 
 ## Estate
 
@@ -18,40 +18,52 @@ stamp:
 
 ## Name
 
-Angelika.
+Angelica.
 
 ## Arc
 
-Eine Inszenierung der Novelle Angelika von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Ein melancholisches Seelendrama über Eifersucht, finanzielle Unsicherheit und die verheerende Unentschlossenheit des Herzens. Der stolze, aber mittellose Ehrhardt liebt die junge Angelica, wagt jedoch aus Angst vor sozialer Unzulänglichkeit nicht, um ihre Hand anzuhalten. Geplagt von Eifersucht und Standesscham flieht er aus der Stadt. Als er Jahre später mit gesicherter Stellung zurückkehrt, hat Angelica bereits dem Drängen ihrer Mutter nachgegeben und sich mit einem wohlhabenden Arzt verlobt. Obwohl der Arzt kurz vor der Hochzeit stirbt, verhindert Ehrhardts unversöhnlicher Stolz und sein verbittertes Misstrauen eine glückliche Rückkehr zu Angelica.
 
 ## Company
 
 **Personas**
 
-- [Ehrhard](persona_ehrhard.md) - die Hauptfigur dieses Dramas.
+- [Ehrhardt](persona_ehrhardt.md), der stolze Zweifler.
+- [Angelica](persona_angelica.md), die begehrte Buergerstochter.
+- [Mutter](persona_mutter.md), die pragmatische Witwe.
+- [Arzt](persona_arzt.md), der wohlhabende Verlobte.
+- [Bote](persona_bote.md), der Ueberbringer der Todesnachricht.
 
 **Positions**
 
-- [Arzt](position_arzt.md)
+- [Der Unentschlossene](position_unentschlossener.md)
+- [Die Buergerstochter](position_buergerstochter.md)
+- [Die Apothekerwitwe](position_apothekerwitwe.md)
+- [Der Arzt Suitor](position_arzt_suitor.md)
 
 **Places**
 
-- [Die Praxis](place_praxis.md)
+- [Der Salon](place_salon.md)
+- [Der Schreibtisch](place_schreibtisch.md)
+- [Der Garten Herbst](place_garten_herbst.md)
 
 **Pieces**
 
-- [Der Brief](piece_brief.md)
+- [Der Brief vom Tod](piece_brief_tod.md)
+- [Der Ring](piece_ring.md)
+- [Das Tagebuch](piece_tagebuch.md)
 
 **Pitches**
 
-- [Die Resignation](pitch_resignation.md)
+- [Besitzgier](pitch_besitzgier.md)
+- [Zauedern](pitch_zauedern.md)
 
 ## Triggers
 
-**[Plot: Der Abschied](plot_abschied.md)**
+**[Plot: Die Eifersucht im Salon](plot_eifersucht.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die Beobachtung Angelicas im geselligen Salon schürt Ehrhardts besitzergreifendes Misstrauen und zementiert seinen Rückzug.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Ehrhardt seinen verletzten Stolz und seine krankhafte Eifersucht überwinden kann, um Angelica nach dem plötzlichen Tod des Arztes endlich die aufrechte Hand zu reichen, oder ob er sich endgültig in seine bittere Einsamkeit zurückzieht.
