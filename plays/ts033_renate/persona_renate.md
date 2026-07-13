@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Renate](play_ts033_renate.md) und Träger der Position [Bauernmädchen](position_bauernmaedchen.md).
+Die angeklagte Bauernstochter in [Renate](play_ts033_renate.md) und Inhaberin der Position [Das Bauernmaedchen](position_bauernmaedchen.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Renate](play_ts033_renate.md) und Träger der Position [Bauer
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine kluge, stolze und rational denkende junge Frau mit einer tiefen, traurigen Anmut. Ihre Stimme ist klar, ruhig und verrät trotz der Bedrohung grosse innere Stärke und Stolz.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Sie verliebt sich in Josias, leidet unter den böswilligen Hexereigerüchten der Dorfgemeinschaft, verzichtet schliesslich auf ihr Liebesglück und flieht aus Schwabstedt.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die tiefe Verbitterung darüber, dass ihre eigene rationale, unbescholtene Lebensweise vom Aberglauben der Menschen als Sünde und Zauberei ausgelegt wird.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das stolze Zurückwerfen ihres Kopfes bei Anfeindungen und das traurige, schweigende Betrachten des silbernen Rings.

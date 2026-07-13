@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "liebe"
-declared: "Die Liebe"
+declared: "Der Lebensplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,31 +10,32 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Liebe
+# Plan: Der Lebensplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Josias' Plan zur Errichtung einer gemeinsamen Zukunft und Pfarrstelle mit Renate.
 
 ## Owner
 
-- Owner: [Renate](persona_renate.md)
+- Owner: [Josias](persona_josias.md)
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist der erfolgreiche Abschluss seines Theologiestudiums und die Etablierung einer Ehe mit Renate.
 
 ## Orders
 
-- [Renate](persona_renate.md) muss die ersten Schritte am [Die Marsch](place_marsch.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Josias](persona_josias.md) muss seine dogmatischen Prüfungen im Pastorat ablegen.
+- Er muss Renate heimlich [Der Hexenring](piece_hexenring.md) überreichen und die Ehe versprechen.
+- Jeglicher offene Konflikt mit dem dörflichen Aberglauben muss vermieden werden.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Die Marsch](place_marsch.md) realisiert, wobei das Motiv [Die Kette](piece_kette.md) eine zentrale Rolle spielt.
+Der Plan scheitert am unerbittlichen orthodoxen Dogma des Vaters und Renates Opfergang.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Die Marsch](place_marsch.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Die Kette](piece_kette.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die erfolgreiche Ordination zum lutherischen Pastor
+- [ ] Die Versöhnung seines Vaters mit Renates bäuerlicher Herkunft
+- [ ] Der Aufbau einer friedlichen, gemeinsamen Ehe in einer eigenen Pfarrei
