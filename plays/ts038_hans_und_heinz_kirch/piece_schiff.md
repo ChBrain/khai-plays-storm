@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Der Hafen](place_hafen.md).
+Das Objekt befindet sich in [Der Hafen](place_hafen.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es ist das tragende Dingsymbol fuer die unerfüllte Zufriedenheit des Vaters und den unaufhaltsamen Wunsch des Sohnes nach Unabhängigkeit.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Die Brigantine mit dem hölzernen Schriftzug Zufriedenheit am Bug, die stolz im Hafenbecken vor Anker liegt.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Ihr Verkauf im Zuge des Niedergangs besiegelt den endgültigen Ruin der stolzen Lebensleistung von Hans Adam Kirch.
