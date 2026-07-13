@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Hans und Heinz Kirch](play_ts038_hans_und_heinz_kirch.md) und Träger der Position [Kaufmann](position_kaufmann.md).
+Der stolze Vater in [Hans und Heinz Kirch](play_ts038_hans_und_heinz_kirch.md) und Inhaber der Position [Der Reeder](position_reeder.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Hans und Heinz Kirch](play_ts038_hans_und_heinz_kirch.md) und
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein ehrgeiziger, durch eigene Kraft aufgestiegener Kaufmann und Schiffseigner, dessen ganzes Denken von Pflicht und Ordnung bestimmt wird. Seine Stimme ist hart, autoritaer und ohne emotionale Milde. Er spricht ein kuehles, geschaeftsmaessiges Deutsch.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Hans lenkt die Geschaefte des Hauses, drillt seinen Sohn fuer die Kaufmannslaufbahn, vertreibt ihn durch seine moralische Haerte und verweigert dem Heimkehrenden schliesslich die Anerkennung.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die panische Angst vor gesellschaftlichem Gesichtsverlust und dem Niedergang des erarbeiteten Wohlstands, die ihn blind macht fuer die Beduerfnisse seiner Kinder.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Ein strenger, unnachgiebiger Blick und das ungeduldige Klopfen mit seinen schweren Fingern auf den Kontortisch.

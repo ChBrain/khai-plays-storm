@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein windgepeitschtes norddeutsches Hafenbecken, an dem Schiffe entladen werden und das Rauschen des Meeres staendig praesent ist.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er bewahrt das Tor zur weiten Welt, die Ankunft der Handelsgüter und die Abschiedsszenen der abreisenden Seeleute.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet Heinz die Moeglichkeit zur Flucht in die Freiheit und Hans Adam Kirch die Quelle seines materiellen Aufstiegs.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert den heimkehrenden Seeleuten oft eine warme Aufnahme und wird durch Stürme zu einem unbarmherzigen Ort.

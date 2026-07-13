@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "erziehung"
-declared: "Die Erziehung"
+declared: "Der Erziehungsplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,11 +10,11 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Erziehung
+# Plan: Der Erziehungsplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Hans Adam Kirchs ehrgeiziger Zukunftsplan zur Integration seines Sohnes in das Kaufmannsestablishment.
 
 ## Owner
 
@@ -22,19 +22,20 @@ Ein Lebensplan zur Umsetzung des Vorhabens.
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist der Erhalt und Ausbau des familiären Prestiges durch Heinz' Etablierung als ehrbarer Kaufmann und Senator.
 
 ## Orders
 
-- [Hans](persona_hans.md) muss die ersten Schritte am [Der Hafen](place_hafen.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Heinz](persona_heinz.md) muss eine kaufmännische Lehre in einem befreundeten Kontor absolvieren.
+- Jeder Kontakt zur ärmlichen Wieb aus der Seemannsgasse ist sofort einzustellen.
+- [Heinz](persona_heinz.md) muss sich dem bürgerlichen Verhaltenskodex der Stadt bedingungslos anpassen.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Der Hafen](place_hafen.md) realisiert, wobei das Motiv [Das Schiff](piece_schiff.md) eine zentrale Rolle spielt.
+Der Plan wird mit eiserner Härte im [Das Reederhaus](place_reederhaus.md) durchgesetzt, scheitert jedoch am Freiheitsdrang des Sohnes.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Der Hafen](place_hafen.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Das Schiff](piece_schiff.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die erfolgreiche Absolvierung der Kontorlehre durch Heinz
+- [ ] Die gesellschaftlich vorteilhafte Heirat von Heinz mit einer Bürgerstochter
+- [ ] Die Sicherung der Nachfolge für das Handelshaus Kirch

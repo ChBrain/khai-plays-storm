@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Die melancholische Grundstimmung und der getragene Ton, der das Werk durchzieht.
+Die unnachgiebige, bittere Spannung zwischen der ehrgeizigen Elterngeneration und dem freiheitsliebenden Lebensentwurf des Sohnes.
 
 ## Undertow
 
-Der unterschwellige Konflikt zwischen Tradition und Wandel, der die Figuren beeinflusst.
+Der unterschwellige Vorwurf der Undankbarkeit auf der einen und der gefühllosen Tyrannei auf der anderen Seite.
 
 ## Nerve
 
-Der emotionale Kern der Geschichte, der die Zerrissenheit der Hauptfigur spürbar macht.
+Der verheerende Wortwechsel im Kontor, bei dem der Vater die Pläne des Sohnes endgültig zunichte macht.
 
 ## Echo
 
-Das Nachhallen des Erlebten im Bewusstsein der Zuschauer und Leser.
+Das nachdenkliche Schweigen des Publikums über die zerstörerische Wirkung unerfüllbarer elterlicher Erwartungen.

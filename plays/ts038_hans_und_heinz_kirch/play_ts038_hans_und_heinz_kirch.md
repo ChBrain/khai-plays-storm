@@ -2,7 +2,7 @@
 khai: play
 title: "Hans und Heinz Kirch"
 declared: "Hans und Heinz Kirch"
-description: "Eine Inszenierung von Theodor Storms Novelle Hans und Heinz Kirch (1883)."
+description: "Eine Inszenierung über den tragischen Konflikt zwischen dem stolzen Reeder Hans Adam Kirch und seinem Sohn Heinz."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Hans und Heinz Kirch.
 
 ## Arc
 
-Eine Inszenierung der Novelle Hans und Heinz Kirch von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine tiefgreifende Inszenierung von Theodor Storms realistischer Erzählung über den stolzen Kaufmann Hans Adam Kirch und dessen Sohn Heinz. Der autoritäre Erziehungsstil und die Ablehnung von Heinz' Liebe zu Wieb führen zu einem unüberwindbaren Riss und Heinz' Flucht zur See. Die tragische Verweigerung der Versöhnung bei Heinz' Rueckkehr nach siebzehn Jahren besiegelt den einsamen Niedergang des Hauses Kirch.
 
 ## Company
 
 **Personas**
 
-- [Hans](persona_hans.md) - die Hauptfigur dieses Dramas.
+- [Hans](persona_hans.md), der stolze Reeder.
+- [Heinz](persona_heinz.md), sein rebellischer Sohn.
+- [Wieb](persona_wieb.md), Heinz' arme Jugendliebe.
+- [Lina](persona_lina.md), die gehorsame Schwester.
+- [Der Erzaehler](persona_erzaehler.md), der Chronist des Niedergangs.
 
 **Positions**
 
-- [Kaufmann](position_kaufmann.md)
+- [Der Reeder](position_reeder.md)
+- [Der Matrose](position_matrose.md)
+- [Das Matrosenkind](position_matrosenkind.md)
+- [Die Tochter](position_tochter.md)
 
 **Places**
 
 - [Der Hafen](place_hafen.md)
+- [Das Reederhaus](place_reederhaus.md)
+- [Die Kneipe](place_kneipe.md)
 
 **Pieces**
 
 - [Das Schiff](piece_schiff.md)
+- [Der Geldbeutel](piece_geldbeutel.md)
+- [Der Brief](piece_brief.md)
 
 **Pitches**
 
 - [Der Generationenkonflikt](pitch_generationenkonflikt.md)
+- [Der Standesstolz](pitch_standesstolz.md)
 
 ## Triggers
 
-**[Plot: Die Heimkehr](plot_heimkehr.md)**
+**[Plot: Die Pruegel](plot_pruegel.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die Züchtigung des Schiffsjungen erschüttert das Vertrauen des Sohnes nachhaltig.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Hans Adam Kirch seinen extremen Standesstolz ueberwinden kann, um seinen gezeichneten Sohn nach Jahren der Trennung liebevoll aufzunehmen, oder ob sein unerbittliches Misstrauen den Sohn endgültig in den Untergang treibt.

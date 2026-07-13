@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "heimkehr"
-declared: "Die Heimkehr"
+declared: "Die tragische Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plot: Die Heimkehr
+# Plot: Die tragische Heimkehr
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Die entscheidende Szene der Inszenierung am [Der Hafen](place_hafen.md).
+Die Rückkehr eines Fremden nach siebzehn Jahren Abwesenheit in die Heimatstadt.
 
 ## Action
 
-"Die Hauptfigur [Hans](persona_hans.md) stellt sich den Herausforderungen der Situation am [Der Hafen](place_hafen.md)."
+Der gealterte [Hans](persona_hans.md) bezweifelt die Identität des zurückgekehrten [Heinz](persona_heinz.md) in [Die Kneipe](place_kneipe.md) und weist ihn vor allen Leuten ab.
 
 ## Stage
 
-Eine stimmungsvolle Bühne: [Hans](persona_hans.md) agiert im Scheinwerferlicht, während im Hintergrund der [Der Hafen](place_hafen.md) erkennbar ist.
+Eine bittere Szene in der rauchigen Gaststube von [Die Kneipe](place_kneipe.md): [Hans](persona_hans.md) wendet sich kalt ab, während der enttäuschte, gebrochene [Heinz](persona_heinz.md) wortlos hinaus in den Regen stürzt.
 
 ## Tension
 
-Die Anspannung wächst, da [Hans](persona_hans.md) eine folgenschwere Entscheidung treffen muss, die alles verändern könnte.
+Der unumkehrbare Tiefpunkt des Dramas: Die Chance auf Versöhnung ist vertan, und Heinz verschwindet für immer im Dunkel der Meere.

@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Die moralische Härte des Vaters [Hans](persona_hans.md) und Heinz' Flucht aus der Heimatstadt auf die Meere.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Die über siebzehn Jahre andauernde, unaufhaltsame Entfremdung zwischen dem Vater und dem Sohn.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das Schweigen im [Das Reederhaus](place_reederhaus.md) und die harten Lebensbedingungen, die Heinz auf See verändern.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der tragische Verlust der gemeinsamen Identität, der dazu führt, dass der Vater seinen Sohn bei der Rückkehr nicht mehr erkennt.
