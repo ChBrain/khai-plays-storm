@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "haderslevhuus"
-declared: "Das Schloss Haderslevhuus"
+declared: "Haderslevhuus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Place: Das Schloss Haderslevhuus
+# Place: Haderslevhuus
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine grosse, trutzige Ritterburg in Nordschleswig, über deren Mauern die Pestilenz gewütet hat.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie birgt die unschuldige Existenz Dagmars, den Festsaal der tragischen Zeremonie und die Zeugen des verbotenen Liebesglücks.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet den Überlebenden der Seuche einen Zufluchtsort, wird aber zum Schauplatz des endgültigen Untergangs.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert Rolf Lembeck jede dauerhafte Zuflucht und Schutz vor Wulfhilds weitreichender Rache.

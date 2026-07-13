@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Ein Fest auf Haderslevhuus](play_ts042_ein_fest_auf_haderslevhuus.md) und Träger der Position [Ritter](position_ritter.md).
+Der tragische Ritter in [Ein Fest auf Haderslevhuus](play_ts042_ein_fest_auf_haderslevhuus.md) und Inhaber der Position [Der Ritter](position_ritter.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Ein Fest auf Haderslevhuus](play_ts042_ein_fest_auf_haderslev
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein junger, gutaussehender aber willensschwacher Ritter mit einer anfangs stolzen, später gebrochenen Statur. Seine Stimme ist warm und leidenschaftlich, klingt aber am Ende zittrig und wahnsinnig.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er heiratet Wulfhild aus Pflichtgefühl, verfällt der jungen Dagmar auf Haderslevhuus, betreibt ein lügenhaftes Doppelspiel, verfällt nach Dagmars Tod dem Wahnsinn und stürzt sich mit ihr vom Turm.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die moralische Feigheit, die ihn hindert, Dagmar die Wahrheit über seine Ehe zu sagen, und der unausweichliche Zusammenbruch seines Geistes unter Schuldgefühlen.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das unruhige Streichen über den Griff seines Schwertes und das sehnsüchtige Starren in die Ferne, wenn Haderslevhuus erwähnt wird.

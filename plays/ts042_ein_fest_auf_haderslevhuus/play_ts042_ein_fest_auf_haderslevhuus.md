@@ -2,7 +2,7 @@
 khai: play
 title: "Ein Fest auf Haderslevhuus"
 declared: "Ein Fest auf Haderslevhuus"
-description: "Eine Inszenierung von Theodor Storms Novelle Ein Fest auf Haderslevhuus (1885)."
+description: "Eine Inszenierung über die verhängnisvolle Dreiecksbeziehung auf Haderslevhuus und das düstere Ende der Liebenden."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Ein Fest auf Haderslevhuus.
 
 ## Arc
 
-Eine Inszenierung der Novelle Ein Fest auf Haderslevhuus von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine finstere, leidenschaftliche mittelalterliche Tragödie über den Untergang zweier Liebender. Ritter Rolf Lembeck geht eine ungeliebte Ehe mit der herrschsüchtigen Wulfhild ein, die ihren ersten Mann vergiftet hat. Er verliebt sich in die reine Dagmar von Haderslevhuus und verheimlicht ihr seine Ehe. Als Wulfhild durch ihren Schreiber Gaspard den Betrug aufdeckt und Dagmars Vater informiert, stirbt die junge Dagmar an gebrochenem Herzen. Auf der Hochzeitsfeier verfällt Rolf dem Wahnsinn, nimmt Dagmars Leiche und stürzt sich vom Turm.
 
 ## Company
 
 **Personas**
 
-- [Rolf](persona_rolf.md) - die Hauptfigur dieses Dramas.
+- [Wulfhild](persona_wulfhild.md), die gefürchtete Ehefrau.
+- [Rolf](persona_rolf.md), der ungetreue Ritter.
+- [Dagmar](persona_dagmar.md), die reine Geliebte.
+- [Gaspard](persona_gaspard.md), der spionierende Schreiber.
+- [Schack](persona_schack.md), der strenge Burghauptmann.
 
 **Positions**
 
-- [Ritter](position_ritter.md)
+- [Die Burgfrau](position_burgfrau.md)
+- [Der Ritter](position_ritter.md)
+- [Die Burgtochter](position_burgtochter.md)
+- [Der Schreiber](position_schreiber.md)
 
 **Places**
 
-- [Das Schloss Haderslevhuus](place_haderslevhuus.md)
+- [Haderslevhuus](place_haderslevhuus.md)
+- [Dorning](place_dorning.md)
+- [Der Turm](place_turm.md)
 
 **Pieces**
 
-- [Der Becher](piece_becher.md)
+- [Das Gift](piece_gift.md)
+- [Der Brief](piece_brief.md)
+- [Der Brautkranz](piece_brautkranz.md)
 
 **Pitches**
 
-- [Die Leidenschaft](pitch_leidenschaft.md)
+- [Leidenschaft und Tod](pitch_leidenschaft_und_tod.md)
+- [Die Pestatmosphaere](pitch_pestatmosphaere.md)
 
 ## Triggers
 
-**[Plot: Das Turnier](plot_turnier.md)**
+**[Plot: Die Verfuehrung](plot_verfuehrung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die heimliche Affäre mit Dagmar legt den Grundstein für die verhängnisvolle Entlarvung.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Ritter Rolf Lembeck das düstere Bündnis mit der mörderischen Wulfhild brechen kann, um ein neues Leben mit Dagmar aufzubauen, oder ob die Rache der Betrogenen sie beide in den Abgrund des Todes reißt.
