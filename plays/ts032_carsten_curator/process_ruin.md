@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Heinrichs masslose Kreditschulden in Hamburg und Carstens blinde Aufopferung zur Rettung des Rufs.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der schleichende, unaufhaltsame wirtschaftliche und physische Verfall von Carsten Carstens und seines Hauses.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das ständige Unterzeichnen neuer Wechsel im Kontor [Das Kontor](place_kontor.md) und Carstens schwindende Lebenskraft.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der vollstaendige Zusammenbruch des bürgerlichen Wohlstands, der nach Heinrichs Tod in Carstens einsamem Sterben gipfelt.

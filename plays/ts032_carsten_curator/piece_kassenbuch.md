@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Das Kontor](place_kontor.md).
+Das Objekt befindet sich in [Das Kontor](place_kontor.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es ist das tragende Symbol bürgerlicher Redlichkeit, das durch Heinrichs betrügerische Schulden schrittweise entwertet wird.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein schweres, ledergebundenes Buch mit dicken Papierseiten, auf denen Carsten mit sauberer Tinte Einnahmen und Ausgaben einträgt.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein abschliessender Saldo dokumentiert den vollstaendigen finanziellen Ruin und den Verlust des erarbeiteten Rufs von Carsten.

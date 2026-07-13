@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "curator"
-declared: "Curator"
+declared: "Der Curator"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Curator
+# Position: Der Curator
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Die uneingeschränkte Vollmacht zur rechtlichen Verwaltung fremder Vermögen und das unerschütterliche Vertrauen der städtischen Bürger.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er entscheidet ueber die Verteilung von Geldern und Mündelgeldern und verteidigt die finanzielle Integrität des Gemeinwesens.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert sein mühsam erspartes Kapital und seine Gesundheit durch die fortwährende Rettung seines Sohnes.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Der absolute Glaube an die bürgerliche Pflicht, die rechtliche Ordnung und der Schutz der ihm anvertrauten Menschen vor dem Ruin.
