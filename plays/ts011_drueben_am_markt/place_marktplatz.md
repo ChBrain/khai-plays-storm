@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein gepflasterter, weiter Marktplatz einer norddeutschen Kleinstadt unter grauem Himmel.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er trennt Christophs bescheidenes Haus auf der einen Seite vom prächtigen Haus des Bürgermeisters auf der anderen Seite.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet den Bewohnern Raum für Handel und Begegnungen, wird aber zur Barriere zwischen den Gesellschaftsklassen.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert Christoph das einfache Überschreiten der sozialen Kluft, die ihn von Sophie trennt.
