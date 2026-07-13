@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "bauer"
-declared: "Bauer"
+declared: "Der Bauer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Bauer
+# Position: Der Bauer
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Die Verantwortung für die Bewirtschaftung des väterlichen Hofes und das Eigentumsrecht an den Feldern.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er steuert das Verderben durch seine Vernachlässigung des Hofes und das Eingehen hoher Schulden.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine Frau, sein Ansehen in der Dorfgemeinschaft, sein Vermögen und schliesslich sein Leben.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Der Kampf gegen den wirtschaftlichen Ruin und das obsessive Verlangen nach Margarete Glansky.

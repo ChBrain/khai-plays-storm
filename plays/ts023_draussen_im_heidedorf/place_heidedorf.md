@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein kleines, einsames Dorf inmitten der kargen norddeutschen Heide unter einem wolkenverhangenen Himmel.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es beherbergt die misstrauische bäuerliche Nachbarschaft, das Haus der Hebamme und den Schauplatz des Dorffestes.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet den Bauern eine Heimat, wird aber für Hinrich zum seelischen Kerker seiner unglücklichen Ehe.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert Margarete Glansky jede unvoreingenommene Akzeptanz und stösst sie als Fremde aus.
