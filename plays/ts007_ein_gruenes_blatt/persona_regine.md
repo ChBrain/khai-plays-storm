@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Ein grünes Blatt](play_ts007_ein_gruenes_blatt.md) und Träger der Position [Hirtin](position_hirtin.md).
+Das unschuldige Heidemädchen in [Ein grünes Blatt](play_ts007_ein_gruenes_blatt.md) und Inhaberin der Position [Das Heidemaedchen](position_heidemaedchen.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Ein grünes Blatt](play_ts007_ein_gruenes_blatt.md) und Träg
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein junges, unbeschwertes Mädchen der Heide von natürlicher Anmut. Ihre Stimme ist hell, glockenrein und spiegelt die unberührte Natur des Waldes wider.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Sie begegnet Gabriel auf der Heide, schenkt ihm einen kühlen Trunk, plaudert heiter mit ihm und bleibt als idealisiertes Erinnerungsbild zurück.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die absolute Unerreichbarkeit als realer Partner, da sie für Gabriel nur als traumhafte Projektion des verlorenen Friedens existiert.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das spielerische Flechten von Heidekraut und das scheue Lachen unter der alten Buche.

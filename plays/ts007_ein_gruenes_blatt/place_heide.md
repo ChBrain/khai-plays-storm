@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine weite, sonnenbeschienene Heide- und Waldlandschaft im vollen Glanz eines friedlichen Sommers.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie birgt die mächtige grüne Buche, Regines kleine Hütte und den sandigen Wanderweg Gabriels.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet Gabriel einen Ort des Friedens und der unbeschwerten Begegnung mit dem Heidemädchen.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert dem kriegerischen Lärm jeden Zutritt und steht für das verlorene Paradies der Vergangenheit.
