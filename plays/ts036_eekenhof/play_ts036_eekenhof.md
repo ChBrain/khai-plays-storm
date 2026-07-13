@@ -2,7 +2,7 @@
 khai: play
 title: "Eekenhof"
 declared: "Eekenhof"
-description: "Eine Inszenierung von Theodor Storms Novelle Eekenhof (1880)."
+description: "Eine Inszenierung über die düsteren Erbschaftsfehden auf Eekenhof und das tragische Schicksal der Halbgeschwister."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Eekenhof.
 
 ## Arc
 
-Eine Inszenierung der Novelle Eekenhof von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine düstere, gotische Chronik-Tragödie über Habgier, Schuld und verbotene Liebe auf dem alten Herrensitz Eekenhof. Der tyrannische Hennicke verabscheut seinen Erstgeborenen Detlev, da dieser als rechtmässiger Erbe seiner verstorbenen ersten Frau den vollständigen Besitz des Hofes blockiert. Detlev wächst verbannt auf, kehrt aber als Junker zurück und verliebt sich leidenschaftlich in die Pflegetochter Heilwig. Als sich Heilwig als Hennickes uneheliche Tochter und somit Detlevs Halbschwester entpuppt, zerbricht das Glück der Liebenden und Eekenhof verfällt.
 
 ## Company
 
 **Personas**
 
-- [Detlev](persona_detlev.md) - die Hauptfigur dieses Dramas.
+- [Hennicke](persona_hennicke.md), der tyrannische Vater.
+- [Detlev](persona_detlev.md), der rechtmässige Junker.
+- [Heilwig](persona_heilwig.md), die geheimnisvolle Halbschwester.
+- [Grossmutter](persona_grossmutter.md), die beschützende Ahne.
+- [Stiefmutter](persona_stiefmutter.md), die kalte Ehefrau.
 
 **Positions**
 
-- [Ritter](position_ritter.md)
+- [Der Gutshofherr](position_gutshofherr.md)
+- [Der Junker](position_junker.md)
+- [Die Pflegetochter](position_pflegetochter.md)
+- [Die Ahne](position_ahne.md)
 
 **Places**
 
-- [Die Burg](place_burg.md)
+- [Eekenhof](place_eekenhof.md)
+- [Der Garten](place_garten.md)
+- [Das Zimmer](place_zimmer.md)
 
 **Pieces**
 
-- [Das Schwert](piece_schwert.md)
+- [Die Eichen](piece_eichen.md)
+- [Der Brief](piece_brief.md)
+- [Der Ringgraben](piece_ringgraben.md)
 
 **Pitches**
 
-- [Das Düstere](pitch_duehster.md)
+- [Geschwisterliebe](pitch_geschwisterliebe.md)
+- [Gothischer Verfall](pitch_gothischer_verfall.md)
 
 ## Triggers
 
-**[Plot: Die Fehde](plot_fehde.md)**
+**[Plot: Der Erbschaftskonflikt](plot_erbschaftskonflikt.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Detlevs Einfordern seines rechtmässigen Erbes provoziert den gewaltsamen Zorn seines Vaters Hennicke.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Junker Detlev sich gegen die grausame Willkür seines Vaters durchsetzen und ein neues Leben mit Heilwig aufbauen kann, oder ob die Aufdeckung ihrer verbotenen Verwandtschaft das Haus Eekenhof dem endgültigen Ruin überlässt.

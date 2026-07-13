@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "verfall"
-declared: "Der Verfall"
+declared: "Der physische Verfall"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Der Verfall
+# Process: Der physische Verfall
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Die jahrelange Vernachlässigung des Herrensitzes Eekenhof unter Hennickes liebloser Herrschaft.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der unaufhaltsame Verfall der Bausubstanz des Hofes, das Trüben des Wassers im Ringgraben und das Absterben der Natur.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das Ausbleiben jeglicher Liebe, Pflege und des familiären Friedens auf dem Gut.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Das schliesslich verödete, verfallene Gemäuer von Eekenhof, das nur noch als leere Ruine unter den alten Eichen steht.
