@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Der Marktplatz](place_marktplatz.md).
+Das Objekt befindet sich in [Das Arztzimmer](place_arztzimmer.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es symbolisiert Christophs lebenslange Position als stummer, ausgeschlossener Zuschauer des Glücks der anderen.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein hohes, in Holzrahmen gefasstes Glasfenster mit Blick auf den geschäftigen Marktplatz.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein ständiges Nutzen durch den alternden Doktor bezeugt seine treue, traurige Hinwendung zur geliebten Sophie.
