@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "ritter"
-declared: "Ritter"
+declared: "Der Ritter"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Ritter
+# Position: Der Ritter
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Die physische Kriegsmacht und das adlige Privileg, auf Turnieren und Schlachten Ehre zu erringen.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er steuert das Verderben durch seine heimlichen Ritte nach Haderslevhuus und die Verheimlichung seiner Ehe.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine Geliebte, seine Ehre vor dem Burghauptmann und schliesslich sein Leben durch den fatalen Sturz.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Die leidenschaftliche, verbotene Sehnsucht nach Dagmar und der unglückliche Versuch, der mörderischen Ehe mit Wulfhild zu entkommen.
