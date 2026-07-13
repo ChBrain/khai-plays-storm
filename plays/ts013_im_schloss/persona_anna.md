@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Im Schloß](play_ts013_im_schloss.md) und Träger der Position [Schlossherrin](position_schlossherrin.md).
+Die adlige Schlossherrin in [Im Schloß](play_ts013_im_schloss.md) und Inhaberin der Position [Die Schlossherrin](position_schlossherrin.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Im Schloß](play_ts013_im_schloss.md) und Träger der Positio
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine sensible, tiefsinnige und emanzipierte adlige Frau. Ihre Stimme ist anfangs von Melancholie und Pflichtbewusstsein gefärbt, wandelt sich jedoch zu einem Ton vollkommener, selbstbestimmter Freiheit.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Sie nimmt Unterricht bei Arnold, fügt sich der standesgemässen Ehe, verfasst ihre Lebenserinnerungen und verlässt schliesslich das Schloss für immer.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die tiefe Furcht vor der Entehrung ihrer Ahnen und dem Bruch mit der jahrhundertealten Tradition ihrer Familie.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das sorgfältige Eintragen von Zeilen in ihr ledernes Tagebuch bei Kerzenschein.

@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "schlossherrin"
-declared: "Schlossherrin"
+declared: "Die Schlossherrin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Schlossherrin
+# Position: Die Schlossherrin
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den adligen Titel einer Schlossherrin, die Herrschaft über die Dienerschaft und die Last der Ahnengalerie.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Sie steuert das Drama durch das Aufschreiben ihrer Aufzeichnungen und ihren radikalen Bruch mit der Adelswelt.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Sie verliert ihr Kind, ihren Ehemann, ihr Erbe und schliesslich jeden gesellschaftlichen Status.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Streben nach echter Selbstbestimmung, aufklärerischer Wahrheit und der freien Liebe zu Arnold.
