@@ -2,7 +2,7 @@
 khai: play
 title: "Im Sonnenschein"
 declared: "Im Sonnenschein"
-description: "Eine Inszenierung von Theodor Storms Novelle Im Sonnenschein (1854)."
+description: "Eine Inszenierung über die verbotene Liebe von Franziska zu einem französischen Offizier und das Überdauern ihrer Treue."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Im Sonnenschein.
 
 ## Arc
 
-Eine Inszenierung der Novelle Im Sonnenschein von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine bittersüsse bürgerliche Tragödie über die Unvereinbarkeit von Liebe und gesellschaftlichem Pflichtbewusstsein, sowie das Überdauern treuer Gefühle über Generationen hinweg. Die Kaufmannstochter Franziska und der französische Reiteroffizier Constantin lieben einander leidenschaftlich, doch Franziskas unerbittlicher Vater verweigert der Verbindung seinen Segen. Nach einem letzten, melancholischen Tanz trennen sich ihre Wege für immer. Sechzig Jahre später gibt die Öffnung ihrer Familiengruft und der Fund eines goldenen Medaillons mit einer Locke Constantins das Zeugnis ihrer lebenslangen, stillen Treue preis und bewirkt eine Aussöhnung in der nachfolgenden Generation.
 
 ## Company
 
 **Personas**
 
-- [Frantz](persona_frantz.md) - die Hauptfigur dieses Dramas.
+- [Franziska](persona_franziska.md), die treue Kaufmannstochter.
+- [Constantin](persona_constantin.md), der franzoesische Offizier.
+- [Vater](persona_vater.md), der gestrenge Patriarch.
+- [Fritz](persona_fritz.md), der heiratende Bruder.
+- [Grossmutter](persona_grossmutter.md), die alte Ahnin.
 
 **Positions**
 
-- [Liebender](position_liebender.md)
+- [Die Kaufmannstochter](position_kaufmannstochter.md)
+- [Der Reiteroffizier](position_reiteroffizier.md)
+- [Der Patriarch](position_patriarch.md)
+- [Die Ahnin](position_ahnin.md)
 
 **Places**
 
-- [Der Barockgarten](place_garten.md)
+- [Der Garten Sonne](place_garten_sonne.md)
+- [Der Saal Hochzeit](place_saal_hochzeit.md)
+- [Die Gruft](place_gruft.md)
 
 **Pieces**
 
-- [Die Nelke](piece_nelke.md)
+- [Das Medaillon](piece_medaillon.md)
+- [Der Efeu](piece_efeu.md)
+- [Der Reiterdegen](piece_reiterdegen.md)
 
 **Pitches**
 
-- [Die Vergänglichkeit](pitch_vergaenglichkeit.md)
+- [Ewige Treue](pitch_ewige_treue.md)
+- [Sonnenlicht](pitch_sonnenlicht.md)
 
 ## Triggers
 
-**[Plot: Der Sommertag](plot_sommertag.md)**
+**[Plot: Das Gestaendnis](plot_gestaendnis.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die Begegnung im sonnenbeschienenen Garten begründet ihre tiefe Liebe und Franziskas stilles Glück.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Franziskas lebenslange, stille Treue zu Constantin die unerbittliche Strenge ihres Vaters überwinden und den Nachgeborenen als Vorbild für eine versöhnliche und freie Liebe dienen kann.
