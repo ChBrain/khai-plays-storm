@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "rettung"
-declared: "Die Rettung"
+declared: "Der Rettungsplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,11 +10,11 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Rettung
+# Plan: Der Rettungsplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Carsten Carstens' verzweifelter Plan zur Abwendung des oeffentlichen Konkurses und Schutzes des Rufs.
 
 ## Owner
 
@@ -22,19 +22,20 @@ Ein Lebensplan zur Umsetzung des Vorhabens.
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist die restlose Befriedigung aller Hamburger Gläubiger Heinrichs durch Auflösung der eigenen Ersparnisse und des Hauses.
 
 ## Orders
 
-- [Carsten](persona_carsten.md) muss die ersten Schritte am [Das Kontor](place_kontor.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Carsten](persona_carsten.md) muss die Sparkassenbücher der Schwester auflösen.
+- Alle ausstehenden Akzepte muessen im Kontor [Das Kontor](place_kontor.md) pünktlich verbucht werden.
+- Heinrich soll unter oeffentlicher Vormundschaft in der Kleinstadt gehalten werden.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Das Kontor](place_kontor.md) realisiert, wobei das Motiv [Das Kassenbuch](piece_kassenbuch.md) eine zentrale Rolle spielt.
+Der Plan wird unter grossen Opfern umgesetzt, scheitert jedoch moralisch an Heinrichs fortgesetzter Unehrlichkeit.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Das Kontor](place_kontor.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Das Kassenbuch](piece_kassenbuch.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die vollständige Tilgung der Hamburger Wechsel zur Ehrenrettung
+- [ ] Die finanzielle Absicherung Annas fuer die Zeit nach seinem Ableben
+- [ ] Die Eindämmung von Heinrichs unkontrollierter Schuldenmacherei

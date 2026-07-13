@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein nüchternes, sauber geordnetes Geschaeftszimmer mit Stehpulten, Regalen voller Nachlassakten und einem grossen Tintenfass.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es bewahrt die genauen Rechnungsbücher und die Belege der unzähligen, von Heinrich verursachten Schuldscheine.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet Carsten einen ruhigen Arbeitsplatz zur Erfuellung seiner Pflichten als Curator und zum Nachdenken ueber das Familienschicksal.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es gewaehrt dem leichtsinnigen Heinrich keine Absolution und verweigert die Vertuschung seiner finanziellen Verfehlungen.
