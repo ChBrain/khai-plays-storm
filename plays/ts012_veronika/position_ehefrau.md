@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "ehefrau"
-declared: "Ehefrau"
+declared: "Die Ehefrau"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Ehefrau
+# Position: Die Ehefrau
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den bürgerlichen Status einer Advokatengattin, die Pflicht zur ehelichen Treue und die religiöse Bindung an die katholische Kirche.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Sie steuert das Schicksal der Ehe durch ihre Gewissensentscheidung zur direkten Offenbarung.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Sie verliert ihre religiöse Naivität und die stumme Unterordnung unter die kirchlichen Beichtgebote.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Erlangen von echtem Seelenfrieden und das Bewahren des Vertrauens in ihrer bürgerlichen Ehe.
