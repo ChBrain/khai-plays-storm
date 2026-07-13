@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Eekenhof](play_ts036_eekenhof.md) und Träger der Position [Ritter](position_ritter.md).
+Der rechtmässige Junker in [Eekenhof](play_ts036_eekenhof.md) und Inhaber der Position [Der Junker](position_junker.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Eekenhof](play_ts036_eekenhof.md) und Träger der Position [R
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein edler, stolzer und melancholischer junger Mann von aufrechter Statur. Seine Stimme ist fest, aber von tiefer Sehnsucht und Traurigkeit über die väterliche Kälte gezeichnet.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er wächst verbannt bei Verwandten auf, kehrt als erwachsener Junker nach Eekenhof zurück, verliebt sich in Heilwig, fordert sein Erbe und erleidet den Zusammenbruch seiner Hoffnungen.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Das drückende Gefühl der Heimatlosigkeit und die tragische Anfälligkeit für eine verbotene, schicksalhafte Liebe.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das melancholische Berühren des alten Wappenschildes seiner Mutter und das liebevolle Suchen nach Heilwigs Naehe.
