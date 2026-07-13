@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Veronika"
-declared: "Veronika"
+title: "Die Veronika"
+declared: "Die Veronika"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Veronika
+# Persona: Die Veronika
 
 ## Taxonomy
 
-Die Hauptfigur in [Veronika](play_ts012_veronika.md) und Träger der Position [Ehefrau](position_ehefrau.md).
+Die katholische Ehefrau in [Veronika](play_ts012_veronika.md) und Inhaberin der Position [Die Ehefrau](position_ehefrau.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Veronika](play_ts012_veronika.md) und Träger der Position [E
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine junge, schöne und im katholischen Glauben erzogene Frau. Ihre Stimme ist anfangs von Furcht, Schuld und religiöser Demut geprägt, gewinnt aber im Verlauf an Klarheit und Stärke.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Sie unternimmt den Ausflug zur Mühle, lässt Rudolfs Berührung geschehen, versucht vergeblich zu beichten und offenbart sich schliesslich aufrichtig ihrem Ehemann.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Das verbotene, tief unterdrückte Begehren nach Rudolfs jugendlicher Leidenschaft, das ihre bürgerliche Existenz bedroht.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das nervöse Drehen des silbernen Eherings an ihrem linken Finger.
