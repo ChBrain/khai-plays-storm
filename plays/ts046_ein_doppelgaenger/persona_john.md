@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Ein Doppelgänger](play_ts046_ein_doppelgaenger.md) und Träger der Position [Tagelöhner](position_tageloehner.md).
+Der Protagonist in [Ein Doppelgänger](play_ts046_ein_doppelgaenger.md) und Inhaber der Position [Der Tageloehner](position_tageloehner.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Ein Doppelgänger](play_ts046_ein_doppelgaenger.md) und Träg
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein vom Schicksal schwer getroffener, im Kern rechtschaffener Ex-Häftling mit einer stämmigen, kraftvollen Statur. Seine Stimme ist rau, tief und schwankt zwischen liebevoller Sanftheit für seine Tochter und unkontrollierbarem, verzweifeltem Zorn.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+John versucht sich eine ehrliche Arbeit aufzubauen, heiratet Hanna, wehrt sich gegen Wenzels Erpressungsversuche, tötet unabsichtlich Hanna im Affekt und stürzt auf der Nahrungssuche tödlich in den Brunnen.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Sein gewalttätiges Doppelgänger-Selbst, das unter Alkoholeinfluss und in sozialer Enge erwacht und die Zuneigung der Menschen zerstört.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das wütende Zusammenballen seiner grossen Fäuste und das nervöse, scheue Herumblicken, wenn er Fremden begegnet.

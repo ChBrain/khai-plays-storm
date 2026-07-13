@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein tiefer, alter und mit Dornengestrüpp überwucherter Brunnen auf einem verlassenen Feldstück ausserhalb der Stadt.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er birgt das schreckliche Geheimnis von Johns Tod und die nassen Tiefen, die das Ende seiner irdischen Qualen markieren.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet den Vorübergehenden ein düsteres Mahnmal der Vergänglichkeit und dem flüchtenden John ein verhängnisvolles Grab.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert dem hineinstürzenden John jede Rettungsmöglichkeit und hält ihn für die Nachwelt unsichtbar gefangen.

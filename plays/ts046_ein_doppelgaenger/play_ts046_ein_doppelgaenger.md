@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Ein Doppelgänger"
+title: "Ein Doppelgaenger"
 declared: "Ein Doppelgänger"
-description: "Eine Inszenierung von Theodor Storms Novelle Ein Doppelgänger (1887)."
+description: "Eine Inszenierung über den Strafgefangenen John Hansen und seinen aussichtslosen Kampf gegen soziale Ausgrenzung."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Ein Doppelgänger.
 
 ## Arc
 
-Eine Inszenierung der Novelle Ein Doppelgänger von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine düstere, sozialkritische Inszenierung von Theodor Storms Spätwerk über den Zuchthäusler John Hansen. Trotz seines aufrichtigen Willens zur Besserung treiben ihn die gnadenlose kleinstädtische Ausgrenzung, Armut und der Einfluss seines ehemaligen Mithäftlings Wenzel in die Verzweiflung. Nach dem Tod seiner Frau Hanna schützt er aufopferungsvoll seine kleine Tochter Christine, bis sein Leben durch einen Sturz in einen verfallenen Brunnen ein tragisches Ende findet.
 
 ## Company
 
 **Personas**
 
-- [John](persona_john.md) - die Hauptfigur dieses Dramas.
+- [John](persona_john.md), der gezeichnete Zuchthäusler.
+- [Hanna](persona_hanna.md), seine leidgeprüfte Frau.
+- [Christine](persona_christine.md), seine sensible Tochter.
+- [Wenzel](persona_wenzel.md), der kriminelle Versucher.
+- [Der Erzaehler](persona_erzaehler.md), der Chronist der Vergangenheit.
 
 **Positions**
 
-- [Tagelöhner](position_tageloehner.md)
+- [Der Tageloehner](position_tageloehner.md)
+- [Die Ehefrau](position_ehefrau.md)
+- [Die Tochter](position_tochter.md)
+- [Der Verfuehrer](position_verfuehrer.md)
 
 **Places**
 
 - [Der Brunnen](place_brunnen.md)
+- [Die Huette](place_huette.md)
+- [Die Kleinstadt](place_kleinstadt.md)
 
 **Pieces**
 
-- [Das Seil](piece_seil.md)
+- [Die Kartoffeln](piece_kartoffeln.md)
+- [Die Steinschleuder](piece_steinschleuder.md)
+- [Das Forsthaus](piece_forsthaus.md)
 
 **Pitches**
 
-- [Die Existenznot](pitch_existenznot.md)
+- [Stigma und Vorurteil](pitch_stigma_und_vorurteil.md)
+- [Der Doppelgaenger](pitch_doppelgaenger.md)
 
 ## Triggers
 
-**[Plot: Der Sturz](plot_sturz.md)**
+**[Plot: Die Aechtung](plot_aechtung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die erbarmungslose soziale Kälte und Wenzels Einmischung zerstören Johns ehrliche Arbeit.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob John Hansen den ausweglosen Kreislauf aus Zuchthaus - Stigma, bitterer Armut und psychischer Spaltung überwinden kann, um seiner Tochter Christine eine behütete Zukunft im bürgerlichen Leben zu sichern.

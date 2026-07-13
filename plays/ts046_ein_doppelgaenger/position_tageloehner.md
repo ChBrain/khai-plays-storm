@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "tageloehner"
-declared: "Tagelöhner"
+declared: "Der Tagelöhner"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Tagelöhner
+# Position: Der Tagelöhner
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Die physische Arbeitskraft zur Verrichtung härtester körperlicher Arbeiten, aber keinerlei soziale Absicherung oder vertraglichen Schutz.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er steuert den verzweifelten Kampf um Nahrung und Existenz, indem er jede ihm angebotene, schlecht bezahlte Arbeit annimmt.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine gesellschaftliche Ehre und seine Gesundheit durch die unbarmherzige Verachtung der bürgerlichen Arbeitgeber.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Der glühende Wille zur ehrlichen Resozialisierung und das elementare Bedürfnis, das Überleben seiner kleinen Tochter zu sichern.
