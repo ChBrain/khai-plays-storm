@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Erzähler"
-declared: "Erzähler"
+title: "Erzaehler"
+declared: "Erzaehler"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Erzähler
+# Persona: Erzaehler
 
 ## Taxonomy
 
-Die Hauptfigur in [Eine Halligfahrt](play_ts022_eine_halligfahrt.md) und Träger der Position [Gast](position_gast.md).
+Der junge Advokat in [Eine Halligfahrt](play_ts022_eine_halligfahrt.md) und Inhaber der Position [Der Advokat](position_advokat.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Eine Halligfahrt](play_ts022_eine_halligfahrt.md) und Träger
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein nachdenklicher, sensibler junger Anwalt von gepflegter Erscheinung. Seine Stimme ist ruhig, beobachtend und verraet eine melancholische Sehnsucht, die ihn vorzeitige Resignation empfinden lässt.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er unternimmt die Halligfahrt, kommt Susanne auf dem Boot näher, reflektiert das Leben des Vetters und fügt dessen Nachlass als Warnung vor dem eigenen Scheitern an.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die mangelnde Entschlusskraft und die Unterwerfung unter das Beamtentum, die ihn sein Liebesglück mit Susanne kampflos aufgeben lassen.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das sorgfältige Zusammenrollen seiner juristischen Papiere und das melancholische Blicken über das Wattenmeer.
