@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "stiefmutter"
-declared: "Stiefmutter"
+declared: "Die Stiefmutter"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Stiefmutter
+# Position: Die Stiefmutter
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Die formelle Pflicht zur Führung des neuen Haushalts und die Verantwortung für die Erziehung der Stieftochter.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Sie beeinflusst das Drama durch ihre sensible Zurückhaltung und ihre Versuche, sich nicht in das Andenken an die Vorgängerin einzumischen.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Sie verliert anfangs ihr Selbstbewusstsein und ihre emotionale Sicherheit in einem Haus voller stummer Vorwürfe.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Die Sehnsucht nach echter Akzeptanz durch Nesi und die feste Absicherung ihrer eigenen mütterlichen Identität im Haus.

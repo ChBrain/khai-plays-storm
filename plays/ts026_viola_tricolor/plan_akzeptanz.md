@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "akzeptanz"
-declared: "Die Akzeptanz"
+declared: "Der Akzeptanzplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,31 +10,32 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Akzeptanz
+# Plan: Der Akzeptanzplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Ines' persönlicher Plan zur Gewinnung von Nesis Zuneigung und Etablierung ihrer mütterlichen Rolle.
 
 ## Owner
 
-- Owner: [Inés](persona_ines.md)
+- Owner: [Ines](persona_ines.md)
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist das geduldige Überwinden von Nesis Zurückhaltung und die Anerkennung als vollwertiges Familienmitglied.
 
 ## Orders
 
-- [Inés](persona_ines.md) muss die ersten Schritte am [Das Herrenhaus](place_herrenhaus.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Ines](persona_ines.md) muss Nesi mit unaufdringlicher, geduldiger Liebe begegnen und ihre Distanz respektieren.
+- Sie muss versuchen, über gemeinsame Handarbeiten im [Das Kinderzimmer](place_kinderzimmer.md) Kontakt aufzubauen.
+- Jedes offene Aufbegehren gegen Maries Andenken muss vermieden werden, um Nesi nicht zu verschrecken.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Das Herrenhaus](place_herrenhaus.md) realisiert, wobei das Motiv [Die Viola](piece_viola.md) eine zentrale Rolle spielt.
+Der Plan gelingt nach grossen Rückschlägen und Ines' schwerer Erkrankung, die Nesis Liebe schlagartig freisetzt.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Das Herrenhaus](place_herrenhaus.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Die Viola](piece_viola.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Das erste aufrichtige Gespräch und gemeinsame Spiel mit Nesi
+- [ ] Die Akzeptanz ihrer mütterlichen Autorität im Kinderzimmer
+- [ ] Das Ablegen des schmerzhaften Stiefmutter-Stigmas

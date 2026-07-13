@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "annaeherung"
-declared: "Die Annäherung"
+declared: "Die emotionale Annäherung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Die Annäherung
+# Process: Die emotionale Annäherung
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Ines' geduldige Bemühungen und Annes vermittelnde Fürsorge im Alltag.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der langsame, sensible Prozess der Überwindung der Distanz zwischen Stiefmutter und Tochter.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist die gemeinsame Sorge während Ines' schwerer Fieberkrise im Kinderzimmer.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der erlösende Durchbruch, bei dem Nesi Ines zum ersten Mal aufrichtig Mutter nennt und die Barrieren fallen.

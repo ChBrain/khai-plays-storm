@@ -2,7 +2,7 @@
 khai: play
 title: "Viola tricolor"
 declared: "Viola tricolor"
-description: "Eine Inszenierung von Theodor Storms Novelle Viola tricolor (1874)."
+description: "Eine Inszenierung über die Annäherung der jungen Stiefmutter Ines an ihre Familie nach einem schmerzhaften Verlust."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Viola tricolor.
 
 ## Arc
 
-Eine Inszenierung der Novelle Viola tricolor von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine psychologisch feinfühlige, häusliche Inszenierung über die Herausforderungen einer neuen Ehe nach einem schmerzhaften Verlust. Die sensible Ines heiratet den Witwer Rudolf, fühlt sich jedoch als Eindringling in einem Haus, das von den Porträts und Erinnerungen an Rudolfs verstorbene erste Frau Marie beherrscht wird. Auch ihre zehnjährige Stieftochter Nesi begegnet ihr mit treuer Zurückhaltung. Nach der Geburt ihrer Tochter erkrankt Ines lebensbedrohlich, wodurch in der Krise alle emotionalen Dämme brechen und die Familie zueinander findet.
 
 ## Company
 
 **Personas**
 
-- [Inés](persona_ines.md) - die Hauptfigur dieses Dramas.
+- [Ines](persona_ines.md), die unsichere Stiefmutter.
+- [Rudolf](persona_rudolf.md), der trauernde Gelehrte.
+- [Nesi](persona_nesi.md), die loyale Stieftochter.
+- [Marie](persona_marie.md), die verstorbene erste Ehefrau.
+- [Anne](persona_anne.md), die vermittelnde Hausdienerin.
 
 **Positions**
 
-- [Stiefmutter](position_stiefmutter.md)
+- [Die Stiefmutter](position_stiefmutter.md)
+- [Der Gelehrte](position_gelehrter.md)
+- [Die Stieftochter](position_stieftochter.md)
+- [Die Dienerin](position_dienerin.md)
 
 **Places**
 
-- [Das Herrenhaus](place_herrenhaus.md)
+- [Das Haus](place_haus.md)
+- [Der Garten](place_garten.md)
+- [Das Kinderzimmer](place_kinderzimmer.md)
 
 **Pieces**
 
-- [Die Viola](piece_viola.md)
+- [Das Stiefmuetterchen](piece_stiefmuetterchen.md)
+- [Das Portraet](piece_portraet.md)
+- [Das Foto](piece_foto.md)
 
 **Pitches**
 
-- [Die Entfremdung](pitch_entfremdung.md)
+- [Stiefmuetterchen-Symbolik](pitch_stiefmuetterchen_symbolik.md)
+- [Schuld und Trauer](pitch_schuld_und_trauer.md)
 
 ## Triggers
 
-**[Plot: Der Konflikt](plot_konflikt.md)**
+**[Plot: Die Ausgrenzung](plot_ausgrenzung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die ständige Gegenwart von Maries Hinterlassenschaften isoliert Ines in ihrem eigenen Zuhause.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Ines die tiefen seelischen Barrieren in Rudolfs Familie überwinden und als anerkannte Mutter das stiefmütterliche Stigma ablegen kann, um ein neues, unbeschattetes Familienglück aufzubauen.

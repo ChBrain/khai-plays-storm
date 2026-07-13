@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Inés"
-declared: "Inés"
+title: "Ines"
+declared: "Ines"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Inés
+# Persona: Ines
 
 ## Taxonomy
 
-Die Hauptfigur in [Viola tricolor](play_ts026_viola_tricolor.md) und Träger der Position [Stiefmutter](position_stiefmutter.md).
+Die sensible Stiefmutter in [Viola tricolor](play_ts026_viola_tricolor.md) und Inhaberin der Position [Die Stiefmutter](position_stiefmutter.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Viola tricolor](play_ts026_viola_tricolor.md) und Träger der
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine junge, zarte und emotional hochempfindliche Frau mit einer verletzlichen Ausstrahlung. Ihre Stimme ist weich, oft verunsichert, gewinnt aber in Momenten des mütterlichen Schutzes an fester Innigkeit.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Sie zieht in Rudolfs Haus ein, leidet unter der geisterhaften Präsenz Maries, versucht geduldig Nesis Liebe zu gewinnen, bringt ein Kind zur Welt und überwindet eine schwere Fieberkrise.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die beständige, nagende Angst, im Herzen ihres Gatten Rudolf nur ein unzureichender Ersatz für die verstorbene Marie zu sein.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das traurige, zögernde Betrachten des silbrigen Eherings an ihrem Finger und das stille Beobachten Nesis aus der Distanz.
