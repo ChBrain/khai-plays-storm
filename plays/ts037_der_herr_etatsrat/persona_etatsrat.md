@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Etatsrat"
-declared: "Etatsrat"
+title: "Der Etatsrat"
+declared: "Der Etatsrat"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Etatsrat
+# Persona: Der Etatsrat
 
 ## Taxonomy
 
-Die Hauptfigur in [Der Herr Etatsrat](play_ts037_der_herr_etatsrat.md) und Träger der Position [Beamter](position_beamter.md).
+Der Protagonist in [Der Herr Etatsrat](play_ts037_der_herr_etatsrat.md) und Inhaber der Position [Der Etatsrat-Tyrann](position_etatsrat.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Der Herr Etatsrat](play_ts037_der_herr_etatsrat.md) und Träg
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine untersetzte, auf bizarre Weise stattliche Erscheinung mit einer lauten, rauen Bassstimme, die unter Alkoholeinfluss in groteskes Gelächter verfällt. Er strahlt herrische Macht und vollkommene emotionale Kälte aus.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er leitet den Deichbau, zwingt Archimedes zur Arbeit in seiner Kanzlei, nimmt an bizarren Erdbädern und Trinkgelagen teil, treibt seine Tochter Phia in die Arme Käfers und ignoriert den Tod seiner Kinder.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die absolute Unfähigkeit zur väterlichen Fürsorge und ein zynischer Egoismus, der seine naechsten Verwandten wie leblose Objekte behandelt.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das laute, polternde Zuschlagen der Kanzleitür und das triumphierende Trinken von starkem Punsch vor den eingeschüchterten Kindern.

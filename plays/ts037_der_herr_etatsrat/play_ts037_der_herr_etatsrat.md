@@ -2,7 +2,7 @@
 khai: play
 title: "Der Herr Etatsrat"
 declared: "Der Herr Etatsrat"
-description: "Eine Inszenierung von Theodor Storms Novelle Der Herr Etatsrat (1881)."
+description: "Eine Inszenierung über die groteske Tyrannei des Herrn Etatsrats und den tragischen Verfall seiner ungeschützten Kinder."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Der Herr Etatsrat.
 
 ## Arc
 
-Eine Inszenierung der Novelle Der Herr Etatsrat von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine finstere, groteske Tragödie über die moralische Verkommenheit des mächtigen Wasserbaubeamten Etatsrat Sternow. Während er in der Öffentlichkeit hohes Ansehen beim Deichbau genießt, terrorisiert und vernachlässigt er zu Hause seine Familie. Er verwehrt seinem begabten Sohn Archimedes das Mathematikstudium, was diesen in den Alkoholismus treibt, während seine Tochter Phia vom verschlagenen Gehilfen Käfer verführt wird und schwanger stirbt. Sternow begegnet dem Untergang seiner Kinder mit völliger emotionaler Kälte.
 
 ## Company
 
 **Personas**
 
-- [Etatsrat](persona_etatsrat.md) - die Hauptfigur dieses Dramas.
+- [Der Etatsrat](persona_etatsrat.md), der tyrannische Vater.
+- [Archimedes](persona_archimedes.md), der gebrochene Mathematiker.
+- [Phia](persona_phia.md), die ausgebeutete Tochter.
+- [Kaefer](persona_kaefer.md), der schändliche Verführer.
+- [Der Erzaehler](persona_erzaehler.md), der bürgerliche Jugendfreund.
 
 **Positions**
 
-- [Beamter](position_beamter.md)
+- [Der Etatsrat-Tyrann](position_etatsrat.md)
+- [Der Gehilfe](position_gehilfe.md)
+- [Die Dienstmagd](position_dienstmagd.md)
+- [Der Verfuehrer](position_verfuehrer.md)
 
 **Places**
 
-- [Die Amtsstube](place_amtsstube.md)
+- [Das Haus](place_haus.md)
+- [Der Garten](place_garten.md)
+- [Der Deich](place_deich.md)
 
 **Pieces**
 
-- [Die Akte](piece_akte.md)
+- [Der Punsch](piece_punsch.md)
+- [Das Erdbad](piece_erdbad.md)
+- [Das Rechenbuch](piece_rechenbuch.md)
 
 **Pitches**
 
-- [Die Groteske](pitch_groteske.md)
+- [Groteske Tyrannei](pitch_groteske_tyrannei.md)
+- [Die Apathie](pitch_apatie.md)
 
 ## Triggers
 
-**[Plot: Der Skandal](plot_skandal.md)**
+**[Plot: Die Unterdrueckung](plot_unterdrueckung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die systematische Behinderung der Ausbildung zerstört Archimedes' akademische Lebensperspektive.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob die Kinder des Etatsrats dem lähmenden Einfluss ihres psychopathischen Vaters und der häuslichen Verwahrlosung entkommen können, um eine eigenständige Zukunft aufzubauen.
