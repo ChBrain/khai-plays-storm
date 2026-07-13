@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "saal"
-declared: "Der alte Saal"
+declared: "Der Saal"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Place: Der alte Saal
+# Place: Der Saal
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein grosser, altmodischer und leicht vernachlässigter Festsaal mit rissigen Holzwänden und verblasster Pracht.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er birgt die festlich gedeckte Taufgesellschaft, den grossen Sessel der Urgroßmutter und die Risse der Zeit.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet Raum für die familiären Feierlichkeiten, steht aber als Symbol für eine vergehende Epoche.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert dem Enkel dauerhafte Standsicherheit und weicht bald dem neu geplanten Nutzziergarten.

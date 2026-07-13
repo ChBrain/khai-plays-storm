@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "vergaenglichkeit"
-declared: "Die Vergänglichkeit"
+declared: "Vergänglichkeit"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Pitch: Die Vergänglichkeit
+# Pitch: Vergänglichkeit
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Die melancholische Grundstimmung und der getragene Ton, der das Werk durchzieht.
+Die schmerzhafte Einsicht, dass selbst die prächtigsten Zeugnisse des Glücks physisch vergehen und verfallen müssen.
 
 ## Undertow
 
-Der unterschwellige Konflikt zwischen Tradition und Wandel, der die Figuren beeinflusst.
+Die Ahnung, dass nur die innere Erinnerung den Lauf der Zeit überdauert und die Liebe vor dem Vergessen bewahrt.
 
 ## Nerve
 
-Der emotionale Kern der Geschichte, der die Zerrissenheit der Hauptfigur spürbar macht.
+Der Moment, in dem die Urgroßmutter stumm auf die rissigen Tapeten deutet und an ihren Hochzeitstag denkt.
 
 ## Echo
 
-Das Nachhallen des Erlebten im Bewusstsein der Zuschauer und Leser.
+Das ergriffene Raunen im Publikum über den zyklischen Wandel aller irdischen Stätten des Lebens.
