@@ -2,7 +2,7 @@
 khai: play
 title: "Wenn die Äpfel reif sind"
 declared: "Wenn die Äpfel reif sind"
-description: "Eine Inszenierung von Theodor Storms Novelle Wenn die Äpfel reif sind (1856)."
+description: "Eine Inszenierung über den nächtlichen Apfeldiebstahl von Hans und sein humorvolles Erpressungsspiel mit dem Studenten."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Wenn die Äpfel reif sind.
 
 ## Arc
 
-Eine Inszenierung der Novelle Wenn die Äpfel reif sind von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine heitere, mondhelle Garten-Komödie über jugendlichen Wagemut, erpresserische Bauernschläue und ein vereiteltes Liebesabenteuer. In einer Sommernacht schleicht der Nachbarsjunge Hans in den Garten des strengen Kaufmanns, um reife Äpfel zu stehlen. Im Apfelbaum entdeckt er den Studenten Woldemar, der dort heimlich auf ein Stelldichein mit Lene wartet. Woldemar zerschneidet Hansens Hose, um ihn zu vertreiben, doch Hans erpresst den Studenten geschickt mit seinem Wissen. Nachdem er Geld für die Hose und den vollen Apfelsack erpresst hat, ruft er laut Diebe und zwingt das Liebespaar zur Flucht.
 
 ## Company
 
 **Personas**
 
-- [Constantin](persona_constantin.md) - die Hauptfigur dieses Dramas.
+- [Hans](persona_hans.md), der freche Nachbarsjunge.
+- [Woldemar](persona_woldemar.md), der verliebte Student.
+- [Lene](persona_lene.md), die Kaufmannstochter.
+- [Klaus](persona_klaus.md), der alte Nachtwaechter.
+- [Vater](persona_vater.md), der schlafende Kaufmann.
 
 **Positions**
 
-- [Student](position_student.md)
+- [Der Apfeldieb](position_apfeldieb.md)
+- [Der Student](position_student.md)
+- [Die Kaufmannstochter](position_kaufmannstochter.md)
+- [Der Nachtwaechter](position_nachtwaechter.md)
 
 **Places**
 
 - [Der Obstgarten](place_obstgarten.md)
+- [Das Fenster](place_fenster.md)
+- [Die Gasse](place_gasse.md)
 
 **Pieces**
 
 - [Der Apfel](piece_apfel.md)
+- [Der Sack](piece_sack.md)
+- [Die Hose](piece_hose.md)
 
 **Pitches**
 
-- [Das Idyll](pitch_idyll.md)
+- [Bauernschlaeue](pitch_bauernschlaeue.md)
+- [Sinnlichkeit](pitch_sinnlichkeit.md)
 
 ## Triggers
 
-**[Plot: Die Ernte](plot_ernte.md)**
+**[Plot: Der Apfelldiebstahl](plot_diebstahl.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Das leise Überklettern der Gartenmauer durch Hans leitet die nächtliche Jagd im Obstgarten ein.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Hans mit der fetten Beute und dem erpressten Geld entkommen kann, ohne vom strengen Vater oder dem Nachtwächter erwischt zu werden, und ob das heimliche Liebesabenteuer der Studenten unentdeckt bleibt.

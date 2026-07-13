@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein dichter, mondheller Garten mit alten, tragenden Apfelbäumen und hohen Holzzäunen.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er birgt die reifen Äpfel, den Apfelbaum, in dem Hans und Woldemar sitzen, und das dichte Laub.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet den Dieben reichlich Beute und den Liebenden ein Versteck im Schatten der Äste.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert dem kaufmännischen Vater den Schutz seiner Früchte vor der Frechheit des Nachbarsjungen.

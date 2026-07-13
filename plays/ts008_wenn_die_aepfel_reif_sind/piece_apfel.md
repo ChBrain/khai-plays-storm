@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Der Obstgarten](place_obstgarten.md).
+Das Objekt befindet sich in [Der Obstgarten](place_obstgarten.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Er symbolisiert die verbotene, süsse Versuchung der Jugendzeit und die Beute des diebischen Hans.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein reifer, rotschaliger Apfel, der schwer an einem Ast hängt und nach frischem Obst duftet.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein Pflücken durch Hans im Mondlicht besiegelt den Diebstahl und stört Woldemars Versteck.

@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "student"
-declared: "Student"
+declared: "Der Student"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Student
+# Position: Der Student
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Ein Taschenmesser, etwas Geld in den Taschen und den Zugang zum verbotenen Obstgarten.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er muss sich den Forderungen des Jungen beugen, um das Geheimnis seiner Liebe zu wahren.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine Münzen, seinen Sack mit Äpfeln und die ungestörte Liebesnacht mit Lene.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Treffen mit Lene am Fenster und die Vermeidung jeder Entdeckung durch ihren Vater.
