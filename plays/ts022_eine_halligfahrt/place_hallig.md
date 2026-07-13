@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine kleine, flache Insel im schier unendlichen Wattenmeer, umgeben von Gezeitenströmen unter tiefen Wolken.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie beherbergt die spärlichen Grasflächen, das einsame Haus des Vetters und die Relikte der Vergangenheit.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet dem Vetter Schutz vor der preussischen Bürokratie, wird aber zum einsamen Exil seines Lebens.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert den jungen Städtern jede dauerhafte Sicherheit und droht stetig mit Überflutung bei Flut.
