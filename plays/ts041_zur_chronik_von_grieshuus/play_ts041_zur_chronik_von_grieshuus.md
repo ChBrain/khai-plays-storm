@@ -2,7 +2,7 @@
 khai: play
 title: "Zur Chronik von Grieshuus"
 declared: "Zur Chronik von Grieshuus"
-description: "Eine Inszenierung von Theodor Storms Novelle Zur Chronik von Grieshuus (1884)."
+description: "Eine Inszenierung über den tragischen Verfall des Adelsgeschlechts von Grieshuus nach einem fatalen Brudermord."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Zur Chronik von Grieshuus.
 
 ## Arc
 
-Eine Inszenierung der Novelle Zur Chronik von Grieshuus von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine epische, schwermütige Inszenierung von Theodor Storms historischer Chroniknovelle über das holsteinische Adelsgeschlecht Grieshuus. Der leidenschaftliche Junker Hinrich heiratet die leibeigene Bärbe, wird vom Vater enterbt und gerät in tödlichen Streit mit seinem kalten Zwilling Detlev. Nach Bärbes frühem Tod erschlägt Hinrich den Bruder und flieht. Jahrzehnte später kehrt er unerkannt als Wildmeister zurück, um seinen verwaisten Sohn Rolf zu schützen, doch das düstere Erbe der Vergangenheit besiegelt den Untergang der Burg.
 
 ## Company
 
 **Personas**
 
-- [Hinrich](persona_hinrich.md) - die Hauptfigur dieses Dramas.
+- [Hinrich](persona_hinrich.md), der jähzornige Erstgeborene.
+- [Detlev](persona_detlev.md), sein ehrgeiziger Zwillingsbruder.
+- [Baerbe](persona_baerbe.md), Hinrichs leibeigene Ehefrau.
+- [Rolf](persona_rolf.md), der verwaiste Erbe.
+- [Der Erzaehler](persona_erzaehler.md), der Leser der alten Chronik.
 
 **Positions**
 
-- [Junker](position_junker.md)
+- [Der Junker](position_junker.md)
+- [Der Intrigaent](position_intrigaent.md)
+- [Die Leibeigene](position_leibeigene.md)
+- [Die Waise](position_waise.md)
 
 **Places**
 
-- [Das Haus Grieshuus](place_grieshuus.md)
+- [Grieshuus](place_grieshuus.md)
+- [Die Kate](place_kate.md)
+- [Die Heide](place_heide.md)
 
 **Pieces**
 
 - [Die Chronik](piece_chronik.md)
+- [Der Ring](piece_ring.md)
+- [Das Schwert](piece_schwert.md)
 
 **Pitches**
 
-- [Die Chronik](pitch_chronik.md)
+- [Erblast und Fluch](pitch_erblast_und_fluch.md)
+- [Die Standesgrenzen](pitch_standesgrenzen.md)
 
 ## Triggers
 
-**[Plot: Die Fehde](plot_fehde.md)**
+**[Plot: Die Heirat](plot_heirat.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die Eheschliessung mit der Leibeigenen besiegelt Hinrichs Ausgrenzung aus der adligen Familie.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Junker Hinrich durch jahrzehntelange Sühne den Fluch seiner Gewalttat abwenden kann, um seinem Sohn Rolf ein freies Leben zu sichern, oder ob das adlige Grieshuus-Erbe alle Nachkommen unaufhaltsam verschlingt.
