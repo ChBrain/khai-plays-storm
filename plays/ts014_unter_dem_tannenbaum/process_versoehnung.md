@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das friedliche Beisammensein unter dem Tannenbaum und der Verzehr der heimatlichen Kuchen.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Die innere Beruhigung und das allmähliche Akzeptieren des Exils durch die Kraft der Erinnerung.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das liebevolle Teilen der Geschichten und die Wärme der Stube.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der friedliche Ausklang des Heiligen Abends und der Gewinn eines neuen Seelenfriedens.
