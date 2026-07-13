@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Draußen im Heidedorf](play_ts023_draussen_im_heidedorf.md) und Träger der Position [Bauer](position_bauer.md).
+Der besessene Bauer in [Draußen im Heidedorf](play_ts023_draussen_im_heidedorf.md) und Inhaber der Position [Der Bauer](position_bauer.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Draußen im Heidedorf](play_ts023_draussen_im_heidedorf.md) u
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein junger, kräftiger, aber düster dreinschauender Bauer von unruhigem, brütendem Wesen. Seine Stimme ist rau, gehetzt und verrät den fortschreitenden Kontrollverlust über seine Gedanken.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er übernimmt den verschuldeten Hof, heiratet pflichtbewusst, verfällt erneut der zurückgekehrten Margarete, vernachlässigt seine Pflichten, plant die Flucht nach Amerika und verschwindet im Moor.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die absolute Weigerung, die moralischen und wirtschaftlichen Realitäten seines Standes anzuerkennen, getrieben von einer unbezwingbaren Sucht.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das finstere, abwesende Starren über die weiten Heideflächen und das nervöse Nesteln an den Hofschlüsseln.
