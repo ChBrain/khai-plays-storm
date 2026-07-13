@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [In St. Jürgen](play_ts019_in_st_juergen.md) und Träger der Position [Tischlergeselle](position_tischlergeselle.md).
+Der gealterte Tischler in [In St. Jürgen](play_ts019_in_st_juergen.md) und Inhaber der Position [Der Tischlergeselle](position_tischlergeselle.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [In St. Jürgen](play_ts019_in_st_juergen.md) und Träger der 
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein müder, von schwerer Arbeit gezeichneter alter Tischlermeister von gebeugter Haltung. Seine Stimme ist heiser, schwach und zittert vor unterdrücktem Schmerz über verpasste Chancen.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er verliert sein Erbe durch Agnes' Vater, zieht als Geselle fort, heiratet aus Pflichtgefühl in der Fremde, kehrt als Witwer zurück und besucht Agnes im Hospitalkirchhof.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die tiefe Sehnsucht nach der verlorenen Heimat und die lebenslange Reue, sich nicht gegen das Schicksal aufgebäumt zu haben.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das melancholische Betrachten seiner von Holzarbeit rauen Hände und das leise Seufzen beim Blick auf die Hospitalkirche.
