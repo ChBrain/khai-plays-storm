@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "beichte"
-declared: "Die Beichte"
+declared: "Das Geständnis im Kurort"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plot: Die Beichte
+# Plot: Das Geständnis im Kurort
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Die entscheidende Szene der Inszenierung am [Das Zimmer](place_zimmer.md).
+Das Wiedersehen von Franz und Hans im ruhigen Kurort nach jahrzehntelanger Flucht.
 
 ## Action
 
-"Die Hauptfigur [Franz](persona_franz.md) stellt sich den Herausforderungen der Situation am [Das Zimmer](place_zimmer.md)."
+[Franz](persona_franz.md) beichtet Hans die ganze Wahrheit und übergibt ihm [Der Bekenntnisbrief](piece_bekenntnisbrief.md) vor seinem Freitod.
 
 ## Stage
 
-Eine stimmungsvolle Bühne: [Franz](persona_franz.md) agiert im Scheinwerferlicht, während im Hintergrund der [Das Zimmer](place_zimmer.md) erkennbar ist.
+Eine dämmrige Parkszene in [Der Kurort](place_kurort.md): Franz übergibt [Hans](persona_hans.md) mit zitternder Hand das Kuvert mit [Der Bekenntnisbrief](piece_bekenntnisbrief.md), während die Abendsonne hinter den Kuranlagen versinkt.
 
 ## Tension
 
-Die Anspannung wächst, da [Franz](persona_franz.md) eine folgenschwere Entscheidung treffen muss, die alles verändern könnte.
+Die jahrelange Flucht endet in einer schmerzhaften Beichte, die Franz' tragisches Schicksal besiegelt und Hans als Zeugen zurücklässt.

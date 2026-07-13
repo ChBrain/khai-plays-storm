@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein düsteres, stickiges Krankenzimmer mit verhängten Fenstern, in dem Else Füßli ihre letzten Lebensmonate verbringt.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es birgt das Sterbebett Elses, die leeren Medikamentenflaschen und wird zum Ort der verhängnisvollen Gifteinnahme.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet Else einen Rückzugsort vor den Blicken der Welt, wird aber für Franz zum Schauplatz seines grössten Verbrechens.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert der leidenden Ehefrau jede lebensrettende Hoffnung und frische Luft, bis es ihr zum Sarg wird.
