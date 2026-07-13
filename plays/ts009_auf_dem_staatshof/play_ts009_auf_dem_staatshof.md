@@ -2,7 +2,7 @@
 khai: play
 title: "Auf dem Staatshof"
 declared: "Auf dem Staatshof"
-description: "Eine Inszenierung von Theodor Storms Novelle Auf dem Staatshof (1859)."
+description: "Eine Inszenierung über den Verfall des Staatshofs und das tragische Schicksal der letzten Erbin Anne Lene."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Auf dem Staatshof.
 
 ## Arc
 
-Eine Inszenierung der Novelle Auf dem Staatshof von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine wehmütige, melancholische Inszenierung von Theodor Storms bekannter Erzählung über den Niedergang des alten Staatshofs in Eiderstedt. Die zarte, lebensunfähige letzte Erbin Anne Lene wächst unter der Aufsicht ihrer stolzen Grossmutter in zunehmender Isolation auf. Trotz der treuen Zuneigung ihres Jugendfreundes Marx, der den Aufstieg des Bürgertums verkörpert, rutscht der Hof in den wirtschaftlichen Ruin. Die Tragödie gipfelt im plötzlichen Einsturz des verfallenen Gartenpavillons in die tiefe Graft, bei dem Anne Lene ertrinkt.
 
 ## Company
 
 **Personas**
 
-- [Anne Lene](persona_anne_lene.md) - die Hauptfigur dieses Dramas.
+- [Anne Lene](persona_anne_lene.md), die letzte Gutsherrin.
+- [Marx](persona_marx.md), ihr bürgerlicher Jugendfreund.
+- [Die Grossmutter](persona_grossmutter.md), die stolze Matriarchin.
+- [Die Kammerjungfer](persona_kammerjungfer.md), die treue Dienerin.
+- [Der Gutsverwalter](persona_gutsverwalter.md), der strenge Liquidator.
 
 **Positions**
 
-- [Gutsherrin](position_gutsherrin.md)
+- [Die Gutsherrin](position_gutsherrin.md)
+- [Der Beobachter](position_beobachter.md)
+- [Die Patriarchin](position_patriarchin.md)
+- [Der Glaeubiger](position_glaeubiger.md)
 
 **Places**
 
 - [Der Staatshof](place_staatshof.md)
+- [Der Pavillon](place_pavillon.md)
+- [Die Graft](place_graft.md)
 
 **Pieces**
 
-- [Das Herrenhaus](piece_herrenhaus.md)
+- [Der Briefbeschwerer](piece_briefbeschwerer.md)
+- [Die Schuldbriefe](piece_schuldbriefe.md)
+- [Das Spinett](piece_spinett.md)
 
 **Pitches**
 
-- [Der Untergang](pitch_untergang.md)
+- [Dekadenz und Verfall](pitch_dekadenz_und_verfall.md)
+- [Die Weltfremdheit](pitch_weltfremdheit.md)
 
 ## Triggers
 
-**[Plot: Der Sturz](plot_sturz.md)**
+**[Plot: Die Kinderzeit](plot_kinderzeit.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die gemeinsamen Spiele im Garten begründen das lebenslange Band zwischen Marx und Anne Lene.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Anne Lene sich aus der lähmenden Tradition ihres untergehenden Geschlechts befreien und Marx' Angebot fuer ein neues, bürgerliches Leben annehmen kann, oder ob die Strudel der Graft sie unaufhaltsam in die Tiefe ziehen.

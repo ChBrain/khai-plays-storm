@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein ehemals prächtiges, nun aber sichtbar verfallendes Herrenhaus in Eiderstedt, umgeben von dichten Graftengräben.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er birgt die stolze Geschichte der Familie van der Roden und die Zeugnisse des schleichenden Verfalls.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet den verbliebenen Gutsdamen eine letzte, melancholische Zuflucht vor der lauten, bürgerlichen Außenwelt.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert seinen Bewohnern jede wirtschaftliche Sicherheit und den Anschluss an die moderne Zeit.
