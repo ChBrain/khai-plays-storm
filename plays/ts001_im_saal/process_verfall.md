@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "verfall"
-declared: "Der Verfall"
+declared: "Der physische Verfall"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Der Verfall
+# Process: Der physische Verfall
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das jahrzehntelange Einwirken der Witterung und die Vernachlässigung der Bausubstanz des Saales.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der unaufhaltsame Verfall der Holzwände und das Entstehen von Rissen im alten Hochzeitssaal.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das mangelnde Interesse an der Instandhaltung eines ungenutzten Prachtraumes.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Die Notwendigkeit des Abrisses und die endgültige Beseitigung aller physischen Reste der Hochzeitsfeier.
