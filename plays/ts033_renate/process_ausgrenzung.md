@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "ausgrenzung"
-declared: "Die Ausgrenzung"
+declared: "Die dörfliche Ausgrenzung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Die Ausgrenzung
+# Process: Die dörfliche Ausgrenzung
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Die neidischen Gerüchte der Nachbarn über Peter Marckens Wohlstand und Renates Stolz.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der schleichende, unaufhaltsame Prozess der sozialen Ostrazisierung von Renates Familie im Dorf.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das anklagende Schweigen der Nachbarn und das meidende Verhalten beim Kirchgang.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der vollkommene Rückzug der Familie aus dem öffentlichen Leben und Renates erzwungene Flucht.

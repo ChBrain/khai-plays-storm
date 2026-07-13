@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "bauernmaedchen"
-declared: "Bauernmädchen"
+declared: "Das Bauernmädchen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Bauernmädchen
+# Position: Das Bauernmädchen
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Die Erbberechtigung auf dem reichen Marckenhof und die Zuneigung ihres Vaters Peter.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Sie beeinflusst das Drama durch ihren Stolz und ihre Weigerung, sich vor den Gerüchten der Dorfbewohner zu beugen.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Sie verliert ihre Heimat Schwabstedt, ihre Liebe zu Josias und ihr soziales Ansehen durch die Hexereianklagen.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Verlangen nach einer selbstbestimmten Liebe und der Schutz von Josias' zukünftiger Priesterkarriere.

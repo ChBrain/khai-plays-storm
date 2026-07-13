@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "hexenjagd"
-declared: "Die Hexenjagd"
+declared: "Die Hexenverfolgung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plot: Die Hexenjagd
+# Plot: Die Hexenverfolgung
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Die entscheidende Szene der Inszenierung am [Die Marsch](place_marsch.md).
+Petrus Goldschmidts Kanzelreden und das Erscheinen seines Hetzwerks in Schwabstedt.
 
 ## Action
 
-"Die Hauptfigur [Renate](persona_renate.md) stellt sich den Herausforderungen der Situation am [Die Marsch](place_marsch.md)."
+Die aufgebrachten Dorfbewohner bezichtigen [Renate](persona_renate.md) und [Marcken](persona_marcken.md) der schwarzen Magie und bedrohen sie.
 
 ## Stage
 
-Eine stimmungsvolle Bühne: [Renate](persona_renate.md) agiert im Scheinwerferlicht, während im Hintergrund der [Die Marsch](place_marsch.md) erkennbar ist.
+Eine unheimliche, abendliche Szene im Dorf von [Schwabstedt](place_schwabstedt.md): Die aufgebrachte Bauernmenge belagert [Der Marckenhof](place_marckenhof.md) mit Fackeln, während [Goldschmidt](persona_goldschmidt.md) lauthals Bibelverse ruft und [Renate](persona_renate.md) stumm am Fenster wacht.
 
 ## Tension
 
-Die Anspannung wächst, da [Renate](persona_renate.md) eine folgenschwere Entscheidung treffen muss, die alles verändern könnte.
+Die existentielle Bedrohung von Renates Leben und die soziale Ächtung der Familie werden besiegelt.
