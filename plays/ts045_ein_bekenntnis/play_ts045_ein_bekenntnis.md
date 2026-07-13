@@ -2,7 +2,7 @@
 khai: play
 title: "Ein Bekenntnis"
 declared: "Ein Bekenntnis"
-description: "Eine Inszenierung von Theodor Storms Novelle Ein Bekenntnis (1887)."
+description: "Eine Inszenierung über den tragischen Konflikt eines Arztes, der seiner unheilbar kranken Frau Sterbehilfe leistet."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Ein Bekenntnis.
 
 ## Arc
 
-Eine Inszenierung der Novelle Ein Bekenntnis von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine tiefgreifende, ethische Spätwerk-Tragödie über einen fatalen Irrtum der Mitleidstötung. Der Arzt Franz Jebe leistet seiner unheilbar an Gebärmutterkrebs erkrankten Ehefrau Else auf ihr inständiges Flehen hin Sterbehilfe. Unmittelbar nach ihrem Tod trifft eine medizinische Zeitschrift ein, die eine neue, sichere Operationsmethode zur vollständigen Heilung genau dieser Krebsart beschreibt. Zerrissen von unerträglicher Schuld flieht Franz in die Ferne, kehrt Jahre später als gebrochener Mann zurück und gesteht die Tat seinem alten Freund Hans.
 
 ## Company
 
 **Personas**
 
-- [Franz](persona_franz.md) - die Hauptfigur dieses Dramas.
+- [Franz](persona_franz.md), der gezeichnete Arzt.
+- [Else](persona_else.md), die schmerzgeplagte Ehefrau.
+- [Hans](persona_hans.md), der zuhörende Freund.
+- [Roden](persona_roden.md), die geheilte Etatsrätin.
+- [Assistent](persona_assistent.md), der junge Assistenzarzt.
 
 **Positions**
 
-- [Gatte](position_gatte.md)
+- [Der Arzt](position_arzt.md)
+- [Die Patientin](position_patientin.md)
+- [Der Erzaehler](position_erzaehler.md)
+- [Der Assistent](position_assistenten.md)
 
 **Places**
 
 - [Das Zimmer](place_zimmer.md)
+- [Der Kurort](place_kurort.md)
+- [Die Praxis](place_praxis.md)
 
 **Pieces**
 
-- [Das Fläschchen](piece_flaeschchen.md)
+- [Die Giftampulle](piece_giftampulle.md)
+- [Die Zeitschrift](piece_zeitschrift.md)
+- [Der Bekenntnisbrief](piece_bekenntnisbrief.md)
 
 **Pitches**
 
-- [Die Schuld](pitch_schuld.md)
+- [Schuld und Wissenschaft](pitch_schuld_und_wissenschaft.md)
+- [Euthanasie-Konflikt](pitch_euthanasie_konflikt.md)
 
 ## Triggers
 
-**[Plot: Die Beichte](plot_beichte.md)**
+**[Plot: Die Sterbehilfe](plot_sterbehilfe.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Franz' Entscheidung zur Gabe des tödlichen Mittels besiegelt das Schicksal der leidenden Ehefrau.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Dr. Franz Jebe nach dem schrecklichen Erkennen seines voreiligen Mitleidsmordes einen moralischen Sühneweg finden kann, oder ob das Gewicht der unerträglichen Schuld ihn in den unausweichlichen Selbstmord treibt.

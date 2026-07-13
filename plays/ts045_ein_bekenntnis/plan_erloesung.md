@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "erloesung"
-declared: "Die Erlösung"
+declared: "Der Erlösungsplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,11 +10,11 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Erlösung
+# Plan: Der Erlösungsplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Franz' medizinisch-ethischer Plan zur Beendigung von Elses unerträglichem Krebsleiden.
 
 ## Owner
 
@@ -22,19 +22,20 @@ Ein Lebensplan zur Umsetzung des Vorhabens.
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist die schmerzfreie Erlösung der unheilbar kranken Else durch Gabe eines letalen Medikaments auf ihr inständiges Verlangen.
 
 ## Orders
 
-- [Franz](persona_franz.md) muss die ersten Schritte am [Das Zimmer](place_zimmer.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Franz](persona_franz.md) muss Else von den schmerzhaften Details der letzten Krankheitsphase abschirmen.
+- Er muss sich eine letale Medikamentendosis in [Das Zimmer](place_zimmer.md) bereitlegen.
+- Die Verabreichung des Gifts muss friedlich und im Beisein von Franz erfolgen.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Das Zimmer](place_zimmer.md) realisiert, wobei das Motiv [Das Fläschchen](piece_flaeschchen.md) eine zentrale Rolle spielt.
+Der Plan wird erfolgreich ausgeführt, erweist sich jedoch durch das zeitgleiche Eintreffen der Heilungsnachricht als katastrophaler Fehltritt.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Das Zimmer](place_zimmer.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Das Fläschchen](piece_flaeschchen.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die wirksame Schmerzlinderung in den schwersten Stunden
+- [ ] Die friedliche, schmerzfreie Einschläferung der leidenden Ehefrau
+- [ ] Die Bewahrung Elses vor der qualvollen, befürchteten Sterbephase

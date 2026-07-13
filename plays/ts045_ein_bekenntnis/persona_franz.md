@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Ein Bekenntnis](play_ts045_ein_bekenntnis.md) und Träger der Position [Gatte](position_gatte.md).
+Der schuldgeplagte Arzt in [Ein Bekenntnis](play_ts045_ein_bekenntnis.md) und Inhaber der Position [Der Arzt](position_arzt.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Ein Bekenntnis](play_ts045_ein_bekenntnis.md) und Träger der
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein einst selbstbewusster, tatkräftiger Gynäkologe, der nach der Tat vorzeitig gealtert, blass und seelisch gebrochen wirkt. Seine Stimme ist heiser, leise und von tiefer Melancholie geprägt.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er diagnostiziert Elses Krebs, pflegt sie aufopfernd, leistet ihr mit einer Giftampulle Sterbehilfe, erfährt unmittelbar darauf von der neuen Heilungsmethode und flieht zerrüttet nach Afrika.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die verheerende Arroganz seines ärztlichen Urteils, die ihn vorschnell glauben liess, Elses Krankheit sei absolut unheilbar.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das nervöse, zittrige Reiben seiner Hände, als wolle er unsichtbare Flecken abwaschen, und das meidende Abwenden seines Blickes.

@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "vergiftung"
-declared: "Die Vergiftung"
+declared: "Die Gifteinnahme"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Die Vergiftung
+# Process: Die Gifteinnahme
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Else Füßlis unerträgliche Krebsschmerzen und Franz' fatale Gabe der tödlichen Dosis.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Das rasche, friedliche Einschlafen und der darauffolgende Atemstillstand der leidenden Else.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist die chemische Wirkung der Substanz aus [Die Giftampulle](piece_giftampulle.md) auf den geschwächten Körper.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der jähe Eintritt des Todes, der die Schmerzen beendet, aber die unheilbare Schuldkatastrophe für Franz einleitet.
