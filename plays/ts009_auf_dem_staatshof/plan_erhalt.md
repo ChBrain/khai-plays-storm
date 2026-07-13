@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "erhalt"
-declared: "Der Erhalt"
+declared: "Der Erhaltungsplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,31 +10,32 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Der Erhalt
+# Plan: Der Erhaltungsplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Der traditionelle Plan der Grossmutter zur Aufrechterhaltung des feudalen Staatshof-Status.
 
 ## Owner
 
-- Owner: [Anne Lene](persona_anne_lene.md)
+- Owner: [Die Grossmutter](persona_grossmutter.md)
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist der Erhalt des adligen Scheins und die Abwehr aller modernen, bürgerlichen Reformbestrebungen.
 
 ## Orders
 
-- [Anne Lene](persona_anne_lene.md) muss die ersten Schritte am [Der Staatshof](place_staatshof.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Die Grossmutter](persona_grossmutter.md) muss alle finanziellen Sorgen vor Anne Lene und der Öffentlichkeit geheim halten.
+- Der herrschaftliche Lebensstil mit Dienerschaft und Kutsche muss fortgeführt werden.
+- Bürgerliche Heiratskandidaten oder wirtschaftliche Einmischungen sind strikt abzuweisen.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Der Staatshof](place_staatshof.md) realisiert, wobei das Motiv [Das Herrenhaus](piece_herrenhaus.md) eine zentrale Rolle spielt.
+Der Plan wird trotz drückender Schulden eisern fortgesetzt, scheitert jedoch unaufhaltsam mit dem biologischen Ableben der Matriarchin.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Der Staatshof](place_staatshof.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Das Herrenhaus](piece_herrenhaus.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die erfolgreiche Verschleierung der drückenden Hypothekenschulden
+- [ ] Die standesgemässe Erziehung Anne Lenes zur adligen Dame
+- [ ] Die Bewahrung des ungeteilten Staatshof-Besitzes vor Gläubigerzugriffen

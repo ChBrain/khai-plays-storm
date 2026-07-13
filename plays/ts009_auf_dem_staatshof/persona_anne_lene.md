@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Auf dem Staatshof](play_ts009_auf_dem_staatshof.md) und Träger der Position [Gutsherrin](position_gutsherrin.md).
+Die Protagonistin in [Auf dem Staatshof](play_ts009_auf_dem_staatshof.md) und Inhaberin der Position [Die Gutsherrin](position_gutsherrin.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Auf dem Staatshof](play_ts009_auf_dem_staatshof.md) und Träg
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine aetherische, zerbrechliche und tief melancholische letzte Nachfahrin des alten Geschlechts van der Roden. Ihre Stimme ist leise, zögernd und von weltfremder Träumerei geprägt. Sie spricht ein kultiviertes, kühles Hochdeutsch.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Anne Lene verbringt ihre Jugend in der Isolation des Staatshofs, weigert sich, die wirtschaftliche Realität anzuerkennen, lehnt Marx' rettende Hand ab und findet schliesslich den Tod beim Einsturz des Pavillons.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die absolute Unfähigkeit, sich dem Wandel der Zeiten anzupassen, und der unbewusste Drang, das Schicksal ihres erlöschenden Adelsgeschlechts im Tod zu besiegeln.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das abwesende Streichen ueber die Tasten des Spinetts und ein trauriger, verlorener Blick ueber das graue Wasser der Graft.
