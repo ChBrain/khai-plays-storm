@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "niedergang"
-declared: "Der Niedergang"
+declared: "Der Niedergang von Grieshuus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Der Niedergang
+# Process: Der Niedergang von Grieshuus
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Der verheerende Brudermord an Detlev und Hinrichs erzwungene Flucht ins Exil.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der schleichende, unaufhaltsame Verfall des stolzen Schlosses Grieshuus und des Adelsgeschlechts.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das Ausbleiben des rechtmaessigen Erben und die Verwaltung durch ungeliebte Vormünder.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der vollstaendige Zerfall der Burg zu einer bemoosten, grauen Ruine, von der nur die alte Chronik zu berichten weiss.

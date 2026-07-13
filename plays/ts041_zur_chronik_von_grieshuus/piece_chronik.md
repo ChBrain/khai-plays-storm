@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Das Haus Grieshuus](place_grieshuus.md).
+Das Objekt befindet sich in [Grieshuus](place_grieshuus.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Sie ist das literarische Fundament, das die tragische, historische Wahrheit ueber das Geschlecht Grieshuus vor dem Vergessen bewahrt.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein dickes, verstaubtes Pergamentbuch mit vergilbten Seiten und brauner Tinte, das in einer eisernen Truhe aufbewahrt wird.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Ihr Inhalt ueberbrueckt die Jahrhunderte und macht die untergegangenen Leiden der Junker fuer die Nachwelt erlebbar.

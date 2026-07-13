@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "grieshuus"
-declared: "Das Haus Grieshuus"
+declared: "Grieshuus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Place: Das Haus Grieshuus
+# Place: Grieshuus
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine graue, mächtige Ritterburg in Holstein, die ueber die Jahrhunderte vom stolzen Adelssitz zur bemoosten Ruine verfällt.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie bewahrt die ehrgeizige Geschichte der Familie und das oeffentliche Zeugnis des verheerenden Brudermords.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet den herrschenden Junkern Schutz und Macht, wird aber fuer Rolf zu einem unheimlichen Aufenthaltsort.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert dem rechtlosen Bauernvolk jeden Eintritt und schliesst Bärbe und die Liebe von ihren Mauern aus.

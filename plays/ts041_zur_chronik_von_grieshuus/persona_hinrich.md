@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Zur Chronik von Grieshuus](play_ts041_zur_chronik_von_grieshuus.md) und Träger der Position [Junker](position_junker.md).
+Der tragische Junker in [Zur Chronik von Grieshuus](play_ts041_zur_chronik_von_grieshuus.md) und Inhaber der Position [Der Junker](position_junker.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Zur Chronik von Grieshuus](play_ts041_zur_chronik_von_grieshu
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein von heftigen Leidenschaften und aufbrausendem Jähzorn beherrschter Erstgeborener des Burgherrn, der im Kern ein warmes, gerechtes Herz besitzt. Seine Stimme ist machtvoll, ungestüm und bricht im Alter in flüsternde, traurige Nachdenklichkeit ein.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Hinrich heiratet Bärbe trotz des elterlichen Verbots, lebt als enterbter Bauer, erschlägt seinen Bruder Detlev nach Bärbes Tod, flieht ins Exil und kehrt als Wildmeister zurück, um Rolf heimlich beizustehen.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die unerträgliche Last des Brudermordes, die sein Gewissen peinigt und ihn zu jahrzehntelanger, schmerzhafter Sühne zwingt.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das wütende Funkeln in seinen dunklen Augen und das schützende Halten seiner Hand über dem Kopf seines Sohnes Rolf.

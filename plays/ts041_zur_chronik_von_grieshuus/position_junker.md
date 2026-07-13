@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "junker"
-declared: "Junker"
+declared: "Der Junker"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Junker
+# Position: Der Junker
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Das legitime Anrecht auf das Erbe der Burg Grieshuus und die standesgemässe Herrschaft ueber Land und Leute.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er bestimmt den Lauf des Dramas, indem er das Adelsrecht bricht und eine nicht standesgemässe Ehe eingeht.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine bürgerlichen und adligen Privilegien, sein Heim und muss als getarnter Wildmeister im Wald hausen.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Der unerschütterliche Schutz seiner Geliebten Bärbe und die saubere, moralische Sühne fuer seine eigene Gewalttat.
