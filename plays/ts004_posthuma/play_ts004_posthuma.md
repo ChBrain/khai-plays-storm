@@ -2,7 +2,7 @@
 khai: play
 title: "Posthuma"
 declared: "Posthuma"
-description: "Eine Inszenierung von Theodor Storms Novelle Posthuma (1849)."
+description: "Eine Inszenierung über die verheimlichte Liebe eines Patriziersohns und die späte Reue am Grab des armen Mädchens."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Posthuma.
 
 ## Arc
 
-Eine Inszenierung der Novelle Posthuma von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine düstere, melancholische Stimmungs-Tragödie über soziale Ausgrenzung, verheimlichte Leidenschaft und die läuternde Kraft des Todes. Ein junger Mann aus wohlhabendem Hause liebt ein schönes Mädchen aus den Armenvierteln. Aus Scham vor der Gesellschaft hält er die Beziehung im Verborgenen und überlässt sie ihrer Armut, bis sie jung stirbt. Geplagt von tiefen Gewissensbissen wandelt sich seine einstige Begierde erst posthume in eine unsterbliche, schmerzhafte Liebe. Nachts sucht er ihr einsames Grab auf dem Friedhof auf, um einen Kranz aus weissen Moosrosen an ihrem Holzkreuz niederzulegen.
 
 ## Company
 
 **Personas**
 
-- [Erzähler](persona_erzaehler.md) - die Hauptfigur dieses Dramas.
+- [Mann](persona_mann.md), der reuige Geliebte.
+- [Maedchen](persona_maedchen.md), das arme schoene Opfer.
+- [Totengraeber](persona_totengraeber.md), der kuehle Zeuge.
+- [Mutter](persona_mutter.md), die trauernde Witwe.
+- [Freund](persona_freund.md), der standesbewusste Patrizier.
 
 **Positions**
 
-- [Beobachter](position_beobachter.md)
+- [Der Patriziersohn](position_patriziersohn.md)
+- [Die Arbeitertochter](position_arbeitertochter.md)
+- [Der Totenwaechter](position_totenwaechter.md)
+- [Die Witwe Arm](position_witwe_arm.md)
 
 **Places**
 
-- [Das Heideldorf](place_dorf.md)
+- [Der Friedhof](place_friedhof.md)
+- [Der Garten Nacht](place_garten_nacht.md)
+- [Das Armenviertel](place_armenviertel.md)
 
 **Pieces**
 
-- [Das Grab](piece_grab.md)
+- [Die Moosrosen](piece_moosrosen.md)
+- [Das Holzkreuz](piece_holzkreuz.md)
+- [Der Brief](piece_brief.md)
 
 **Pitches**
 
-- [Die Schuld](pitch_schuld.md)
+- [Posthume Liebe](pitch_posthume_liebe.md)
+- [Klassenbarriere](pitch_klassenbarriere.md)
 
 ## Triggers
 
-**[Plot: Der Tod](plot_tod.md)**
+**[Plot: Die Nachtbesuche](plot_geheimtreffen.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die heimlichen nächtlichen Treffen im dunklen Garten begründen die leidenschaftliche, aber sozial verleugnete Beziehung.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob der junge Mann durch das späte Bekenntnis seiner Liebe am einsamen Grab die quälenden Gewissensbisse überwinden und der Toten die versagte Ehre erweisen kann.
