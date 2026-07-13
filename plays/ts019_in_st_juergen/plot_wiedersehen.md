@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "wiedersehen"
-declared: "Das Wiedersehen"
+declared: "Die stille Wiederbegegnung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plot: Das Wiedersehen
+# Plot: Die stille Wiederbegegnung
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Die entscheidende Szene der Inszenierung am [Das Stift](place_stift.md).
+Harres Rückkehr als gealterter, einsamer Witwer in seine alte Heimatstadt.
 
 ## Action
 
-"Die Hauptfigur [Harre](persona_harre.md) stellt sich den Herausforderungen der Situation am [Das Stift](place_stift.md)."
+[Harre](persona_harre.md) sucht [Agnes](persona_agnes.md) im Stift auf, um Abschied zu nehmen und ihr verbleibendes Leben zu segnen.
 
 ## Stage
 
-Eine stimmungsvolle Bühne: [Harre](persona_harre.md) agiert im Scheinwerferlicht, während im Hintergrund der [Das Stift](place_stift.md) erkennbar ist.
+Eine berührende Schlussszene im Hospitalkirchhof von [Das Stift](place_stift.md): Der gealterte Harre und Agnes sitzen nebeneinander auf einer Holzbank unter [Die Schwalben](piece_schwalben.md), während [Erzaehler](persona_erzaehler.md) sie ehrfürchtig aus der Distanz beobachtet.
 
 ## Tension
 
-Die Anspannung wächst, da [Harre](persona_harre.md) eine folgenschwere Entscheidung treffen muss, die alles verändern könnte.
+Die melancholische Gewissheit der unvergänglichen Treue trotz verpassten Lebensglücks wird vollendet.

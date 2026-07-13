@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "altern"
-declared: "Das Altern"
+declared: "Das melancholische Altern"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Das Altern
+# Process: Das melancholische Altern
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Der Lauf der Zeit, die physische Trennung der Liebenden und das unerbittliche Vergehen der Jahre.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der schleichende, schwermütige Alterungsprozess von Agnes und Harre in Einsamkeit und Arbeit.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das Ertragen des Alltags ohne gegenseitige Nähe und das Verblassen der Jugendwelt.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Die späte, würdevolle Ruhe im St.-Jürgens-Stift und das traurig-schöne Akzeptieren des nahen Lebensendes.

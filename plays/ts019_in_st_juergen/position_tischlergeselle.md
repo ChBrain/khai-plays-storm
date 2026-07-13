@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "tischlergeselle"
-declared: "Tischlergeselle"
+declared: "Der Tischlergeselle"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Tischlergeselle
+# Position: Der Tischlergeselle
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Das handwerkliche Geschick der Holzbearbeitung und das Recht, als Wandergeselle Arbeit zu suchen.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er steuert das Schicksal durch seinen Fortzug aus der Heimat und seine spätere Rückkehr als Meister.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert seine Liebe Agnes, sein väterliches Erbe und das unbeschwerte Leben in der Heimatstadt.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Der Aufbau einer gesicherten Existenz in der Fremde und die unstillbare Sehnsucht nach Agnes.

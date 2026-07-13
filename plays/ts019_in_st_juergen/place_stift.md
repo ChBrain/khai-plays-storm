@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Das St.-Jürgens-Stift, ein kühler, stiller Backsteinbau mit gotischen Fenstern und einem ruhigen, grünen Hospitalkirchhof.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es birgt Agnes' karges Zimmer, die Reste ihrer Habseligkeiten und die Kapelle des Stifts.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet den armen, alten Damen einen geschützten Zufluchtsort des Alters und des Abschieds.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert den Bewohnern jede jugendliche Dynamik und erinnert stets an die verlorene Zeit.

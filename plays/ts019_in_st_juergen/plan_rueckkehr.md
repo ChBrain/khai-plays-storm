@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "rueckkehr"
-declared: "Die Rückkehr"
+declared: "Der Heimkehrplan"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,11 +10,11 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Rückkehr
+# Plan: Der Heimkehrplan
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Harre Jensens Absicht zur Heimkehr und späten Aussöhnung mit seiner Jugendliebe Agnes.
 
 ## Owner
 
@@ -22,19 +22,20 @@ Ein Lebensplan zur Umsetzung des Vorhabens.
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist das Aufsuchen Agnes Hansens in der Heimatstadt zur Klärung ihrer unvergänglichen Gefühle.
 
 ## Orders
 
-- [Harre](persona_harre.md) muss die ersten Schritte am [Das Stift](place_stift.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- [Harre](persona_harre.md) muss seine geschäftlichen und familiären Pflichten in der Fremde ordnen.
+- Er muss die Reise in die Heimatstadt antreten und Agnes' Aufenthaltsort ausfindig machen.
+- Eine letzte stille Aussöhnung ohne Vorwürfe muss im Hospitalkirchhof vollzogen werden.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Das Stift](place_stift.md) realisiert, wobei das Motiv [Der Schlüssel](piece_schluessel.md) eine zentrale Rolle spielt.
+Der Plan gelingt im Alter und bringt beiden Charakteren einen melancholischen, stillen Lebensfrieden.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Das Stift](place_stift.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Der Schlüssel](piece_schluessel.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die erfolgreiche Abwicklung seiner auswärtigen Tischlerwerkstatt
+- [ ] Das Auffinden Agnes Hansens im St.-Jürgens-Stift
+- [ ] Die stille gegenseitige Vergebung der verpassten Lebensjahre
