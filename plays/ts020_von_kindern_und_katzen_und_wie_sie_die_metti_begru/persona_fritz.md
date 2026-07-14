@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Von Kindern und Katzen, und wie sie die Metti begruben](play_ts020_von_kindern_und_katzen_und_wie_sie_die_metti_begru.md) und Träger der Position [Kind](position_kind.md).
+Der junge Sohn in [Von Kindern und Katzen, und wie sie die Metti begruben](play_ts020_von_kindern_und_katzen_und_wie_sie_die_metti_begru.md) und Inhaber der Position [Der Trauerredner](position_trauerredner.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Von Kindern und Katzen, und wie sie die Metti begruben](play_
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein fantasievoller, lebhafter Junge von etwa acht Jahren. Seine Stimme ist hell, ernsthaft beim Spiel und voll von kindlichem Eifer bei der Durchführung der Begräbniszeremonie.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er führt die Prozession an, trägt den hölzernen Trauerstab, hält eine kleine Rede am Grab und schaufelt die Erde auf Mettis Sarg.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die plötzliche, kindliche Konfrontation mit dem realen Tod, die er durch sein festliches Spiel abzuwehren versucht.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das stolze Aufrichten seiner Gestalt beim Anstimmen des feierlichen Trauerliedes.

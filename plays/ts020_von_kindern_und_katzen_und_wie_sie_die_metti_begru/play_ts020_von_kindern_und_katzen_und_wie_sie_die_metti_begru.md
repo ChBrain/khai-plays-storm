@@ -2,7 +2,7 @@
 khai: play
 title: "Von Kindern und Katzen, und wie sie die Metti begruben"
 declared: "Von Kindern und Katzen, und wie sie die Metti begruben"
-description: "Eine Inszenierung von Theodor Storms Novelle Von Kindern und Katzen, und wie sie die Metti begruben (1868)."
+description: "Eine Inszenierung über die Verarbeitung des Todes der Hauskatze Metti durch das heitere Spiel der Kinder."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Von Kindern und Katzen, und wie sie die Metti begruben.
 
 ## Arc
 
-Eine Inszenierung der Novelle Von Kindern und Katzen, und wie sie die Metti begruben von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Ein heiter-melancholisches Kammerspiel über die kindliche Unschuld, die Phantasie des Spiels und das erste schmerzhafte Erleben von Vergänglichkeit. Im Hause des schreibenden Vaters wachsen die Kinder Fritz und Elsabe in enger Gemeinschaft mit ihren geliebten Katzen auf. Als die treue Hauskatze Metti stirbt, inszenieren die Kinder mit naiver Ernsthaftigkeit ein feierliches Begräbnis im Obstgarten. Durch dieses symbolische Spiel verarbeiten sie den Verlust und verwandeln die elterliche Trauer in ein herzerwärmendes Ritual kindlicher Lebensfreude.
 
 ## Company
 
 **Personas**
 
-- [Fritz](persona_fritz.md) - die Hauptfigur dieses Dramas.
+- [Der Vater](persona_vater.md), der schreibende Beobachter.
+- [Fritz](persona_fritz.md), der junge Sohn.
+- [Elsabe](persona_elsabe.md), die kreative Tochter.
+- [Die Manschettenkatze](persona_manschettenkatze.md), die weisse Gefaehrtin.
+- [Die Katze Metti](persona_metti.md), das verstorbene Tier.
 
 **Positions**
 
-- [Kind](position_kind.md)
+- [Der Beobachter](position_beobachter.md)
+- [Der Trauerredner](position_trauerredner.md)
+- [Die Schmueckerin](position_schmueckerin.md)
+- [Der Schreibtischgefaehrte](position_schreibtischgefaehrte.md)
 
 **Places**
 
-- [Der Hof](place_hof.md)
+- [Das Schreibzimmer](place_schreibzimmer.md)
+- [Der Obstgarten](place_obstgarten.md)
+- [Die Kinderstube](place_kinderstube.md)
 
 **Pieces**
 
-- [Der Sarg](piece_sarg.md)
+- [Der Katzensarg](piece_katzensarg.md)
+- [Die Manschetten](piece_manschetten.md)
+- [Die Grabschaufel](piece_grabschaufel.md)
 
 **Pitches**
 
-- [Die Kindheit](pitch_kindheit.md)
+- [Kindheitsidylle](pitch_kindheitsidylle.md)
+- [Verlustbewaeltigung](pitch_verlustbewaeltigung.md)
 
 ## Triggers
 
-**[Plot: Das Spiel](plot_spiel.md)**
+**[Plot: Das Katzenbegraebnis](plot_katzenbegraebnis.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Das feierliche Begräbnis der Katze Metti durch die Kinder im Obstgarten bringt den Zauber kindlichen Spiels auf die Bühne.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob es den Kindern gelingt, den Verlust ihres geliebten Haustiers durch ihr fantasievolles Trauerspiel im Garten zu heilen, und ob der Vater diesen Moment der Vergänglichkeit festhalten kann.
