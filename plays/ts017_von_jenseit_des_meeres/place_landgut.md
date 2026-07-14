@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein behagliches, deutsches Landgut Hans' mit weiten, grünen Wiesen, alten Obstbäumen und einem Gemüsegarten.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es birgt den schattigen Gartenpavillon, die Kaffeetafel im Freien und den Ort des späten Wiedersehens.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet Jenni und Alfred einen friedlichen, idyllischen Raum für ihre wiederkehrende Zuneigung.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert der tropischen Hitze, dem Sklavenelend und der kolonialen Ausbeutung den Eintritt.
