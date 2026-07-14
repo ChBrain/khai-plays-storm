@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "einsame"
-declared: "Einsame"
+declared: "Die Einsame"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Einsame
+# Position: Die Einsame
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den gesellschaftlichen Status einer alleinstehenden Witwe, ein Leben abseits der Stadt und ein karges Auskommen.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Sie steuert das Drama durch das Aussprechen ihrer Lebensgeschichte und ihr stummes, ausdauerndes Dulden.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Sie verliert ihre Jugend, ihre Eheträume, ihr Erspartes und schliesslich jeden nahen Angehörigen.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Streben nach moralischer Pflichterfüllung, heiligem Frieden und das Aufarbeiten der Vergangenheit.

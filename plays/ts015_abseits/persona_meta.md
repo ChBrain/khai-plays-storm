@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Meta"
-declared: "Meta"
+title: "Meta Hansen"
+declared: "Meta Hansen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Meta
+# Persona: Meta Hansen
 
 ## Taxonomy
 
-Die Hauptfigur in [Abseits](play_ts015_abseits.md) und Träger der Position [Einsame](position_einsame.md).
+Die alternde Hauptfigur in [Abseits](play_ts015_abseits.md) und Inhaberin der Position [Die Einsame](position_einsame.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Abseits](play_ts015_abseits.md) und Träger der Position [Ein
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Eine stille, würdevolle Frau von reifem Alter, gezeichnet von jahrzehntelanger Entbehrung. Ihre Stimme ist leise, ruhig, aber von einer tiefen inneren Festigkeit und abgeklärten Trauer durchdrungen.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Sie opfert ihr Heiratsgeld für die Schulden ihres Bruders, wartet geduldig über Jahrzehnte, vermählt sich auf dem Sterbebett mit Ehrenfried und erzählt dem Schullehrer ihre Geschichte.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die verdrängte Bitterkeit über das vergeudete Lebensglück und die verpasste Mutterschaft.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das ständige, mechanische Glätten ihrer schwarzen Witwenschürze mit den Fingerspitzen.

@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein kleines, niedriges und halbverfallenes Kätnerhaus inmitten der weiten, sonnenverbrannten Heide.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es beherbergt Meta Hansen, ihr stummes Spinnrad und den leisen Schlag der fernen Dorfuhr.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet einen einsamen, stillen Rückzugsort abseits der geschäftigen und grausamen Stadtgesellschaft.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert der Bewohnerin jeden Luxus, lebendige bürgerliche Kontakte oder familiäre Fröhlichkeit.
