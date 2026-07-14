@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Die Stube](place_stube.md).
+Das Objekt befindet sich in [Die Exilstube](place_exilstube.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Er steht für das verbindende Element der Familie über alle geografischen Entfernungen und Exilgrenzen hinweg.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein grüner, wohlgeformter Tannenbaum, der mit weissen Kerzen, Äpfeln und Nüssen festlich geschmückt ist.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein Entzünden durch Ellen am Heiligen Abend bringt den Festglanz der Heimat in die trübe Exilstube.
