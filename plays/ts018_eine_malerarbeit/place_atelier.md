@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein unordentliches, von Nordlicht durchflutetes Maleratelier mit Leinwänden, Farbklecksen und Pinseln.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es beherbergt Edde Brunken, seine Staffelei, das Meisterwerk Selbsterkenntnis und seine Malwerkzeuge.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet Edde einen schöpferischen Freiraum zur Verarbeitung seines Schmerzes und zur Entfaltung.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert der oberflächlichen bürgerlichen Gesellschaft und ihren starren Konventionen den Zutritt.
