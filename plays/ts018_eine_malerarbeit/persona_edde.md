@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Edde"
-declared: "Edde"
+title: "Edde Brunken"
+declared: "Edde Brunken"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Edde
+# Persona: Edde Brunken
 
 ## Taxonomy
 
-Die Hauptfigur in [Eine Malerarbeit](play_ts018_eine_malerarbeit.md) und Träger der Position [Maler](position_maler.md).
+Der kleinwüchsige und bucklige Maler in [Eine Malerarbeit](play_ts018_eine_malerarbeit.md) und Inhaber der Position [Der Kuenstler](position_kuenstler.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Eine Malerarbeit](play_ts018_eine_malerarbeit.md) und Träger
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein leidenschaftlicher, hochsensibler und stolzer Künstler. Seine Stimme ist anfangs scharf, verletzlich und voller Trotz gegen die spottende Gesellschaft, wandelt sich jedoch zu einem ruhigen, weisen Ton.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er fordert den Regierungsassessor zum Duell, wird verwundet, verliebt sich in Gertrud, erleidet eine tiefe Sinnkrise und malt schliesslich das Meisterwerk.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die tiefe Furcht, wegen seiner körperlichen Missbildung niemals auf Augenhöhe respektiert oder gar geliebt zu werden.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das wütende, energische Mischen von Ölfarben auf seiner Palette vor der Leinwand.
