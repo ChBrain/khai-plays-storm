@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das Auflösen der Verlobung und die Übergabe des Heiratsgeldes an Wilhelm.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Das allmähliche Altern in Einsamkeit und das schwindende Hoffen auf eine späte Ehe.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das stetige Drehen des Spinnrads und das monotone Vergehen der Jahre.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Ehrenfrieds schwere Erkrankung und der Entschluss zur späten Vermählung im Sterbezimmer.
