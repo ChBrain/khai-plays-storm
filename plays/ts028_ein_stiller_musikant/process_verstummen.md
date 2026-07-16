@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das ungeduldige Klaviertraining und die wachsende Strenge des Vaters.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Das allmähliche Anwachsen von lähmendem Lampenfieber und der Rückzug aus der Öffentlichkeit.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das Gefühl der Angst und Überforderung vor städtischem Publikum.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Das stille Wirken als privater Musiklehrer in einer bescheidenen Dachkammer.
