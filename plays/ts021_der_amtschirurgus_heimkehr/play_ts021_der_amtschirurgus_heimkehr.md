@@ -2,7 +2,7 @@
 khai: play
 title: "Der Amtschirurgus - Heimkehr"
 declared: "Der Amtschirurgus - Heimkehr"
-description: "Eine Inszenierung von Theodor Storms Novelle Der Amtschirurgus - Heimkehr (1870)."
+description: "Eine Inszenierung über den exzentrischen Husumer Amtschirurgus und Theodor Storms Entzauberung bürgerlicher Toleranz."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Der Amtschirurgus - Heimkehr.
 
 ## Arc
 
-Eine Inszenierung der Novelle Der Amtschirurgus - Heimkehr von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine melancholische, gesellschaftskritische Erinnerungs-Tragödie über jugendliche Rebellion, bürgerliche Heuchelei und die Wahrheit des Wahnsinns. Der junge Erzähler Theodor trägt im Husumer Rathaussaal sein Gedicht über jüdische Befreiung vor und wird dabei durch eine Deckenluke vom exzentrischen, verwirrten Amtschirurgus beobachtet. Dieser lebt einsam auf dem Rathausdachboden, zähmt Ratten und verkündet bei aufziehenden Gewittern unter wüsten Beschimpfungen der Obrigkeit seine stürmischen Wahrheiten. Ein anschliessendes Gespräch im Ratskeller konfrontiert den Erzähler mit den tiefen Vorurteilen der bürgerlichen Gesellschaft und veranlasst ihn, das bittere Gedicht Crucifixus zu rezitieren.
 
 ## Company
 
 **Personas**
 
-- [Chirurgus](persona_chirurgus.md) - die Hauptfigur dieses Dramas.
+- [Der Amtschirurgus](persona_amtschirurgus.md), der exzentrische Einsiedler.
+- [Der Erzaehler](persona_erzaehler.md), der junge Dichter.
+- [Der Vater](persona_vater.md), der bürgerliche Anwalt.
+- [Der Geschaeftspartner](persona_geschaeftspartner.md), der jüdische Kaufmann.
+- [Die Ratte](persona_ratte.md), das zahme Haustier.
 
 **Positions**
 
-- [Arzt](position_arzt.md)
+- [Der Wetterprophet](position_wetterprophet.md)
+- [Der Gelehrtenschueler](position_gelehrtenschueler.md)
+- [Der Ratswuerdentraeger](position_ratswuerdentraeger.md)
+- [Der Aussenseiter](position_aussenseiter.md)
 
 **Places**
 
-- [Die Heimat](place_heimat.md)
+- [Der Dachboden](place_dachboden.md)
+- [Der Rathaussaal](place_rathaussaal.md)
+- [Der Ratskeller](place_ratskeller.md)
 
 **Pieces**
 
-- [Der Arztkoffer](piece_arztkoffer.md)
+- [Die Gedichthandschrift](piece_gedichthandschrift.md)
+- [Die Papierkrone](piece_papierkrone.md)
+- [Der Rattenkaefig](piece_rattenkaefig.md)
 
 **Pitches**
 
-- [Die Heimkehr](pitch_heimkehr.md)
+- [Autoritaetskritik](pitch_autoritaetskritik.md)
+- [Religioese Unversoehnlichkeit](pitch_religioese_unversoehnlichkeit.md)
 
 ## Triggers
 
-**[Plot: Die Ankunft](plot_ankunft.md)**
+**[Plot: Die Gewitterprophezeiung](plot_gewitterprophezeiung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die lautstarken, aufrührerischen Reden des Amtschirurgus aus dem Giebelfenster bei aufziehendem Gewitter brechen die bürgerliche Ruhe der Stadt.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob der junge Theodor durch die Begegnungen mit dem exzentrischen Amtschirurgus und dem jüdischen Kaufmann die Augen für die Heuchelei seiner Umgebung öffnet und eine eigene, kritische Haltung gewinnt.
