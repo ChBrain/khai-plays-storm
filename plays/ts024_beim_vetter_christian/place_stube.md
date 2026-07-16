@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine grosse, gemütliche Wohnstube mit alten Biedermeiermöbeln, die anfangs leicht verstaubt und dunkel ist.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie beherbergt Christians Lehnstuhl, die Tonpfeife, das Spinnrad und den Ort der ersten Begegnung.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet den geschützten, behaglichen Lebensraum für Christians tägliche Gewohnheiten und Routinen.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert dem städtischen Lärm, der Hektik des Handels und der winterlichen Kälte den Eintritt.
