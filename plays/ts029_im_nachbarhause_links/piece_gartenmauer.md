@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Das Nachbarhaus](place_nachbarhaus.md).
+Das Objekt befindet sich in [Das Nachbarhaus](place_nachbarhaus.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Sie symbolisiert die unüberwindbare soziale und physische Grenze zwischen der Witwe und der Stadt.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Eine hohe, mit Efeu bewachsene Mauer aus dunklen Backsteinen, deren Mörtel an vielen Stellen bröckelt.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Ihr stummes Dastehen trennt den schattigen, toten Hof links von der sonnigen Wiese auf der rechten Seite.

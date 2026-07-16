@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Erzähler"
-declared: "Erzähler"
+title: "Der Erzähler"
+declared: "Der Erzähler"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Erzähler
+# Persona: Der Erzähler
 
 ## Taxonomy
 
-Die Hauptfigur in [Im Nachbarhause links](play_ts029_im_nachbarhause_links.md) und Träger der Position [Beobachter](position_beobachter.md).
+Der junge Stadtsekretär und neugierige Beobachter in [Im Nachbarhause links](play_ts029_im_nachbarhause_links.md) und Inhaber der Position [Der Stadtsekretaer](position_sekretaer.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Im Nachbarhause links](play_ts029_im_nachbarhause_links.md) u
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein aufmerksamer, gebildeter und leicht melancholischer junger Beamter. Seine Stimme ist klar, ruhig und voller Anteilnahme an den Schicksalen der Kleinstadt.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er bezieht die Wohnung, beobachtet das Nachbarhaus links, befragt seine Tante über die Witwe und fungiert als Notariatszeuge beim Nachlass.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die ungesunde Neugier, die ihn dazu treibt, in das Privatsphäre-Geheimnis einer kranken, alten Frau einzudringen.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das konzentrierte Notieren städtischer Akten mit einem stetigen Blick aus dem Fenster zum linken Haus.

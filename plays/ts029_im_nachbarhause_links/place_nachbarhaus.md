@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein hohes, düsteres und verfallendes Giebelhaus auf der linken Seite mit stets verschlossenen Fensterläden.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Es beherbergt die Witwe Botilla Jansen, ihre Schatzkisten, verstaubte Biedermeiermöbel und dunkle Gänge.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Es bietet der paranoischen Witwe einen stillen, hermetisch abgeriegelten Rückzugsort vor der Aussenwelt.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Es verweigert dem fröhlichen städtischen Leben, dem Sonnenlicht und jeglichem ungebetenen Besuch den Zutritt.
