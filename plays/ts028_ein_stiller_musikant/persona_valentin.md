@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Valentin"
-declared: "Valentin"
+title: "Christian Valentin"
+declared: "Christian Valentin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Valentin
+# Persona: Christian Valentin
 
 ## Taxonomy
 
-Die Hauptfigur in [Ein stiller Musikant](play_ts028_ein_stiller_musikant.md) und Träger der Position [Organist](position_organist.md).
+Der sensible, in sich gekehrte Musikmeister in [Ein stiller Musikant](play_ts028_ein_stiller_musikant.md) und Inhaber der Position [Der Musiklehrer](position_musiklehrer.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Ein stiller Musikant](play_ts028_ein_stiller_musikant.md) und
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein kleiner, hagerer Mann mit blassem Gesicht und wehmütigen, blassblauen Augen. Seine Stimme ist sehr leise, behutsam und zittert leicht, wenn er von der Musik oder seiner Kindheit spricht.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er unterhält sich mit dem Erzähler im Antiquariat, erinnert sich schmerzhaft an seinen Vater, unterrichtet seine Schülerin und lauscht heimlich ihrem Konzert.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die lähmende Angst vor der städtischen Öffentlichkeit und dem Erfolgsdruck, die ihn daran hinderten, jemals selbst als Konzertmusiker aufzutreten.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das nervöse, leise Trommeln seiner Finger auf der Kante seines Mantels, als würde er Klaviertasten berühren.
