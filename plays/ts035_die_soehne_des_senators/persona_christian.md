@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Christian"
-declared: "Christian"
+title: "Christian Albrecht Jovers"
+declared: "Christian Albrecht Jovers"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Christian
+# Persona: Christian Albrecht Jovers
 
 ## Taxonomy
 
-Die Hauptfigur in [Die Söhne des Senators](play_ts035_die_soehne_des_senators.md) und Träger der Position [Sohn](position_sohn.md).
+Der besonnene ältere Sohn des Senators in [Die Soehne des Senators](play_ts035_die_soehne_des_senators.md) und Inhaber der Position [Der Senator](position_senator.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Die Söhne des Senators](play_ts035_die_soehne_des_senators.m
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein vornehmer, gelassener und verantwortungsbewusster Kaufmann. Seine Stimme ist warm, ruhig und getragen von der ehrlichen Absicht, den letzten Willen des Vaters in Frieden zu erfüllen.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er übernimmt das väterliche Geschäft, schlägt Friedrich verschiedene Kompromisse für den Erbgarten vor und öffnet schliesslich die Arme zur Versöhnung.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die leichte Zögerlichkeit, die ihn davor zurückschrecken lässt, Friedrichs ungerechten Trotz frühzeitig mit harter Autorität zu brechen.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das ruhige, bedachte Falten seiner Hände hinter dem Rücken beim Betrachten des Nachbargartens.

@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Der Senat](place_senat.md).
+Das Objekt befindet sich in [Das Patrizierhaus](place_patrizierhaus.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es verkörpert den formalen letzten Willen des Vaters und den juristischen Auslöser des Bruderzwists.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein schweres, eng beschriebenes Dokument auf Pergamentpapier mit dem roten Wachssiegel des Senators.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein Verlesen vor den Brüdern entzündet den Streit um den kleinen Erblustgarten in der Kirchennähe.
