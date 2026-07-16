@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Die Hauptfigur in [Waldwinkel](play_ts027_waldwinkel.md) und Träger der Position [Förster](position_foerster.md).
+Der alternde Botaniker in [Waldwinkel](play_ts027_waldwinkel.md) und Inhaber der Position [Der Botaniker](position_botaniker.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Waldwinkel](play_ts027_waldwinkel.md) und Träger der Positio
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein gebildeter, ernster und vom Schicksal gezeichneter Mann Anfang vierzig. Seine Stimme ist leise, oft zögernd und zeugt von der Melancholie nach Jahren des Exils und der Haft.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er führt Protokoll für Fritz, unterrichtet Franziska in Pflanzenkunde im Waldwinkel, plant die Ehe und liest schliesslich erschüttert ihren Abschiedsbrief.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die obsessive Sehnsucht nach einem späten Lebensglück, die ihn für Franziskas wahre Gefühle und die Unvereinbarkeit ihrer Welten blind macht.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das sorgfältige, langsame Pressen einer getrockneten Pflanze in sein Herbariumbuch.
