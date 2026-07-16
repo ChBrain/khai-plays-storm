@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "sohn"
-declared: "Sohn"
+declared: "Der Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Sohn
+# Position: Der Sohn
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den unbefangenen Status des Kindes, Spielrechte im Garten und das Anrecht auf unbeschwerte Jugend.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er nutzt den elterlichen Garten zum Spielen und knüpft die freundschaftliche Bande zu seinen Verwandten.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert zeitweise den Zugang zum gesamten Garten durch den Bau der Ziegelmauer.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das freie Ausleben seines Spieltriebs, das Naschen von Beeren und das Suchen nach Gefährten.
