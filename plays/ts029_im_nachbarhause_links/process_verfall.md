@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das zunehmende Alter Botillas und das ständige Verschlossensein des linken Giebelhauses.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Der fortschreitende physische Ruin des Gebäudes und der geistige Zerfall der einsamen Witwe.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das wahnhafte Misstrauen gegenüber der städtischen Gesellschaft.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Der stille Tod Botillas und das verlassene, staubige Erbe des verfallenden Nachbarhauses.
