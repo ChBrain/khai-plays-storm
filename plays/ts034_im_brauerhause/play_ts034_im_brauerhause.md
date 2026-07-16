@@ -2,7 +2,7 @@
 khai: play
 title: "Im Brauerhause"
 declared: "Im Brauerhause"
-description: "Eine Inszenierung von Theodor Storms Novelle Im Brauerhause (1879)."
+description: "Eine Inszenierung über die Aufklärung eines unheimlichen Gerüchts über die Brauerei von Josias Ohrtmann."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Im Brauerhause.
 
 ## Arc
 
-Eine Inszenierung der Novelle Im Brauerhause von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine realistische Milieu-Komödie über bürgerliche Solidarität, die zerstörerische Kraft des Aberglaubens und den Sieg wissenschaftlicher Vernunft. Der ehrsame Brauer Josias Christian Ohrtmann gerät unschuldig unter Verdacht, als in einem seiner Bierfässer der abgetrennte Finger eines hingerichteten Verbrechers gefunden worden sein soll. Das Gerücht verbreitet sich rasch in der Stadt und droht, die Existenz seiner traditionsreichen Brauerei zu ruinieren. Während die Arbeiter unter Führung des alten Lorenz in Panik und Aberglauben verfallen, bewahrt Ohrtmann mit Unterstützung seiner Frau den Glauben an göttliche Gerechtigkeit, bis der Apotheker Hennings den Spuk aufklärt.
 
 ## Company
 
 **Personas**
 
-- [Brauer](persona_brauer.md) - die Hauptfigur dieses Dramas.
+- [Josias Ohrtmann](persona_ohrtmann.md), der ehrsame Braumeister.
+- [Die Brauerfrau](persona_frau_ohrtmann.md), seine tatkräftige Gattin.
+- [Apotheker Hennings](persona_hennings.md), der rationale Forscher.
+- [Lorenz](persona_lorenz.md), der abergläubische Böttcher.
+- [Die Erzaehlerin](persona_erzaehlerin.md), die beobachtende Nichte.
 
 **Positions**
 
-- [Meister](position_meister.md)
+- [Der Braumeister](position_braumeister.md)
+- [Die Brauerfrau](position_brauerfrau.md)
+- [Der Apotheker](position_apotheker.md)
+- [Der Arbeiter](position_arbeiter.md)
 
 **Places**
 
-- [Die Brauerei](place_brauerei.md)
+- [Das Brauerhaus](place_brauerhaus.md)
+- [Die Stube](place_stube.md)
+- [Die Apotheke](place_apotheke.md)
 
 **Pieces**
 
-- [Das Fass](piece_fass.md)
+- [Die Gestmasse](piece_gestmasse.md)
+- [Der Bierhumpen](piece_bierhumpen.md)
+- [Das Mikroskop](piece_mikroskop.md)
 
 **Pitches**
 
-- [Die Arbeit](pitch_arbeit.md)
+- [Aberglaube](pitch_aberglaube.md)
+- [Buergerstolz](pitch_buergerstolz.md)
 
 ## Triggers
 
-**[Plot: Der Unfall](plot_unfall.md)**
+**[Plot: Die Klaerung](plot_klaerung.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die öffentliche Vorführung der Gestmasse unter Hennings' Geräten beweist Ohrtmanns Unschuld und beendet den bösartigen Klatsch.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Josias Ohrtmann das zerstörerische Gerücht entkräften und den guten Ruf seiner Familie bewahren kann, bevor seine Kundschaft sich endgültig von der Brauerei abwendet.
