@@ -2,7 +2,7 @@
 khai: play
 title: "Psyche"
 declared: "Psyche"
-description: "Eine Inszenierung von Theodor Storms Novelle Psyche (1875)."
+description: "Eine Inszenierung über die Erschaffung einer Psyche-Skulptur durch Franz nach einer dramatischen Seerettung."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Psyche.
 
 ## Arc
 
-Eine Inszenierung der Novelle Psyche von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine neoklassizistische Künstler-Novelle über die heilsame Kraft der Erinnerung, die Verwandlung eines traumatischen Augenblicks in zeitlose Schönheit und die Macht der Muse. Der junge Bildhauer Franz rettet das übermütige Mädchen Maria an einem stürmischen Sommertag vor dem Ertrinken in der aufgewühlten Nordsee. Das Bild ihrer jugendlichen Schönheit und Hilflosigkeit brennt sich tief in seine Seele ein. Jahre der Trennung überbrückt er, indem er diese Erinnerung in seiner meisterhaften Skulptur der Psyche verewigt, bis ein zufälliges Wiedersehen bei einer Kunstausstellung das Kunstwerk zum Leben erweckt und ihre Liebe besiegelt.
 
 ## Company
 
 **Personas**
 
-- [Maler](persona_maler.md) - die Hauptfigur dieses Dramas.
+- [Franz](persona_franz.md), der junge Bildhauer.
+- [Maria](persona_maria.md), die übermütige Muse.
+- [Ernst](persona_ernst.md), der befreundete Jurist.
+- [Die alte Kathi](persona_kathi.md), die warnende Badefrau.
+- [Die Mutter](persona_mutter.md), die besorgte Chaperone.
 
 **Positions**
 
-- [Künstler](position_kuenstler.md)
+- [Der Bildhauer](position_bildhauer.md)
+- [Die Muse](position_muse.md)
+- [Der Jurist](position_jurist.md)
+- [Die Badefrau](position_badefrau.md)
 
 **Places**
 
 - [Der Strand](place_strand.md)
+- [Das Atelier](place_atelier.md)
+- [Die Ausstellung](place_ausstellung.md)
 
 **Pieces**
 
 - [Die Skulptur](piece_skulptur.md)
+- [Das Modellierholz](piece_modellierholz.md)
+- [Die Badehose](piece_badehose.md)
 
 **Pitches**
 
-- [Die Schönheit](pitch_schoenheit.md)
+- [Schoenheit](pitch_schoenheit.md)
+- [Seelenrettung](pitch_seelenrettung.md)
 
 ## Triggers
 
-**[Plot: Das Bad](plot_bad.md)**
+**[Plot: Das Wiedersehen](plot_wiedersehen.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Die unerwartete Begegnung vor der ausgestellten Psyche-Statue führt zur gegenseitigen Wiedererkennung und zum Liebesgeständnis.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Franz die flüchtige Erinnerung an Marias jugendliche Schönheit erfolgreich in ein bleibendes Kunstwerk übersetzen und durch seine Kunst ihre Zuneigung gewinnen kann.

@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "gestaltung"
-declared: "Die Gestaltung"
+declared: "Die Gestaltung der Erinnerung"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,31 +10,32 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Gestaltung
+# Plan: Die Gestaltung der Erinnerung
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Franz' Vorhaben, die flüchtige Gestalt Marias aus dem Moment der Rettung in eine bleibende Marmorskulptur umzuformen.
 
 ## Owner
 
-- Owner: [Maler](persona_maler.md)
+- Owner: [Franz](persona_franz.md)
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist das Schaffen eines idealen Meisterwerks und die Etablierung seiner künstlerischen Vision.
 
 ## Orders
 
-- [Maler](persona_maler.md) muss die ersten Schritte am [Der Strand](place_strand.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- Franz muss die Erinnerung an Marias nackte Schönheit im Gedächtnis bewahren.
+- Er muss ein detailreiches Tonmodell der Psyche in seinem Atelier anfertigen.
+- Er muss das fertige Werk aus Carrara-Marmor hauen und auf der Ausstellung präsentieren.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Der Strand](place_strand.md) realisiert, wobei das Motiv [Die Skulptur](piece_skulptur.md) eine zentrale Rolle spielt.
+Der Plan gelingt vollkommen und führt schliesslich zum Wiedersehen und der Annäherung der beiden.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Der Strand](place_strand.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Die Skulptur](piece_skulptur.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Die erfolgreiche Vollendung des Modells aus feuchtem Ton im Atelier
+- [ ] Das fehlerfreie Übertragen des Gipsabdrucks in den Carrara-Marmorblock
+- [ ] Das Präsentieren des fertigen Bildwerks auf der Hamburger Kunstausstellung
