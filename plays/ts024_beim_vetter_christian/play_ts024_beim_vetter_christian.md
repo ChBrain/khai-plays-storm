@@ -2,7 +2,7 @@
 khai: play
 title: "Beim Vetter Christian"
 declared: "Beim Vetter Christian"
-description: "Eine Inszenierung von Theodor Storms Novelle Beim Vetter Christian (1873)."
+description: "Eine Inszenierung über das häusliche Glück und die Zähmung der eifersüchtigen Magd Karoline im Hause Christians."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Beim Vetter Christian.
 
 ## Arc
 
-Eine Inszenierung der Novelle Beim Vetter Christian von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine heiter-behagliche Familien-Komödie über das Überwinden von Einsamkeit, die heilsame Kraft häuslicher Liebe und das Zähmen eifersüchtig gehüteter Gewohnheiten. Der zurückgezogene, früh gealterte Junggeselle Christian lebt in seinem grossen, verstaubten Haus unter der strengen Aufsicht der eifersüchtigen alten Magd Karoline. Als die lebensfrohe Julie als neue Hausdame einzieht, bringt sie frischen Schwung in die verstaubte Stube. Karolines anfänglicher Argwohn und ihre Versuche, die Annäherung der beiden zu sabotieren, führen ironischerweise dazu, dass Christian und Julie zueinander finden und schliesslich eine glückliche Familie gründen.
 
 ## Company
 
 **Personas**
 
-- [Christian](persona_christian.md) - die Hauptfigur dieses Dramas.
+- [Vetter Christian](persona_christian.md), der Junggeselle.
+- [Julie](persona_julie.md), die Hausdame.
+- [Die alte Karoline](persona_karoline.md), die eifersüchtige Magd.
+- [Der Erzähler](persona_erzaehler.md), der besuchende Cousin.
+- [Das Kind](persona_kind.md), der kleine Vermittler.
 
 **Positions**
 
-- [Vetter](position_vetter.md)
+- [Der Haushaltsvorstand](position_haushaltsvorstand.md)
+- [Die Hausdame](position_hausdame.md)
+- [Die Kinderpflegerin](position_kinderpflegerin.md)
+- [Der Gast](position_gast.md)
 
 **Places**
 
 - [Die Stube](place_stube.md)
+- [Der Garten](place_garten.md)
+- [Der Teetisch](place_teetisch.md)
 
 **Pieces**
 
-- [Die Pfeife](piece_pfeife.md)
+- [Die Tonpfeife](piece_tonpfeife.md)
+- [Der Schluesselbund](piece_schluesselbund.md)
+- [Die Teekanne](piece_teekanne.md)
 
 **Pitches**
 
-- [Die Gemütlichkeit](pitch_gemuetlichkeit.md)
+- [Haeusliches Glueck](pitch_haeusliches_glueck.md)
+- [Zaehmung](pitch_zaehmung.md)
 
 ## Triggers
 
-**[Plot: Das Gespräch](plot_gespraech.md)**
+**[Plot: Das Familienglueck](plot_familienglueck.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Das harmonische Zusammenkommen der Familie am Teetisch im Beisein des spielenden Kindes besiegelt die Zähmung Karolines.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Vetter Christian seine unentschlossene Lethargie überwinden und trotz der Intrigen der eifersüchtigen Magd Karoline ein dauerhaftes häusliches Glück mit Julie finden kann.
