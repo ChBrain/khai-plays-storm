@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Der Strand](place_strand.md).
+Das Objekt befindet sich in [Die Ausstellung](place_ausstellung.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Sie steht für die vollendete Umwandlung eines intimen Erlebnisses in zeitlose, anerkannte Kunst.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Eine aus feinstem, weissem Carrara-Marmor gehauene, lebensgrosse Statue der nackten, sich windenden Psyche.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Ihr Enthüllen auf dem Podest bildet das emotionale Zentrum für die Wiederbegegnung der Liebenden.

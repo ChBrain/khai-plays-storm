@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein weiter Sandstrand an der Nordseeküste mit hohen Wellen, aufgewühltem Schaum und stürmischem Wind.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er beherbergt die Badekarren, das tosende Meer, Franz, Ernst, Kathi und das ertrinkende Mädchen.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet den Schauplatz für die lebensgefährliche, dramatische Rettungsaktion durch den Bildhauer.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert der bürgerlichen Salonordnung und der zivilisierten Bequemlichkeit jeglichen Raum.

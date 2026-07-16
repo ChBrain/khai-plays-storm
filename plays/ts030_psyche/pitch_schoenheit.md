@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "schoenheit"
-declared: "Die Schönheit"
+declared: "Schoenheit"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Pitch: Die Schönheit
+# Pitch: Schoenheit
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Die melancholische Grundstimmung und der getragene Ton, der das Werk durchzieht.
+Die Ewigmachung flüchtiger, intensiver Lebensmomente in der zeitlosen Form klassischer Kunst.
 
 ## Undertow
 
-Der unterschwellige Konflikt zwischen Tradition und Wandel, der die Figuren beeinflusst.
+Der schmerzhafte Abstand zwischen dem idealisierten Marmorbild und dem realen, lebendigen Menschen.
 
 ## Nerve
 
-Der emotionale Kern der Geschichte, der die Zerrissenheit der Hauptfigur spürbar macht.
+Der Moment, in dem die weisse Hülle fällt und die Marmorgestalt der Psyche das Publikum verstummen lässt.
 
 ## Echo
 
-Das Nachhallen des Erlebten im Bewusstsein der Zuschauer und Leser.
+Das andächtige, ehrfürchtige Raunen im Saal über die veredelnde Kraft der künstlerischen Inspiration.
