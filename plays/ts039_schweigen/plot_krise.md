@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "krise"
-declared: "Die Krise"
+declared: "Die Krise im Forsthaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plot: Die Krise
+# Plot: Die Krise im Forsthaus
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-Die entscheidende Szene der Inszenierung am [Die Heilanstalt](place_heilanstalt.md).
+Eine stürmische, finstere Nacht im einsamen Forsthaus.
 
 ## Action
 
-"Die Hauptfigur [Rudolf](persona_rudolf.md) stellt sich den Herausforderungen der Situation am [Die Heilanstalt](place_heilanstalt.md)."
+[Rudolf von Schlitz](persona_rudolf.md) verfällt im Wahn der Angst vor der Entdeckung, reinigt starr [Das Jagdgewehr](piece_jagdgewehr.md) und entwirft [Der Beichtbrief](piece_brief.md), während [Anna](persona_anna.md) besorgt an der verschlossenen Tür lauscht.
 
 ## Stage
 
-Eine stimmungsvolle Bühne: [Rudolf](persona_rudolf.md) agiert im Scheinwerferlicht, während im Hintergrund der [Die Heilanstalt](place_heilanstalt.md) erkennbar ist.
+Eine düstere, hochgradig beklemmende Szene in [Das Forsthaus](place_forsthaus.md): Nur eine Öllampe brennt auf dem Tisch, Rudolf murmelt wirre Sätze vor sich hin, richtet das Gewehr auf seine Brust, schreibt zittrig und horcht panisch in den Wind.
 
 ## Tension
 
-Die Anspannung wächst, da [Rudolf](persona_rudolf.md) eine folgenschwere Entscheidung treffen muss, die alles verändern könnte.
+Die psychische Last des Schweigens bricht Rudolfs Verstand und treibt ihn unmittelbar an den Rand der Selbstzerstörung.

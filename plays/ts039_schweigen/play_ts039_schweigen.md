@@ -2,7 +2,7 @@
 khai: play
 title: "Schweigen"
 declared: "Schweigen"
-description: "Eine Inszenierung von Theodor Storms Novelle Schweigen (1883)."
+description: "Eine Inszenierung über Rudolf von Schlitz, der seine Geisteskrankheit vor seiner Frau Anna verschweigt."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -22,36 +22,48 @@ Schweigen.
 
 ## Arc
 
-Eine Inszenierung der Novelle Schweigen von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine psychologische Tragödie über die verheerende Macht verheimlichter Wunden, die Tabuisierung von Geisteskrankheiten im Bürgertum und die heilende Wahrheit der Beichte. Der junge Förster Rudolf von Schlitz kehrt nach einem Aufenthalt in einer psychiatrischen Heilanstalt geheilt, aber zutiefst verunsichert in sein Leben zurück. Um ihn zu stabilisieren, arrangiert seine stolze Mutter die Ehe mit der unschuldigen Pfarrerstochter Anna, verlangt jedoch absolutes Schweigen über seine Krankheit. Diese erzwungene Lüge vor seiner geliebten Frau stürzt Rudolf in wachsende Schuldgefühle und Paranoia, bis ein drohender Rückfall ihn an den Rand des Freitods treibt, von dem ihn nur das rettende Geständnis erlöst.
 
 ## Company
 
 **Personas**
 
-- [Rudolf](persona_rudolf.md) - die Hauptfigur dieses Dramas.
+- [Rudolf von Schlitz](persona_rudolf.md), der gezeichnete Förster.
+- [Anna](persona_anna.md), die ahnungslose Pfarrerstochter.
+- [Die Forstjunkerin](persona_mutter.md), Rudolfs stolze Mutter.
+- [Der Anstaltsarzt](persona_arzt.md), der ratende Mediziner.
+- [Der Pastor](persona_pastor.md), Annas gütiger Vater.
 
 **Positions**
 
-- [Kranker](position_kranker.md)
+- [Der Foerster](position_foerster.md)
+- [Die Ehefrau](position_ehefrau.md)
+- [Die Forstjunkerin](position_junkerin.md)
+- [Der Seelsorger](position_seelsorger.md)
 
 **Places**
 
+- [Das Forsthaus](place_forsthaus.md)
+- [Das Pfarrhaus](place_pfarrhaus.md)
 - [Die Heilanstalt](place_heilanstalt.md)
 
 **Pieces**
 
-- [Die Akte](piece_akte.md)
+- [Der Beichtbrief](piece_brief.md)
+- [Das Jagdgewehr](piece_jagdgewehr.md)
+- [Die Krankenakte](piece_krankenakte.md)
 
 **Pitches**
 
-- [Die Angst](pitch_angst.md)
+- [Das Tabu](pitch_tabu.md)
+- [Der Wahnsinn](pitch_wahnsinn.md)
 
 ## Triggers
 
-**[Plot: Die Krise](plot_krise.md)**
+**[Plot: Die Beichte](plot_beichte.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Das erlösende Geständnis Rudolphs gegenüber Anna beendet die lähmende Last des Schweigens und verhindert den Selbstmord.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Rudolf den lähmenden Zwang des Schweigens überwinden und seiner Frau Anna die Wahrheit offenbaren kann, bevor sein psychischer Verfall ihn in den Freitod treibt.

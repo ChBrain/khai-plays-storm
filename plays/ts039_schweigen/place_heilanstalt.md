@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine grosse, abgelegene Heilanstalt mit hohen Mauern, vergitterten Fenstern und sterilen Behandlungszimmern.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie beherbergt den Anstaltsarzt, die Pfleger, die Krankenakten und Rudolf während seiner tiefsten Krise.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet den medizinischen Rahmen für die Wiederherstellung von Rudolfs geistiger Gesundheit.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert dem freien gesellschaftlichen Leben und jeglicher bürgerlichen Unbeschwertheit den Einlass.
