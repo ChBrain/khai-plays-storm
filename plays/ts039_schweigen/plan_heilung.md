@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "heilung"
-declared: "Die Heilung"
+declared: "Die Suche nach Heilung"
 status: active
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,31 +10,32 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Plan: Die Heilung
+# Plan: Die Suche nach Heilung
 
 ## Taxonomy
 
-Ein Lebensplan zur Umsetzung des Vorhabens.
+Rudolfs und des Arztes Vorhaben, durch die Heirat mit Anna eine dauerhafte seelische Stabilisierung zu erreichen.
 
 ## Owner
 
-- Owner: [Rudolf](persona_rudolf.md)
+- Owner: [Rudolf von Schlitz](persona_rudolf.md)
 
 ## Direction
 
-Das Ziel des Plans ist die erfolgreiche Verwirklichung des Vorhabens der Hauptfigur.
+Das Ziel des Vorhabens ist das Überwinden der psychischen Labilität und der Aufbau eines geordneten Lebens.
 
 ## Orders
 
-- [Rudolf](persona_rudolf.md) muss die ersten Schritte am [Die Heilanstalt](place_heilanstalt.md) einleiten.
-- Die äußeren Bedingungen müssen sorgfältig beobachtet werden.
+- Rudolf muss sich ganz auf die heitere, stärkende Gegenwart Annas einlassen.
+- Er muss seine forstliche Arbeit pflichtbewusst und ablenkend ausführen.
+- Er muss seine inneren Ängste kontrollieren und die Vergangenheit hinter sich lassen.
 
 ## Implementation
 
-Der Plan wird durch die konsequente Umsetzung der einzelnen Schritte am [Die Heilanstalt](place_heilanstalt.md) realisiert, wobei das Motiv [Die Akte](piece_akte.md) eine zentrale Rolle spielt.
+Der Plan gelingt erst, nachdem der irrige Schweigepakt gebrochen und die Wahrheit offenbart wird.
 
 ## Targets
 
-- [ ] Die Etablierung der Ausgangssituation am [Die Heilanstalt](place_heilanstalt.md)
-- [ ] Die Auseinandersetzung mit dem symbolischen Motiv [Die Akte](piece_akte.md)
-- [ ] Die erfolgreiche Bewältigung der auftretenden Konflikte
+- [ ] Das Finden innerer Ruhe und Freude in Annas Gesellschaft
+- [ ] Die regelmässige Durchführung seiner forstamtlichen Aufgaben im Revier
+- [ ] Das vollständige Überwinden der Wahnvorstellungen im Forsthaus

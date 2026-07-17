@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Rudolf"
-declared: "Rudolf"
+title: "Rudolf von Schlitz"
+declared: "Rudolf von Schlitz"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: Rudolf
+# Persona: Rudolf von Schlitz
 
 ## Taxonomy
 
-Die Hauptfigur in [Schweigen](play_ts039_schweigen.md) und Träger der Position [Kranker](position_kranker.md).
+Der psychisch labile junge Forstjunker in [Schweigen](play_ts039_schweigen.md) und Inhaber der Position [Der Foerster](position_foerster.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [Schweigen](play_ts039_schweigen.md) und Träger der Position 
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein blasser, nervöser und in sich gekehrter junger Forstbeamter. Seine Stimme ist oft leise, zögernd und von der ständigen Angst vor einem erneuten Ausbruch seiner Geisteskrankheit gezeichnet.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er überwindet seine Krise in der Heilanstalt, heiratet Anna, leidet stumm unter dem Schweigepakt und schreibt schliesslich einen verzweifelten Abschiedsbrief.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die tiefe Scham über seine psychische Schwäche und das schlechte Gewissen, das ihn daran hindert, seiner Frau die Wahrheit anzuvertrauen.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das unruhige, fahrige Trommeln seiner Finger auf dem Tisch, wann immer das Gespräch auf Krankheiten kommt.
