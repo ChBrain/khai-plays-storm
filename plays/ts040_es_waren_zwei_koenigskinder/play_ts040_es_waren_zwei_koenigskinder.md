@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Es waren zwei Königskinder"
-declared: "Es waren zwei Königskinder"
-description: "Eine Inszenierung von Theodor Storms Novelle Es waren zwei Königskinder (1884)."
+title: "Es waren zwei Koenigskinder"
+declared: "Es waren zwei Koenigskinder"
+description: "Eine Inszenierung über den Klavierstudenten Marx, der an gesellschaftlichen Schranken und der eigenen Kunst zerbricht."
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Play: Es waren zwei Königskinder
+# Play: Es waren zwei Koenigskinder
 
 ## Estate
 
@@ -18,40 +18,52 @@ stamp:
 
 ## Name
 
-Es waren zwei Königskinder.
+Es waren zwei Koenigskinder.
 
 ## Arc
 
-Eine Inszenierung der Novelle Es waren zwei Königskinder von Theodor Storm. Die Handlung entfaltet die Kernthemen des Originals und zeichnet die psychologische Tiefe der Figuren nach.
+Eine tief melancholische Musiker-Tragödie über unüberwindbare Standesgrenzen, künstlerische Überforderung und den verheerenden Verfall eines sensiblen Geistes. Der hochbegabte, aber mittellose Klavierstudent Marx verliebt sich in Linele, die unschuldige Tochter eines angesehenen Stuttgarter Handwerksmeisters. Aufgrund der unerbittlichen gesellschaftlichen Barrieren verweigert der Vater jede Verbindung, während der strenge Konservatoriums-Professor unbarmherzigen Druck auf Marx' Schaffen ausübt. Getrieben von Einsamkeit und Versagensangst verfällt Marx in einen paranoiden Wahn, kündigt seinen Untergang durch das Lied der Königskinder an und wählt schliesslich den Freitod.
 
 ## Company
 
 **Personas**
 
-- [Wilhelm](persona_wilhelm.md) - die Hauptfigur dieses Dramas.
+- [Marx](persona_marx.md), der tragische Klavierstudent.
+- [Fritz](persona_fritz.md), der treue Floetist.
+- [Linele](persona_linele.md), die geliebte Meisterschneiderstochter.
+- [Franz](persona_franz.md), der gesellige Kommilitone.
+- [Der Professor](persona_professor.md), der gestrenge Musiklehrer.
 
 **Positions**
 
-- [Student](position_student.md)
+- [Der Klavierstudent](position_klavierstudent.md)
+- [Der Floetist](position_floetist.md)
+- [Die Meistertochter](position_meistertochter.md)
+- [Der Musikprofessor](position_musikprofessor.md)
 
 **Places**
 
-- [Der See](place_see.md)
+- [Das Konservatorium](place_konservatorium.md)
+- [Die Studentenbude](place_studentenbude.md)
+- [Der Stuttgarter See](place_stuttgarter_see.md)
 
 **Pieces**
 
-- [Das Boot](piece_boot.md)
+- [Das Klavier](piece_klavier.md)
+- [Die Floete](piece_floete.md)
+- [Die Ballade](piece_ballade.md)
 
 **Pitches**
 
-- [Die Sehnsucht](pitch_sehnsucht.md)
+- [Sehnsucht](pitch_sehnsucht.md)
+- [Kuenstlerwahn](pitch_kunstlerwahn.md)
 
 ## Triggers
 
-**[Plot: Die Tragik](plot_tragik.md)**
+**[Plot: Der Absturz](plot_absturz.md)**
 
-Die Hauptfigur tritt auf und stellt sich den Konflikten ihrer Welt.
+Marx' geistiger Zusammenbruch im Wahn mündet in seinem tragischen Freitod im tiefen Wasser des Sees.
 
 ## Stakes
 
-Ob die Figuren ihren Weg finden oder an den inneren und äußeren Konflikten scheitern.
+Ob Fritz und Franz ihren psychisch labilen Freund Marx vor dem völligen Abgleiten in den Wahn bewahren und seine unmögliche Liebe zu Linele retten können.
