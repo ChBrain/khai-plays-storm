@@ -86,48 +86,49 @@ reconcile the "47 staged" claim so the headline matches the content.
 
 ## Targets
 
-- [ ] `ts001_im_saal` - Im Saal
-- [ ] `ts004_posthuma` - Posthuma
-- [ ] `ts005_im_sonnenschein` - Im Sonnenschein
-- [ ] `ts006_angelika` - Angelika
-- [ ] `ts007_ein_gruenes_blatt` - Ein grünes Blatt
-- [ ] `ts008_wenn_die_aepfel_reif_sind` - Wenn die Äpfel reif sind
-- [ ] `ts009_auf_dem_staatshof` - Auf dem Staatshof
-- [ ] `ts010_spaete_rosen` - Späte Rosen
-- [ ] `ts011_drueben_am_markt` - Drüben am Markt
-- [ ] `ts012_veronika` - Veronika
-- [ ] `ts013_im_schloss` - Im Schloß
-- [ ] `ts014_unter_dem_tannenbaum` - Unter dem Tannenbaum
-- [ ] `ts015_abseits` - Abseits
-- [ ] `ts016_auf_der_universitaet` - Auf der Universität
-- [ ] `ts017_von_jenseit_des_meeres` - Von Jenseit des Meeres
-- [ ] `ts018_eine_malerarbeit` - Eine Malerarbeit
-- [ ] `ts019_in_st_juergen` - In St. Jürgen
-- [ ] `ts020_von_kindern_und_katzen_und_wie_sie_die_metti_begru` - Von Kindern und Katzen, und wie sie die Metti begruben
-- [ ] `ts021_der_amtschirurgus_heimkehr` - Der Amtschirurgus - Heimkehr
-- [ ] `ts022_eine_halligfahrt` - Eine Halligfahrt
-- [ ] `ts023_draussen_im_heidedorf` - Draußen im Heidedorf
-- [ ] `ts024_beim_vetter_christian` - Beim Vetter Christian
-- [ ] `ts025_pole_poppenspaeler` - Pole Poppenspäler
-- [ ] `ts026_viola_tricolor` - Viola tricolor
-- [ ] `ts027_waldwinkel` - Waldwinkel
-- [ ] `ts028_ein_stiller_musikant` - Ein stiller Musikant
-- [ ] `ts029_im_nachbarhause_links` - Im Nachbarhause links
-- [ ] `ts030_psyche` - Psyche
-- [ ] `ts031_aquis_submersus` - Aquis submersus
-- [ ] `ts032_carsten_curator` - Carsten Curator
-- [ ] `ts033_renate` - Renate
-- [ ] `ts034_im_brauerhause` - Im Brauerhause
-- [ ] `ts035_die_soehne_des_senators` - Die Söhne des Senators
-- [ ] `ts036_eekenhof` - Eekenhof
-- [ ] `ts037_der_herr_etatsrat` - Der Herr Etatsrat
-- [ ] `ts038_hans_und_heinz_kirch` - Hans und Heinz Kirch
-- [ ] `ts039_schweigen` - Schweigen
-- [ ] `ts040_es_waren_zwei_koenigskinder` - Es waren zwei Königskinder
-- [ ] `ts041_zur_chronik_von_grieshuus` - Zur Chronik von Grieshuus
-- [ ] `ts042_ein_fest_auf_haderslevhuus` - Ein Fest auf Haderslevhuus
-- [ ] `ts043_john_riew` - John Riew'
-- [ ] `ts044_boetjer_basch` - Bötjer Basch
-- [ ] `ts045_ein_bekenntnis` - Ein Bekenntnis
-- [ ] `ts046_ein_doppelgaenger` - Ein Doppelgänger
-- [ ] Reconcile the "47 staged" claim in `README.md` and `REFERENCES.md` once the plays above are staged
+- [x] `ts001_im_saal` - Im Saal
+- [x] `ts004_posthuma` - Posthuma
+- [x] `ts005_im_sonnenschein` - Im Sonnenschein
+- [x] `ts006_angelika` - Angelika
+- [x] `ts007_ein_gruenes_blatt` - Ein grünes Blatt
+- [x] `ts008_wenn_die_aepfel_reif_sind` - Wenn die Äpfel reif sind
+- [x] `ts009_auf_dem_staatshof` - Auf dem Staatshof
+- [x] `ts010_spaete_rosen` - Späte Rosen
+- [x] `ts011_drueben_am_markt` - Drüben am Markt
+- [x] `ts012_veronika` - Veronika
+- [x] `ts013_im_schloss` - Im Schloß
+- [x] `ts014_unter_dem_tannenbaum` - Unter dem Tannenbaum
+- [x] `ts015_abseits` - Abseits
+- [x] `ts016_auf_der_universitaet` - Auf der Universität
+- [x] `ts017_von_jenseit_des_meeres` - Von Jenseit des Meeres
+- [x] `ts018_eine_malerarbeit` - Eine Malerarbeit
+- [x] `ts019_in_st_juergen` - In St. Jürgen
+- [x] `ts020_von_kindern_und_katzen_und_wie_sie_die_metti_begru` - Von Kindern und Katzen, und wie sie die Metti begruben
+- [x] `ts021_der_amtschirurgus_heimkehr` - Der Amtschirurgus - Heimkehr
+- [x] `ts022_eine_halligfahrt` - Eine Halligfahrt
+- [x] `ts023_draussen_im_heidedorf` - Draußen im Heidedorf
+- [x] `ts024_beim_vetter_christian` - Beim Vetter Christian
+- [x] `ts025_pole_poppenspaeler` - Pole Poppenspäler
+- [x] `ts026_viola_tricolor` - Viola tricolor
+- [x] `ts027_waldwinkel` - Waldwinkel
+- [x] `ts028_ein_stiller_musikant` - Ein stiller Musikant
+- [x] `ts029_im_nachbarhause_links` - Im Nachbarhause links
+- [x] `ts030_psyche` - Psyche
+- [x] `ts031_aquis_submersus` - Aquis submersus
+- [x] `ts032_carsten_curator` - Carsten Curator
+- [x] `ts033_renate` - Renate
+- [x] `ts034_im_brauerhause` - Im Brauerhause
+- [x] `ts035_die_soehne_des_senators` - Die Söhne des Senators
+- [x] `ts036_eekenhof` - Eekenhof
+- [x] `ts037_der_herr_etatsrat` - Der Herr Etatsrat
+- [x] `ts038_hans_und_heinz_kirch` - Hans und Heinz Kirch
+- [x] `ts039_schweigen` - Schweigen
+- [x] `ts040_es_waren_zwei_koenigskinder` - Es waren zwei Königskinder
+- [x] `ts041_zur_chronik_von_grieshuus` - Zur Chronik von Grieshuus
+- [x] `ts042_ein_fest_auf_haderslevhuus` - Ein Fest auf Haderslevhuus
+- [x] `ts043_john_riew` - John Riew'
+- [x] `ts044_boetjer_basch` - Bötjer Basch
+- [x] `ts045_ein_bekenntnis` - Ein Bekenntnis
+- [x] `ts046_ein_doppelgaenger` - Ein Doppelgänger
+- [x] Reconcile the "47 staged" claim in `README.md` and `REFERENCES.md` once the plays above are staged
+
