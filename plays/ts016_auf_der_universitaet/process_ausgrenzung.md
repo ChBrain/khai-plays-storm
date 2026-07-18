@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "ausgrenzung"
-declared: "Die Ausgrenzung"
+declared: "Die soziale Ausgrenzung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Die Ausgrenzung
+# Process: Die soziale Ausgrenzung
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das unrechtmässige Eindringen des verarmten Flickschneiderkindes Lore in bürgerliche und adlige Tanzzirkel.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Das zunehmende Gespött, die öffentliche Brandmarkung als falsche Geliebte und der Verlust jeglicher bürgerlicher Ehre.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das unbarmherzige Standesbewusstsein der Stadt und der Zynismus des Raugrafen.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Die spöttischen Rufe als falsche Gräfin und das eisige Schweigen der Kleinstädter.

@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "kleid"
-declared: "Das Kleid"
+declared: "Das Ballkleid"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Piece: Das Kleid
+# Piece: Das Ballkleid
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Der Tanzsaal](place_tanzsaal.md).
+Das Objekt befindet sich in [Der Tanzsaal](place_tanzsaal.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es steht für Lores Schönheit, ihre Sehnsucht nach sozialem Aufstieg und ihre Verwundbarkeit.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein einfaches, aber geschmackvolles, helles Ballkleid mit feinen Spitzenbändern und leichten Falten.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein Tragen durch Lore beim Tanzunterricht zieht die Aufmerksamkeit der bürgerlichen Knaben auf sie.

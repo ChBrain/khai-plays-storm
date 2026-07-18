@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "schneiderstochter"
-declared: "Schneiderstochter"
+declared: "Die Schneiderstochter"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Schneiderstochter
+# Position: Die Schneiderstochter
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den geringen gesellschaftlichen Status der Tochter eines Flickschneiders und das Recht zur Teilnahme am Tanzunterricht.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Sie hilft im Haushalt, fügt sich den bürgerlichen Erwartungen und versucht ihre Existenz abzusichern.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Sie verliert ihren guten Ruf und die bürgerliche Achtung durch die Liaison mit dem Raugrafen.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Entkommen aus der drückenden Armut, die Sehnsucht nach Schönheit und die eheliche Verbindung mit Christoph.

@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Ein heller, festlich geschmückter Tanzsaal im Grünen mit spiegelndem Parkettboden und Kronleuchtern.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Er beherbergt die Tanzlehrer, die Musiker, die tanzenden Paare, Gelächter und die Standesgrenzen.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Er bietet die Bühne für den ersten Tanzunterricht und die späteren ausschweifenden Studentenkränzchen.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Er verweigert der nackten, bitteren Armut des Alltags und der wahren moralischen Ehre jeden Zutritt.
