@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "John"
-declared: "John"
+title: "John Riew'"
+declared: "John Riew'"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,11 +10,11 @@ stamp:
 type: fictional
 ---
 
-# Persona: John
+# Persona: John Riew'
 
 ## Taxonomy
 
-Die Hauptfigur in [John Riew'](play_ts043_john_riew.md) und Träger der Position [Kapitän](position_kapitaen.md).
+Der pensionierte Schiffskapitän in [John Riew'](play_ts043_john_riew.md) und Inhaber der Position [Der Kapitaen](position_kapitaen.md).
 
 ## Owner
 
@@ -22,16 +22,16 @@ Die Hauptfigur in [John Riew'](play_ts043_john_riew.md) und Träger der Position
 
 ## Projection
 
-Eine vielschichtige Figur, die die zentralen Konflikte der Erzählung verkörpert. Die Sprache ist ein klares, ausdrucksstarkes Hochdeutsch.
+Ein wettergegerbter, kräftiger älterer Seemann mit weissbärtigem Gesicht und gutmütigen, wachsamen Augen. Seine Stimme ist rau, tief und trägt die unerschütterliche Ruhe eines Mannes, der viele Stürme erlebt hat.
 
 ## Action
 
-Die Figur agiert im Zentrum des Geschehens, konfrontiert die Herausforderungen der Handlung und treibt die Entwicklung voran.
+Er führt Riekchen durch die Kindheit, schliesst den Pakt zur Erziehung, sucht sie verzweifelt in St. Pauli und pflegt sie geduldig gesund.
 
 ## Shadow
 
-Die Figur kämpft mit ihren inneren Zweifeln und den Begrenzungen ihrer eigenen Rolle.
+Die ständige, manchmal erstickende Sorge, dass er die Geister der Vergangenheit durch zu strenge Hausordnung nicht bannen kann.
 
 ## Tell
 
-Ein nachdenklicher Blick und eine bedachte, ruhige Gestik.
+Das behutsame, langsame Stopfen seiner Pfeife, wenn er über Riekchens Zukunft nachdenkt.

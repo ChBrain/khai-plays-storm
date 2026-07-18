@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "kapitaen"
-declared: "Kapitän"
+declared: "Der Kapitaen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Kapitän
+# Position: Der Kapitaen
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den respektierten gesellschaftlichen Status eines Seebefehlshabers im Ruhestand, eine kleine Rente und Autorität.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er leitet den Haushalt in Altona, bestimmt Riekchens Lebensweg und führt die Pflegschaft über sie aus.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert zeitweise die Kontrolle über Riekchens Wohlbefinden, als sie der Sucht nachgibt.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Die Erfüllung seines Treuegelübdes gegenüber Rick, der Schutz Riekchens und die Bewahrung von Anstand.
