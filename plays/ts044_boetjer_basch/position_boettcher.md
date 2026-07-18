@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "boettcher"
-declared: "Böttcher"
+declared: "Der Boettcher"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Position: Böttcher
+# Position: Der Boettcher
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die zentrale Handlungsfähigkeit und die Verantwortung für den Verlauf der Geschichte.
+Den zünftigen Meisterstatus eines Böttchers, das Recht zur Werkstattführung und die handwerkliche Fachkompetenz.
 
 ## Orders
 
-Die Figur lenkt das Geschehen durch ihre Entscheidungen und beeinflusst die Entwicklung des Konflikts.
+Er fertigt Fässer, botticht Hölzer, zieht Fassreifen auf und führt das traditionelle Böttchergewerbe fort.
 
 ## Loses
 
-Die Figur verliert ihre Illusionen und muss sich den harten Realitäten ihrer Umwelt stellen.
+Er verliert mit dem Aufkommen industrieller Metallfässer an wirtschaftlicher Kraft und Ansehen.
 
 ## Drives
 
-Der Drang nach Erkenntnis und Selbstbestimmung treibt die Figur durch die Handlung.
+Das Erhalten des traditionellen Handwerks, das Sichern des väterlichen Hauses und das Auskommen für Fritz.

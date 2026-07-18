@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der zentrale Handlungsort, der die Stimmung und die Atmosphäre der Erzählung widerspiegelt.
+Eine rußige, nach Holzspan und Leim riechende Böttcherwerkstatt mit Hobelbänken, Hämmern und unfertigen Fässern.
 
 ## Holds
 
-Er birgt die Spuren der Vergangenheit und ist der Raum, in dem sich die Konflikte entfalten.
+Sie beherbergt die Werkzeuge, Fassreifen, Holzdauben und die schwindende Arbeit von Daniel Basch.
 
 ## Offers
 
-Er bietet den Figuren einen Ort der Begegnung und des Rückzugs.
+Sie bietet Daniel den Raum für sein Handwerk und Fritz die Stätte für seine erste handwerkliche Lehre.
 
 ## Withheld
 
-Er verbirgt die kommenden Wendungen des Schicksals vor den Blicken der Figuren.
+Sie verweigert der modernen, schnellen Fabrikation und dem geschäftigen Lärm der Grossstadt jeden Einlass.
