@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "sehnsucht"
-declared: "Die Sehnsucht"
+declared: "Sehnsucht"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Pitch: Die Sehnsucht
+# Pitch: Sehnsucht
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Die melancholische Grundstimmung und der getragene Ton, der das Werk durchzieht.
+Das schmerzhafte Verlangen nach dem geliebten Menschen über unüberwindbare gesellschaftliche Standesgrenzen hinweg.
 
 ## Undertow
 
-Der unterschwellige Konflikt zwischen Tradition und Wandel, der die Figuren beeinflusst.
+Das nagende Gefühl der Hoffnungslosigkeit, das jede Lebensfreude im Schatten des Verbots erstickt.
 
 ## Nerve
 
-Der emotionale Kern der Geschichte, der die Zerrissenheit der Hauptfigur spürbar macht.
+Der Moment, in dem Marx stumm an Lineles Haus vorbeigeht und nur ihren Schatten am Vorhang sieht.
 
 ## Echo
 
-Das Nachhallen des Erlebten im Bewusstsein der Zuschauer und Leser.
+Das wehmütige Seufzen des Publikums über die Grausamkeit gesellschaftlicher Schranken.
