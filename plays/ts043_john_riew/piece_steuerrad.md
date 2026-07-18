@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Das Objekt befindet sich am [Die Hafenstube](place_hafenstube.md).
+Das Objekt befindet sich in [Der Hamburger Hafen](place_hafen.md).
 
 ## Load Bearing
 
-Es trägt die symbolische Last des Geschehens und verdeutlicht die Kernthemen.
+Es steht für die Navigationsgewalt und die Kontrolle, die die Kapitäne über ihr Schicksal behalten müssen.
 
 ## Apparent
 
-Ein augenscheinlich bedeutsames Element der Szenerie, das die Aufmerksamkeit auf sich zieht.
+Ein grosses, schweres Steuerrad aus Messing und lackiertem Eichenholz mit glänzenden Speichen.
 
 ## Yearbook
 
-Sein Schicksal oder seine Funktion spiegelt den Ausgang der dramatischen Handlung wider.
+Sein zögerndes Bedienen durch den betrunkenen Rick führt zum fast vollzogenen Schiffbruch der Fortuna.

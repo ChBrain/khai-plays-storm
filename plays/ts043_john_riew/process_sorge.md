@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "sorge"
-declared: "Die Sorge"
+declared: "Die staendige Sorge"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-11"
 ---
 
-# Process: Die Sorge
+# Process: Die staendige Sorge
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Die veränderten Umstände und das Handeln der Figuren.
+Das Versprechen gegenüber Rick, die Vormundschaft über Riekchen zu übernehmen.
 
 ## Direction
 
-Der Prozess führt zu einer tiefgreifenden Veränderung der Beziehungen und der Situation.
+Die wachsende Angst vor Riekchens Neigungen, die ständige Beobachtung ihres Verhaltens und der Verdacht auf Rückfall.
 
 ## Lever
 
-Der wesentliche Einflussfaktor ist das Zusammenspiel der inneren Konflikte und äußeren Zwänge.
+Der wesentliche Einflussfaktor ist das Wissen um Ricks Schicksal und die Warnungen des Arztes.
 
 ## Echo
 
-Die spürbaren Auswirkungen und bleibenden Spuren im Leben der Figuren am Ende der Entwicklung.
+Riew's schlaflose Nächte und sein unruhiges Auf- und Abgehen in derAltonaer Stube.
