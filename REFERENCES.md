@@ -24,7 +24,7 @@ permanent handle; genre, year, and edition band live in the record. See
 `canon/README.md` for the scheme and the citation/IP posture.
 
 - **224** works registered (47 Novellen · 7 Märchen · 4 Kleine Prosa · 166 Gedichte)
-- **54** staged · **170** planned
+- **55** staged · **169** planned
 - **0** carry `date_status: unverified` (year pending the DKV Bd. 1 apparatus; see the backfill path in `canon/README.md`)
 
 ### Novellen (`TS-001–099`)
@@ -95,7 +95,7 @@ permanent handle; genre, year, and edition band live in the record. See
 
 | TS     | Work                                | Year | Status  |
 | ------ | ----------------------------------- | ---- | ------- |
-| TS-300 | Für meine Söhne †                   | 1854 | planned |
+| TS-300 | Für meine Söhne †                   | 1854 | staged  |
 | TS-301 | Zwei Kuchenesser der alten Zeit     | 1873 | planned |
 | TS-302 | Meine Erinnerungen an Eduard Mörike | 1876 | planned |
 | TS-303 | Von heut und ehedem                 | 1874 | planned |
