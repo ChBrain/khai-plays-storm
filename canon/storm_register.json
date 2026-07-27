@@ -885,8 +885,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": true,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts300_fuer_meine_soehne",
       "note": "Autobiographical prose circulated 1854; first public print year uncertain."
     },
     {
