@@ -901,8 +901,8 @@
       "embedded_in": null,
       "ll_band": 4,
       "doubtful": false,
-      "status": "planned",
-      "play": null,
+      "status": "staged",
+      "play": "ts301_zwei_kuchenesser",
       "note": "In 'Zerstreute Kapitel' 1873."
     },
     {
