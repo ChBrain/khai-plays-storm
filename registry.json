@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-storm",
-  "version": "0.54.0",
+  "version": "0.55.0",
   "plays": [
     {
       "kind": "play",
@@ -326,6 +326,12 @@
       "id": "ts206_maerchen_von_den_drei_spinnfrauen",
       "title": "Das Märchen von den drei Spinnfrauen",
       "description": "Eine Inszenierung von Theodor Storms Märchen von den drei Spinnfrauen aus dem Jahr 1846."
+    },
+    {
+      "kind": "play",
+      "id": "ts301_zwei_kuchenesser",
+      "title": "Zwei Kuchenesser der alten Zeit",
+      "description": "Eine Inszenierung über Husums skurrile Kuchenliebhaber und den gesundheitsapostolischen Urhygieniker Ernst Mahner."
     }
   ]
 }
